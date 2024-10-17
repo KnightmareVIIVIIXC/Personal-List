@@ -1,0 +1,11 @@
+{
+	"name": "Lite Disallowed Clients",
+	"sources": [{
+			"source": "https://malware-filter.gitlab.io/malware-filter/botnet-filter.txt"
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hosting"
+		}, {
+			"source": "includeclient.txt"
+		}],
+	"transformations": ["Deduplicate", "RemoveComments", "RemoveEmptyLines", "TrimLines"]
+}

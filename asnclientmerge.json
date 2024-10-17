@@ -1,0 +1,12 @@
+{
+	"name": "ASNs and Disallowed Clients Merged",
+	"description": "Paste entries into disallowed clients in Adguard DNS",
+	"sources": [{
+			"source": "includeclient.txt"
+		}, {
+			"source": "lite_disallowed_clients.txt"
+		}, {
+			"source": "asnspam.txt"
+		}],
+	"transformations": ["Deduplicate", "RemoveComments", "RemoveEmptyLines", "TrimLines"]
+}

@@ -1,0 +1,1 @@
+../../phishfort-lists/domain-only/whitelist_domains.txt
