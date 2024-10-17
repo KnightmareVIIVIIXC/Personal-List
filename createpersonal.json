@@ -1,1 +1,81 @@
-../../FBAIOBuildtools/alist/createpersonal.json
+{
+	"name": "Personal List",
+	"sources": [{
+			"source": "disconnect_ads_malvertising.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/nocoin-list/raw/master/hosts.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/KnightmareVIIVIIXC/The-Big-List-of-Hacked-Malware-Web-Sites/raw/master/hosts",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/AssoEchap/stalkerware-indicators/raw/master/generated/quad9_blocklist.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://big.oisd.nl/",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "domlists/firebogsus.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/AssoEchap/stalkerware-indicators/raw/master/generated/hosts_full",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/malware.hosts",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/ShadowWhisperer/BlockLists/raw/master/Lists/Cryptocurrency",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/ShadowWhisperer/BlockLists/raw/master/Lists/Malware",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://github.com/ShadowWhisperer/BlockLists/raw/master/Lists/Scam",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
+			"source": "personal_include.txt"
+		}],
+	"transformations": ["Compress", "RemoveComments", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["personal_exclude.txt"],
+	"inclusions": ["*.*"]
+}
