@@ -21,3 +21,4 @@ ff02::3 ip6-allhosts
 ||amazonaws.com^
 ||bitbucket.org^
 ||edgesuite.net^
+||beenverified.com^
