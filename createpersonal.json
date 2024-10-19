@@ -49,9 +49,6 @@
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
-			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
 		}, {
