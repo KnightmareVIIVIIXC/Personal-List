@@ -16,9 +16,9 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 ||localhost.localdomain^
-||a-0001.a-msedge.net^
-||akamai.net^
-||amazonaws.com^
+! ||a-0001.a-msedge.net^
+! ||akamai.net^
+! ||amazonaws.com^
 ||bitbucket.org^
-||edgesuite.net^
+! ||edgesuite.net^
 ||beenverified.com^
