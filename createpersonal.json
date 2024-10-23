@@ -1,6 +1,9 @@
 {
 	"name": "Personal List",
 	"sources": [{
+			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts",
 			"transformations": ["RemoveComments", "Compress", "RemoveModifiers"]
 		}, {
