@@ -8,6 +8,8 @@ https://github.com/AdguardTeam
 
 https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds
 
+https://github.com/cbuijs/ut1
+
 https://github.com/hagezi/dns-blocklists
 
 https://github.com/jarelllama/Scam-Blocklist
