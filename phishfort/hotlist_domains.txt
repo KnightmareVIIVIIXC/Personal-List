@@ -271,6 +271,7 @@ account.paxfullpay.com
 stonexusdt.com
 wallet-connect-a2g.pages.dev
 mail.live-trezor-validation.com
+pancakeweb3.pages.dev
 unifiedchain.pages.dev
 unitfly.online
 allchainfix.pages.dev
@@ -1036,6 +1037,7 @@ kathleenv.com
 app.1inch-v2.xyz
 web-trewsoer.azurewebsites.net
 revoke-test.vercel.app
+zerioneswoq.top
 live-en-trezor.github.io
 pladamousaribached.com
 trade.broker-interactive.com
@@ -1623,6 +1625,7 @@ dappbays.pages.dev
 iosuite-trezor.com
 rplanet-io.vercel.app
 nvidiastore.shop
+multipancakeswapdapps.pages.dev
 terzoeuwallet.azurewebsites.net
 truflation-revoke.cash
 smartsecuredauth.pages.dev
@@ -1814,6 +1817,7 @@ applovinusa.com
 airtm-2.cam
 usecorn-en.us
 smartchainresolve.pages.dev
+defichainfix.pages.dev
 stanicpay.com
 woltersklumer.com
 clark-constrn.com
@@ -2279,6 +2283,7 @@ zelensk-official.top
 approvechain.pages.dev
 mainnet-bugresolver.pages.dev
 pancakesvap.finance-v3-dex.exchange
+networkchainscorrector.pages.dev
 eperiwinkled.info
 nodeuniaffixsync.on-fleek.app
 407etr.report
@@ -2507,6 +2512,7 @@ www.saksoff5th-bag.com
 dekentredent.pages.dev
 access407etr.report
 swiftverseapp.pages.dev
+pancakeswap-datas.pages.dev
 senapsy-protocoll.org
 sunpumpe.net
 v2-pahcakesvvap.com
