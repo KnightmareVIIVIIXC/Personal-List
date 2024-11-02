@@ -23,7 +23,7 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
+			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
