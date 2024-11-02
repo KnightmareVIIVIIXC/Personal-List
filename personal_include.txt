@@ -1,4 +1,3 @@
-||apple.com^
 ||bing.com^
 ||goggle.com^
 ||msn.com^
