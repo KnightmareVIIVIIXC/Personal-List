@@ -20,13 +20,10 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/malware.hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/trackers.hosts",
+			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
