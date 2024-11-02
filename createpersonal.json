@@ -1,0 +1,55 @@
+{
+	"name": "Disallowed Domains",
+	"description": "Bad Domain List",
+	"sources": [{
+			"source": "hotlist_domains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "phishing_domains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "personal_include.txt"
+		}],
+	"transformations": ["Compress", "RemoveComments", "Validate", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["personal_exclude.txt"],
+	"inclusions": ["*.*"]
+}
