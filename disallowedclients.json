@@ -50,14 +50,6 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt"
 		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Extreme"
-		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/High"
-		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Medium"
-		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Low"
-		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers"
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers_Old"
