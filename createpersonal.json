@@ -20,13 +20,10 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
+			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
