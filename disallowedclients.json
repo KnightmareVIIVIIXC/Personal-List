@@ -28,6 +28,8 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.ip"
 		}, {
+			"source": "https://raw.githubusercontent.com/borestad/blocklist-abuseipdb/main/abuseipdb-s100-30d.ipv4"
+		}, {
 			"source": "https://raw.githubusercontent.com/cbuijs/ut1/master/ads/ips.original"
 		}, {
 			"source": "https://raw.githubusercontent.com/cbuijs/ut1/master/malware/ips.original"
@@ -46,9 +48,47 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt"
 		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_new_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_updated_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/coinbl_hosts.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_dictionary_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_harvesters_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_spammers_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sblam.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_30d.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/tor_exits_30d.ipset"
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt"
+		}, {
+			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-40k.txt"
+		}, {
+			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-aa.txt"
+		}, {
+			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-ab.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers"
 		}, {
