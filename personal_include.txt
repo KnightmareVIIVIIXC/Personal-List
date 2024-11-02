@@ -1,4 +1,5 @@
 ||bing.com^
 ||goggle.com^
 ||msn.com^
+||pages.dev^
 ||yahoo.com^

@@ -14,7 +14,7 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.mini.txt",
