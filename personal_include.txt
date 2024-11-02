@@ -34,7 +34,4 @@
 ||tiltbrush.com^
 ||twitterr.com^
 ||urdxh.com^
-||version.bind^
-||version.server^
-||wck.org^
 ||yahoo.com^
