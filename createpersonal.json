@@ -20,6 +20,9 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
