@@ -20,10 +20,10 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
+			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
