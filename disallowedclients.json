@@ -24,15 +24,9 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.ip"
 		}, {
-			"source": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.ip"
-		}, {
-			"source": "https://raw.githubusercontent.com/cbuijs/ut1/master/ads/ips.original"
-		}, {
 			"source": "https://raw.githubusercontent.com/cbuijs/ut1/master/malware/ips.original"
 		}, {
 			"source": "https://raw.githubusercontent.com/cbuijs/ut1/master/phishing/ips.original"
-		}, {
-			"source": "https://raw.githubusercontent.com/cbuijs/ut1/master/publicite/ips.original"
 		}, {
 			"source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/Dandelion%20Sprout's%20and%20other%20adblocker%20lists'%20IPs.ipset"
 		}, {
@@ -44,23 +38,9 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt"
 		}, {
-			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/coinbl_hosts.ipset"
-		}, {
-			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset"
-		}, {
-			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset"
-		}, {
-			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sblam.ipset"
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-40k.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-aa.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-ab.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers"
 		}, {
