@@ -23,7 +23,10 @@
 			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/malware.hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/trackers.hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
