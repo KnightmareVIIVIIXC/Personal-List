@@ -83,5 +83,6 @@
 			"source": "includeclient.txt"
 		}],
 	"transformations": ["RemoveComments", "Compress", "RemoveModifiers", "ValidateAllowIp", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["excludeclient.txt"],
 	"inclusions": ["*.*"]
 }
