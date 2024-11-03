@@ -28,6 +28,9 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {

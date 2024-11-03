@@ -1,6 +1,8 @@
 {
 	"name": "Bad IP List",
 	"sources": [{
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestips.txt"
+		}, {
 			"source": "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
 		}, {
 			"source": "https://cinsscore.com/list/ci-badguys.txt"
@@ -32,6 +34,10 @@
 			"source": "https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt"
 		}, {
 			"source": "https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_compromised.ipset"
+		}, {
+			"source": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset"
 		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt"
 		}, {
