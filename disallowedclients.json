@@ -1,8 +1,6 @@
 {
 	"name": "Bad IP List",
 	"sources": [{
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestips.txt"
-		}, {
 			"source": "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
 		}, {
 			"source": "https://cinsscore.com/list/ci-badguys.txt"
