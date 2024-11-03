@@ -19,9 +19,6 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
