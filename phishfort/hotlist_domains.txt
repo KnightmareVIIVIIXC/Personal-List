@@ -41,6 +41,7 @@ pay.acceptransfer.com
 svizzeranights.net
 uusecorn.com
 updatedsetting.com
+abaccelerator.net
 mon-espace-ursaf.fr
 pancakcswap.org
 1lnchceth.top
@@ -144,6 +145,7 @@ eqopal.com
 unibotclaim.pages.dev
 dapp-auth.pages.dev
 schoolsfirstfcu.help
+himscareers.com
 trezoriostart73.godaddysites.com
 pepsi.svengit.com
 learcorp.us
@@ -1868,7 +1870,6 @@ trezaorwallet.azurewebsites.net
 ajbell.dixp.site
 docs-start-en-trezor.pages.dev
 janushenderson.group
-m.equinor-vip.online
 login-bitkub-get-btc.kesug.com
 safstarpaye.com
 integratesmart-app.pages.dev
@@ -2686,7 +2687,6 @@ dogs-airdrop-claim.vercel.app
 trrezorwalle.azurewebsites.net
 pink-sale.pages.dev
 argos-clearance.com
-m.equinor-vip.vip
 ats.bytel.actual-talent.com
 coinmulti-wallet.pages.dev
 faq-trezor.github.io
@@ -2791,7 +2791,6 @@ fundswarrant.com
 en1ip6.gareenmountain4.ir
 truezr-wolletx.godaddysites.com
 app.kolrak.network
-dappwebresolver.pages.dev
 megafixapp.pages.dev
 1inchapp.vip
 ibkr.cloud
