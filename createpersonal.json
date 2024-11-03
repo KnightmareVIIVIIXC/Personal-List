@@ -7,16 +7,13 @@
 			"source": "phishing_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.mini.txt",
+			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams_light.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
@@ -28,7 +25,22 @@
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"source": "https://v.firebog.net/hosts/Prigent-Malware.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://someonewhocares.org/hosts/zero/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt"
