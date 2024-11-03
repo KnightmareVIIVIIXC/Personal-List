@@ -18,6 +18,8 @@ https://github.com/PeterDaveHello/threat-hostlist
 
 https://github.com/phishfort/phishfort-lists
 
+https://oisd.nl/
+
 https://www.spamhaus.org/blocklists/do-not-route-or-peer/
 
 https://threatview.io/
