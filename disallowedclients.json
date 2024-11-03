@@ -1,6 +1,5 @@
 {
-	"name": "Disallowed Clients",
-	"description": "Bad IP List",
+	"name": "Bad IP List",
 	"sources": [{
 			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestips.txt"
 		}, {
@@ -40,6 +39,10 @@
 		}, {
 			"source": "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt"
 		}, {
+			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-40k.txt"
+		}, {
+			"source": "https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-aa.txt"
+		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers"
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers_Old"
@@ -49,20 +52,6 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Scanners"
 		}, {
 			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt"
-		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
 		}, {
 			"source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-dnscrypt-blocked-ips.txt"
 		}, {
