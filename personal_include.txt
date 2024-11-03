@@ -1,5 +1,8 @@
 ||bing.com^
+||mqtt-mini.facebook.com^
 ||goggle.com^
+||graph.instagram.com^
 ||msn.com^
 ||pages.dev^
+||userlocation.googleapis.com^
 ||yahoo.com^
