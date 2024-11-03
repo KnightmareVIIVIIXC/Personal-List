@@ -7,6 +7,9 @@
 			"source": "phishing_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -23,9 +26,6 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
