@@ -740,6 +740,7 @@ virginmoneyonlinehelp.web.app
 trezor.io-eu-us.com
 1inch6.cc
 qqmall.org
+opdrytoday.store
 walletguardapp.pages.dev
 trezorsuite.live
 reviewdanhgia.com
@@ -2234,7 +2235,6 @@ revokecash.sbs
 bacbuk.com
 fundsinpro.com
 unitedhealthcarebilling.com
-agodaflights.online
 alfanra.com
 arabimobilebank.org
 lifeefitness.com
@@ -2984,7 +2984,6 @@ deegndropapp.pages.dev
 walletdapprectify.pages.dev
 alshaayagrooup.com
 taleesman.world
-teearzorwallet.azurewebsites.net
 tezoiriosuits.azurewebsites.net
 dappwalletsnode.pages.dev
 trezorassist.com

@@ -10,13 +10,13 @@
 			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency",
@@ -25,10 +25,22 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+			"source": "https://threatfox.abuse.ch/downloads/hostfile",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://urlhaus.abuse.ch/downloads/hostfile/",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://quidsup.net/notrack/blocklist.php?download=annoyancedomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
@@ -38,6 +50,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://someonewhocares.org/hosts/zero/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt"
