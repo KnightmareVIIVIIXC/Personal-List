@@ -13,13 +13,10 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams_light.txt",
+			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
