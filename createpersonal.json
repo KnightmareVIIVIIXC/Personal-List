@@ -7,6 +7,9 @@
 			"source": "phishing_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -43,6 +46,9 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -64,16 +70,16 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "domlists/firebogsusad.txt",
+			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "domlists/firebogsus.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt"
