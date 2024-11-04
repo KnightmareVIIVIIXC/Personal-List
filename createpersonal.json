@@ -124,7 +124,7 @@
 			"source": "https://v.firebog.net/hosts/Admiral.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://adaway.org/hosts.txt",
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/adaway/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "domlists/firebogsus.txt",
