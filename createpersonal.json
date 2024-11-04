@@ -70,9 +70,6 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
