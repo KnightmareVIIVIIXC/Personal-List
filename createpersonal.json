@@ -10,7 +10,7 @@
 			"source": "https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
+			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams_light.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
@@ -40,6 +40,9 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/nocoin-list/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -47,6 +50,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
@@ -70,10 +76,13 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"source": "domlists/firebogad.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "domlists/firebogsus.txt",
