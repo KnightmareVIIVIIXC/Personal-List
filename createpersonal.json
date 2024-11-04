@@ -109,10 +109,22 @@
 			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Admiral.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://adaway.org/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "domlists/firebogsus.txt",
