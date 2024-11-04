@@ -25,9 +25,6 @@
 			"source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
