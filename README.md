@@ -12,6 +12,8 @@ https://github.com/cbuijs/ut1
 
 https://github.com/hagezi/dns-blocklists/blob/main/sources.md
 
+https://github.com/jarelllama
+
 https://github.com/PeterDaveHello/threat-hostlist
 
 https://github.com/phishfort/phishfort-lists
