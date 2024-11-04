@@ -25,6 +25,9 @@
 			"source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -55,6 +58,9 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/nocoin-list/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -62,6 +68,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
