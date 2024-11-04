@@ -17,7 +17,6 @@ hotel-jp.com
 www.eftoursap.net
 do6fh-89hr8-36asf.s3.amazonaws.com
 sparkfi-tokens.app
-petitionpresidentgovua24.online
 en-trezor-bridge.github.io
 protechpc.org
 secureshieldbox.com
@@ -571,6 +570,7 @@ app-bugsolution.pages.dev
 tpgws.msfnf.xyz
 blockdag-network-rectification.pages.dev
 app-1incih.net
+treezorwalleets.azurewebsites.net
 janestreet-india.cc
 app-masdar-global.com
 migration-chaingpt.pages.dev
@@ -840,6 +840,7 @@ syncdappw.pages.dev
 dglibre.live
 redex-cloud.pages.dev
 trezr-us.github.io
+agoda-reservation.site
 navihealth.pages.dev
 dappzerionintelclaim.pages.dev
 io-start-trezor.github.io
@@ -849,7 +850,6 @@ smart-activeglobechain.pages.dev
 paxfullpay.com
 tripon407-etr.com
 saksof-5th.com
-axieinfinityaxs.com
 dapp-web3.pages.dev
 tymbank-sassa-grant-loan.blogspot.com
 securetimiclaim.pages.dev
@@ -1254,7 +1254,6 @@ axieinfin.co
 www.atkinsrealis.live
 efficient-fluorescent-dahlia.glitch.me
 equinix-digital.top
-user.trezorwallet-app.org
 remotepharmacy.org
 bravecall.me
 1incjh-oi.org
@@ -1638,7 +1637,6 @@ albemarle.top
 univentdepend.pages.dev
 hbc-usdt.vip
 jumper-lf7408jump.pages.dev
-plscardshareoq.pages.dev
 websites.walltscheck.shop
 dapp-c.pages.dev
 blockdag-coinbase.com
@@ -1676,7 +1674,6 @@ teresitcdurree.shop
 1lnchapp.pages.dev
 paxfulbio.com
 cloudresolution.pages.dev
-cliffordchance-llp.com
 omantel.aed.sa.com
 1inch.io-swap.org
 mail.tzdigitaltrade.io
@@ -1801,7 +1798,6 @@ pancakeswap-api.pages.dev
 app-1incjn.pw
 www.agodaso.com
 admissions.blackgoddessrising.com
-trezarsuite-suite.com
 app.roninchainstaking.com
 dogitafairlunchclaim.pages.dev
 smartblocksfix.pages.dev
@@ -2894,7 +2890,6 @@ lovinapp.biz
 allocate-axie.co
 ssc.yset008.com
 dappmainet.pages.dev
-secure.trezor-update.com
 tollon407-etr.com
 coinomize-mixer.pages.dev
 www.xenrial.com
@@ -2977,7 +2972,6 @@ qubetic-network.web.app
 ecommerce.autotechguru.com
 palpayvista.netlify.app
 web-suite-trezor.com
-web.qykib773.icu
 dapp-fixxing.pages.dev
 trezor.io-en-en.com
 erizron1io.azurewebsites.net
