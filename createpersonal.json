@@ -109,12 +109,6 @@
 			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Easyprivacy.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "domlists/firebogad.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "domlists/firebogsus.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {

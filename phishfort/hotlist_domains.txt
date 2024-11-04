@@ -2017,7 +2017,6 @@ defi-universaldapps.xyz
 volkswagen-demo.pages.dev
 learn-docs-trezor.github.io
 ua-zelengo.top
-im.janushenderson.shop
 www.connectfix.globalnetab.com
 bridge-trazero.github.io
 scarjacou.com
