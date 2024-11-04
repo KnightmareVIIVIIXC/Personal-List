@@ -109,6 +109,9 @@
 			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "domlists/firebogsus.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
