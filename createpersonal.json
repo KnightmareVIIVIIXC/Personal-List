@@ -64,6 +64,9 @@
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://threatfox.abuse.ch/downloads/hostfile",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
