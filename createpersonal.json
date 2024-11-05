@@ -40,6 +40,18 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
