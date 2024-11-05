@@ -55,6 +55,9 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
