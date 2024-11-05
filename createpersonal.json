@@ -100,9 +100,6 @@
 			"source": "https://urlhaus.abuse.ch/downloads/hostfile/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
