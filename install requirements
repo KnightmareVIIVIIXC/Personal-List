@@ -1,6 +1,6 @@
 >>>>>^<<<<<
 > Node.js <
->> Install node.js with additional tools, then run the following 'npm' command in a console window <<
+>> Install node.js with additional tools, then run the following `npm` command in a console window <<
 
 npm i -g @adguard/hostlist-compiler
 
