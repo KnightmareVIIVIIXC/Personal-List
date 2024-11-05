@@ -76,7 +76,7 @@
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/MVPS-Hosts-File/main/hosts.txt",
+			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://someonewhocares.org/hosts/zero/hosts",
