@@ -70,6 +70,9 @@
 			"source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
