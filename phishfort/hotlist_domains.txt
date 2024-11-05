@@ -957,7 +957,6 @@ www.moneypak-secure.com
 dappdefimodule.pages.dev
 teleedlescestable.com
 payep.life
-iqfdoyvh.top
 webprotocol-sol.pages.dev
 1116b76.wcomhost.com
 meta-smartnitroverse.pages.dev
@@ -2243,6 +2242,7 @@ www-1inchiv2.network
 dapp-synrectify.pages.dev
 www.agodalhome.com
 ctrk.klclick.com
+revokeeth.cash
 1-inch-jean-marcs-projects-16bb03b2.vercel.app
 nexusoptimal-port.pages.dev
 starknet-claim.pages.dev
@@ -2332,7 +2332,6 @@ www.applovin.site
 dappcoinclaim.pages.dev
 initia-claims.vercel.app
 adppayrollservices.techvistadigital.com
-teacheraiassistant.com
 blockrectify.com
 h-ao2.pages.dev
 meetaccept.com
@@ -2616,6 +2615,7 @@ rrm.dev.exab-development.com
 dapps-rectifications.pages.dev
 nodeunfixdefi.pages.dev
 jiemaqi.vip
+plum223104.studio.site
 www.lovinapp.top
 start-org-trezor.github.io
 ordinalsolchain.pages.dev
