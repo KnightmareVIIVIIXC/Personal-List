@@ -4,9 +4,6 @@
 			"source": "hotlist_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "phishing_domains.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -77,6 +74,12 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Malware.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
