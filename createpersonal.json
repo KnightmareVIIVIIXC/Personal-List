@@ -37,6 +37,9 @@
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
