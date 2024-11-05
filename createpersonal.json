@@ -76,6 +76,9 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/MVPS-Hosts-File/main/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://someonewhocares.org/hosts/zero/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "personal_include.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}],
