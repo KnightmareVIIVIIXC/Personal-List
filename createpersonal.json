@@ -70,6 +70,9 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/nocoin-list/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
