@@ -1,9 +1,6 @@
 {
 	"name": "Bad Domain List",
 	"sources": [{
-			"source": "hotlist_domains.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "phishing_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
