@@ -18,11 +18,11 @@ https://github.com/PeterDaveHello/threat-hostlist
 
 https://github.com/phishfort/phishfort-lists
 
-https://github.com/ShadowWhisperer/BlockLists
+https://github.com/ShadowWhisperer
 
 https://github.com/StevenBlack/hosts#sources-of-hosts-data-unified-in-this-variant
 
-https://oisd.nl/includedlists
+https://oisd.nl/includedlists/big/0
 
 https://www.spamhaus.org/blocklists/do-not-route-or-peer/
 
