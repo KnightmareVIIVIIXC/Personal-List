@@ -7,6 +7,21 @@
 			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -25,18 +40,6 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -50,9 +53,6 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
