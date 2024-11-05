@@ -4,6 +4,9 @@
 			"source": "hotlist_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "phishing_domains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
