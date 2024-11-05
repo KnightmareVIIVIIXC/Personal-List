@@ -19,6 +19,9 @@
 			"source": "https://threatfox.abuse.ch/downloads/hostfile",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -73,6 +76,9 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -113,9 +119,6 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
