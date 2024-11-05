@@ -107,3 +107,5 @@ ali-p2p.pull.yximgs.com
 ali-p2p-v2.pull.yximgs.com
 pis-tel-pcdn.youku.com
 player-lg.youku.com
+footprints-pa.googleapis.com
+lamssettings-pa.googleapis.com
