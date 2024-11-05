@@ -76,6 +76,9 @@
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://big.oisd.nl/",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://v.firebog.net/hosts/Prigent-Malware.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
