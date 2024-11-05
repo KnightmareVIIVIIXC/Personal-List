@@ -25,9 +25,6 @@
 			"source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -95,6 +92,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
