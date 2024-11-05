@@ -16,7 +16,7 @@
 			"source": "https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
+			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams_light.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
@@ -101,6 +101,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://urlhaus.abuse.ch/downloads/hostfile/",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
