@@ -4,7 +4,7 @@
 npm i -g @adguard/hostlist-compiler
 
 > Python <
->> Run the `pip install` command in a console window to use category_search.py and source_search.py properly <<
+>> Run the `pip install` command in a console window <<
 
 pip install -r requirements.txt
 
