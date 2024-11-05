@@ -40,7 +40,7 @@ def sort_personal_list(filename):
     return sorted_file_content
 
 # Example usage
-filename = "personal_disallowed_domains.txt"
+filename = "blocklist.txt"
 sorted_content = sort_personal_list(filename)
 
 # Write the sorted content back to the file with newline characters
