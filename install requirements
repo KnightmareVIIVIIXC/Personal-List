@@ -1,13 +1,13 @@
-> Node.js
->> Install node.js with additional tools, then run the following command in a console window
+> Node.js <
+>> Install node.js with additional tools, then run the following command in a console window <<
 
 npm i -g @adguard/hostlist-compiler
 
-> Python
->> Run the `pip install` command in a console window to use category_search.py and source_search.py properly
+> Python <
+>> Run the `pip install` command in a console window to use category_search.py and source_search.py properly <<
 
 pip install -r requirements.txt
 
->> Run the `pip freeze` command in PowerShell to update all requirements
+>> Run the `pip freeze` command in PowerShell to update all requirements <<
 
 pip freeze | %{$_.split('==')[0]} | %{pip install --upgrade $_}
