@@ -26,4 +26,3 @@ https://oisd.nl/includedlists/big/0
 
 https://www.spamhaus.org/blocklists/do-not-route-or-peer/
 
-https://threatview.io/

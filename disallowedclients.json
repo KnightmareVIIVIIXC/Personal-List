@@ -13,9 +13,6 @@
 			"source": "https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-dnscrypt-blocked-ips.txt",
 			"transformations": ["Compress"]
 		}, {
-			"source": "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt",
-			"transformations": ["Compress"]
-		}, {
 			"source": "https://cinsscore.com/list/ci-badguys.txt",
 			"transformations": ["Compress"]
 		}, {
