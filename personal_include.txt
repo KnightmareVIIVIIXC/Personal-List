@@ -109,3 +109,6 @@ pis-tel-pcdn.youku.com
 player-lg.youku.com
 footprints-pa.googleapis.com
 lamssettings-pa.googleapis.com
+1x1.cz
+domain.tld
+ecs.office.com
