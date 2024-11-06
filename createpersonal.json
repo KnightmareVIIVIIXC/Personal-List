@@ -58,7 +58,7 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.2o7Net/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/WindowsSpyBlocker/master/data/hosts/spy.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
