@@ -16512,7 +16512,6 @@ ronin-access.store
 raydlum.ink
 chidopromos.com
 rewarduniswap.org
-fireblocks.pages.dev
 cyrptsync.net
 pancakeswapp.web.app
 polkadotcash.live
@@ -24133,6 +24132,7 @@ karatdao.eu
 xn--blockchin-wcb.com
 ether-live.com
 elonmarstoken.com
+htx-site.com
 pancakeswap-filnance.com
 babydg2.org
 tavsonat.site
@@ -39206,6 +39206,7 @@ promo-coinbase.com
 fxoption27.com
 alzaidgroup.us
 www.app-polaicollin.online
+k1er.co.uk
 ethpt.top
 myethverwallet.com
 pancakeswap.finance.pantrade.in
@@ -114155,6 +114156,7 @@ verif-metemask.com
 aavebidr.com
 chainvalidation.live
 metamask.io-1s2r.dommespace.com.br
+online.bgb-online.info
 pancakeswap-ek.tech
 padmin.anytiktok.com
 opense.site
