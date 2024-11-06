@@ -25,9 +25,6 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -55,6 +52,12 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Malware.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -67,13 +70,19 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=annoyancedomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
@@ -92,6 +101,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
