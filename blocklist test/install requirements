@@ -1,10 +1,10 @@
->>>>>>>^<<<<<<<
->>> Node.js <<<
->> Install node.js with additional tools, then run the following `npm` command in a console window <<
+<<<<<<<^>>>>>>>
+>>> Node js <<<
+>> Install node js with additional tools, then run the following `npm` command in a console window <<
 
 npm i -g @adguard/hostlist-compiler
 
->>>>>>><<<<<<<
+<<<<<<<>>>>>>>
 >>> Python <<<
 >> Run the `pip install` command in a console window to install requirements <<
 
