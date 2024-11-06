@@ -76,12 +76,6 @@
 			"source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -98,9 +92,6 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
