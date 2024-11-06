@@ -76,16 +76,13 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers",
 			"transformations": ["Compress"]
 		}, {
-			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers_Old",
-			"transformations": ["Compress"]
-		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hosting",
 			"transformations": ["Compress"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Scanners",
 			"transformations": ["Compress"]
 		}, {
-			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt",
+			"source": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
 			"transformations": ["Compress"]
 		}, {
 			"source": "includeclient.txt",
