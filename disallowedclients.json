@@ -76,6 +76,9 @@
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers",
 			"transformations": ["Compress"]
 		}, {
+			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers_Old",
+			"transformations": ["Compress"]
+		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hosting",
 			"transformations": ["Compress"]
 		}, {
