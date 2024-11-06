@@ -37,6 +37,12 @@
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -46,19 +52,10 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://github.com/KnightmareVIIVIIXC/MVPS-Hosts-File/raw/main/hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://someonewhocares.org/hosts/zero/hosts",
