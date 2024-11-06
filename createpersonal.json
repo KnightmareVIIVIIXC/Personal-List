@@ -76,10 +76,13 @@
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt",
+			"source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://someonewhocares.org/hosts/zero/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
