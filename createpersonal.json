@@ -58,6 +58,12 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
