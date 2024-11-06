@@ -61,7 +61,7 @@
 			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+			"source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://quidsup.net/notrack/blocklist.php?download=malwaredomains",
