@@ -79,7 +79,7 @@
 			"source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://someonewhocares.org/hosts/zero/hosts",
+			"source": "https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/domain-list.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
