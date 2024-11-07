@@ -4,9 +4,6 @@
 			"source": "phishing_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -64,16 +61,7 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/WindowsSpyBlocker/master/data/hosts/spy.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "domlists/firebogsus.txt",
+			"source": "domlists/firebogsusad.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
