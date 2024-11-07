@@ -67,12 +67,6 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/spam-list/master/spammers.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Spam/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {

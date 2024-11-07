@@ -382,7 +382,6 @@ pancakeswap-giveout.com
 www.tkplaza.com
 brave.international
 wallet-integrations.pages.dev
-customerservices-livechat.web.app
 9td37r4.obm1688.com
 johnsoncontrolnc.com
 chainserverdappsreclaim.pages.dev
@@ -853,6 +852,7 @@ dappfixxs.pages.dev
 trezoorw.azurewebsites.net
 smart-activeglobechain.pages.dev
 paxfullpay.com
+broker-interaktive.com
 tripon407-etr.com
 saksof-5th.com
 axieinfinityaxs.com
@@ -1915,6 +1915,7 @@ app.airtm.com.mx
 io-trezor-en.github.io
 washingtonpost.earnwithliquid.com
 aminagroup.finance
+iniciaonline.com
 omantel.cloud
 bookingagoda-kor.xyz
 revoke-approvals.online
