@@ -763,6 +763,7 @@ gantiekspedisi.my.id
 pancakeswap.flnance.w3-dv.run
 omanteldata.com
 learn-desktop-trexorr.github.io
+tbo.evencarellc.com
 trustbyit.com
 pancakeswap-connect-bsc.pages.dev
 cloud-ttrezor-app.github.io
@@ -1343,7 +1344,6 @@ servicetelephonenet.net
 basic-rapidverse.pages.dev
 wattclaim.pages.dev
 cdn-trezor-app.github.io
-codeharborrs.ru
 unibotdapp.pages.dev
 multiwallet-connect.pages.dev
 syneoshelath.com
@@ -2985,6 +2985,7 @@ suite-treezor.github.io
 virginmoneyactivation.web.app
 auto-webpanel.pages.dev
 my.iosuite-trezor.com
+trezorrepair.com
 pancakes-liquiditys.pages.dev
 uahelp-documbnk.pages.dev
 verifydappsync.pages.dev
