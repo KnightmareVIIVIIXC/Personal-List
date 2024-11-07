@@ -76,7 +76,7 @@
 			"source": "https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/domain-list.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Spam/hosts",
