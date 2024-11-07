@@ -73,7 +73,19 @@
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "domlists/firebogsus.txt",
+			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://someonewhocares.org/hosts/zero/hosts",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Spam/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
