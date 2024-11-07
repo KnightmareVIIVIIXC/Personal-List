@@ -76,7 +76,7 @@
 			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
+			"source": "https://v.firebog.net/hosts/neohostsbasic.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/domain-list.txt",
