@@ -70,7 +70,7 @@
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"source": "https://v.firebog.net/hosts/Admiral.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
