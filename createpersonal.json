@@ -58,7 +58,7 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.2o7Net/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/WindowsSpyBlocker/master/data/hosts/spy.txt",
+			"source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "domlists/firebogsusad.txt",
