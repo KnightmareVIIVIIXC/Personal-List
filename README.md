@@ -10,7 +10,7 @@ https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds
 
 https://github.com/cbuijs/ut1
 
-https://github.com/hagezi/dns-blocklists/blob/main/sources.md
+https://github.com/hagezi/dns-blocklists
 
 https://github.com/jarelllama
 
@@ -20,9 +20,9 @@ https://github.com/phishfort/phishfort-lists
 
 https://github.com/ShadowWhisperer
 
-https://github.com/StevenBlack/hosts#sources-of-hosts-data-unified-in-this-variant
+https://github.com/StevenBlack/hosts
 
-https://oisd.nl/includedlists/big/0
+https://oisd.nl
 
-https://www.spamhaus.org/blocklists/do-not-route-or-peer/
+https://www.spamhaus.org
 
