@@ -220,6 +220,7 @@ bentoclaim.pages.dev
 pesaapay.com
 defi-prot.pages.dev
 www.app.1inch.io-v4.26-51.sbs
+rekrutmenperbankan.driftr.my.id
 hanonsystems.tdr.tienda
 revoge.cash
 emailpro.onloard.online
@@ -819,6 +820,7 @@ etherloadsync.pages.dev
 coinwallethub.pages.dev
 trezorsuteapp.com
 walletconnect-dapps.pages.dev
+trezursuite.com
 revoke-cazh.com
 pancakeswap-airdrop.pages.dev
 app-docs-trezr.github.io
@@ -1948,7 +1950,6 @@ prompttool.pages.dev
 stg-jobsteleperformancenl-staging.kinsta.cloud
 en-1inchjoin.network
 www.bbwealthcare.com
-omantel-om-app.com
 claimbasedswap.pages.dev
 app-1iinch.pw
 smart-appbasicversess.pages.dev
@@ -2228,7 +2229,6 @@ trezor.io-us-en.net
 pep-trx.com
 healthequities.info
 app-1jinch.org
-andandorconnect.com
 www.marathonpetroleum-us.com
 trezrapp.com
 dechatclaim.pages.dev
@@ -2950,6 +2950,7 @@ dapp-fixing.pages.dev
 bnb-projectclaim.web.app
 mergeseverd-apps.pages.dev
 pancakesawpafinnace.com
+helpful-dusk-258064.netlify.app
 moi-sb.cfd
 defyhud.pages.dev
 multiwalletcoin.pages.dev
