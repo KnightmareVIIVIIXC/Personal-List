@@ -13,16 +13,16 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
@@ -35,6 +35,9 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
@@ -70,13 +73,7 @@
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://someonewhocares.org/hosts/zero/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Spam/hosts",
+			"source": "domlists/firebogsus.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
