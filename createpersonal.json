@@ -64,10 +64,10 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.2o7Net/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
+			"source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://v.firebog.net/hosts/Admiral.txt",
