@@ -67,10 +67,10 @@
 			"source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
+			"source": "https://v.firebog.net/hosts/Admiral.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Admiral.txt",
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/domain-list.txt",
