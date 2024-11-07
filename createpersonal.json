@@ -64,7 +64,7 @@
 			"source": "https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "domlists/firebogsusad.txt",
+			"source": "domlists/firebogsus.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
