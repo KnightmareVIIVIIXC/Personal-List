@@ -1,0 +1,11 @@
+www.example.net
+login.example.net
+ftp.example.net
+gate.example.net
+mx.example.net
+mail1.example.net
+ns1.example.net
+mail.example.net
+ocsp.example.net
+photos.example.net
+source.example.net
