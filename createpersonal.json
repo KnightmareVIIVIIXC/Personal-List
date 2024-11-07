@@ -43,9 +43,6 @@
 			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -58,22 +55,13 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.2o7Net/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://v.firebog.net/hosts/AdguardDNS.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/Admiral.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/UncheckyAds/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/domain-list.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
