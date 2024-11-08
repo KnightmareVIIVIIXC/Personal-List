@@ -1724,6 +1724,7 @@
 ||ard.xxxblackbook.com^
 ||ardrone.swoop.com^
 ||arena.altitude-arena.com^
+||argo.svcmot.com^
 ||ariboo.com^
 ||arsconsole.global-intermedia.com^
 ||artcomix.com^
