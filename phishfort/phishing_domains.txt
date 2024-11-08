@@ -6831,6 +6831,7 @@ multisynctools.com
 multstalks.online
 walletconnectivity.online
 tapio.netlify.app
+klarnapr.com
 ammearn.com
 magikal-ai.pages.dev
 play.decentralandgame.fun
@@ -43544,6 +43545,7 @@ pay-binance.com
 sentinelprotocol.pw
 earn-analos.netlify.app
 pancakeswop.top
+407etrconnect.online
 s.fixenaffixconnect.online
 paxful-order.info
 fewoworld.web3-airdrop.net
@@ -43903,6 +43905,7 @@ goblintown.bz
 wallet-connectapp.com
 www.mavia.comapp.yaya6.com
 phaintum-wall_it.godaddysites.com
+klarnapricing.com
 lp-rewards.app
 idex-claim.su
 evm-zksync.xyz
@@ -92759,7 +92762,6 @@ ronins.icu
 asfxyd.xyz
 dapp.tiktokpay.vip
 test.steellxinc.site
-cmaterminals-core.com
 5irechain.web3-airdrop.net
 activatewalt.com
 migrate-makerdao.pages.dev
@@ -94325,7 +94327,6 @@ polkadot-airdrops.net
 app.activitye.xyz
 ierlacomarca.edu.co
 pixlverse.live
-heyflow.id
 solana.com-merryxmas.events
 bitkub.uk.to
 www-nftmoonbirds.com

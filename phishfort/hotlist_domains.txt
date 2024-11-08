@@ -140,6 +140,7 @@ app.swiftgopay.tech
 eqopal.com
 transactpaye.com
 unibotclaim.pages.dev
+klarnapr.com
 dapp-auth.pages.dev
 schoolsfirstfcu.help
 himscareers.com
@@ -1071,6 +1072,7 @@ securelocktech.com
 trrezoerwallet.azurewebsites.net
 supports--trezor.com
 pancakeswap4.network
+407etrconnect.online
 multichainapprover.pages.dev
 web-cloudsolution.pages.dev
 sqthgb7.com
@@ -1080,6 +1082,7 @@ adp-welcome.com
 paxsign.online
 en-web-1inchjoin.network
 umarjoker22.ru
+klarnapricing.com
 30nbq.xerotilan.com
 webmailskynet981032.studio.site
 1inch.io-defi.com
@@ -1513,7 +1516,6 @@ multiwallet-solutions.pages.dev
 blastfoundation1-claim-june23.pages.dev
 merck-inc.com
 hj786h-jkhjg.pages.dev
-fix-smokepresale.pages.dev
 clarksconstructions.us
 exchange.zweirad-hanselle.de
 app-1inch-io.pages.dev
@@ -1974,7 +1976,6 @@ www.paylocitly.com
 xfiles-uk.net
 myuadte.life
 pancakeswap-v2.us
-galp-profit.com
 chain-smartintensse.pages.dev
 1inchairdrop.cc
 app.paxful87.com
@@ -2369,7 +2370,6 @@ careers-censis.com
 coinbase-airdops.com.ru
 swiftchainmulticoin.pages.dev
 tonkeeperchain.one
-cmaterminals-core.com
 trezorrsuite-download.godaddysites.com
 multichainsapprovers.pages.dev
 dappsfixs.pages.dev
@@ -2417,7 +2417,6 @@ myablsupport.sbs
 securemyhealthequity.com
 appsuiteone.com
 migration-claimassets.pages.dev
-heyflow.id
 trerzorwalle.azurewebsites.net
 multichainplatformfx.pages.dev
 crestfinanceglobal.com
@@ -2714,7 +2713,6 @@ pccairfoil.com
 malleeee.com
 app1inch.pages.dev
 ncgr.forticlient-sa.com
-fedreservenet.site
 koguxo.com
 1inch8.cc
 transfer.intapaay.com
