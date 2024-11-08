@@ -1647,6 +1647,7 @@ digitalchain.pages.dev
 chainsmartmega.pages.dev
 unisatv1.io
 albemarle.top
+clarionbutterfield.com
 univentdepend.pages.dev
 hbc-usdt.vip
 jumper-lf7408jump.pages.dev
@@ -1953,6 +1954,7 @@ prompttool.pages.dev
 stg-jobsteleperformancenl-staging.kinsta.cloud
 en-1inchjoin.network
 www.bbwealthcare.com
+omantel-om-app.com
 claimbasedswap.pages.dev
 app-1iinch.pw
 smart-appbasicversess.pages.dev
@@ -2249,7 +2251,6 @@ trizorsuite.info
 nexusoptimal-port.pages.dev
 starknet-claim.pages.dev
 fulldirectwebprotocols.pages.dev
-bookingovip.com
 exchange.hyxoheberg.cloud
 applovincorp.com
 www.lovinapp.co
