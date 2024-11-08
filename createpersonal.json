@@ -40,7 +40,7 @@
 			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+			"source": "https://someonewhocares.org/hosts/zero/hosts",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "personal_include.txt",
