@@ -7,12 +7,6 @@
 			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
