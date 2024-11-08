@@ -4,4 +4,4 @@ phishing_domains.txt
 domlists
 sortlist.py
 asnspam.txt
-Subdomain Finder/config.json
+*.json
