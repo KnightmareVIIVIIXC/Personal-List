@@ -37,6 +37,12 @@
 			"source": "https://quidsup.net/notrack/blocklist.php?download=trackersdomains",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "personal_include.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}],
