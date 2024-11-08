@@ -4,6 +4,9 @@
 			"source": "phishing_domains.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://big.oisd.nl/",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
@@ -38,9 +41,6 @@
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
-			"transformations": ["Compress", "RemoveModifiers"]
-		}, {
-			"source": "https://big.oisd.nl/",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/fademind.hosts/master/add.Risk/hosts",
