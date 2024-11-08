@@ -1,7 +1,0 @@
-.-
--.
-.^
-||0.0.0.0^
-||localhost.localdomain^
-||localhost^
-||bitbucket.org^

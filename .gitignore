@@ -5,3 +5,7 @@ domlists
 sortlist.py
 asnspam.txt
 *.json
+excludeclient.txt
+includeclient.txt
+personal_exclude.txt
+personal_include.txt
