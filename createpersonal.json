@@ -13,6 +13,12 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
