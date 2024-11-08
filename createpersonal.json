@@ -7,6 +7,9 @@
 			"source": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams_light.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
+			"source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
+			"transformations": ["Compress", "RemoveModifiers"]
+		}, {
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
 			"transformations": ["Compress", "RemoveModifiers"]
 		}, {
