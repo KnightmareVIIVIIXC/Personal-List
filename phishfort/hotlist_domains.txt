@@ -316,7 +316,6 @@ transfers.t-cashpay.com
 transfastway.com
 tpgx.cc
 gmglobalconnects.us
-roshako.com
 syncdappsresolvers.pages.dev
 trezzr-bridge.godaddysites.com
 ajbell.wealthgrowhub.com
@@ -348,6 +347,7 @@ summitglen.cloud
 pencakeswap.financial
 dappsauth.pages.dev
 pepsi-ai.calvinballtech.io
+paychexcompensation.pages.dev
 georgiacu.review021.us
 paye.solutions
 nvcleanstall-nvidia.com
@@ -2305,7 +2305,6 @@ app.ibkr.me
 one-dlgltalservlce-ch.skyvibeshow.com
 trezor.io-en.us
 sasstopankl.cc
-chevroletperinorte.com
 doglibretoken.web.app
 revokecash-mail.xyz
 cbuae-coustomersupport.online
@@ -2387,7 +2386,6 @@ saksoffbagss.com
 trezor-firmware-update.one
 womensecrett.com
 swiftsecuredchainlink.pages.dev
-paychex.flex.rest
 oneclrivepro.com
 ua.pitihion.help
 nubit-alpha-eth3.vercel.app
@@ -2706,7 +2704,6 @@ walletconnectrpcnodev2.pages.dev
 radiant-revoke.uno
 exchangesrv01.hyxoheberg.cloud
 equinor-vip.cc
-pancake-swap36.vercel.app
 pccairfoil.com
 1lnchceth.icu
 malleeee.com
