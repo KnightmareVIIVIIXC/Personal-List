@@ -55,7 +55,6 @@ manage-trezorsuite.com
 pafrt.com
 zerionchainv2dapp.pages.dev
 app-1incch.pw
-iagodas.com
 a-start-trezor.github.io
 bouyguestelecom-abonnement.com
 yorknj.com
@@ -82,6 +81,7 @@ reveoke.cash
 metro-ag.cc
 1nb.protectedpayroll.com
 jjci.cam
+pancak-e-swap.com
 prottendonline.com
 v3-revoke.info
 farming-radpie.com
@@ -213,7 +213,6 @@ webchaindapp.pages.dev
 xiraaibot.pages.dev
 bitwiise.com
 www.payap.info
-pipelinefinanceconseil.com
 dappe.multichains-pad.top
 ukr-setting.com
 bentoclaim.pages.dev
@@ -785,6 +784,7 @@ en-trezor-learn.github.io
 cliffchancelogistics.com
 multiwalletsolution.pages.dev
 bnb-projectclaim.firebaseapp.com
+𝐞𝐝𝐨𝐩𝐩𝐚𝐲.𝐜𝐨𝐦
 webmail.highway407-etr.com
 theys-fils.serv00.net
 dapps-fixer.pages.dev
@@ -845,7 +845,6 @@ eqniuor-mall.cc
 pancakeswap-finance-3xb.pages.dev
 appbitkub-th.github.io
 tradewarrant.com
-syncdappw.pages.dev
 dglibre.live
 redex-cloud.pages.dev
 trezr-us.github.io
@@ -1070,6 +1069,7 @@ svizzeratemoon.net
 instantpayy.org
 securelocktech.com
 trrezoerwallet.azurewebsites.net
+pancakeswap.finance.app-sys-x1-web3-40e817af36c94d2ac33a39bce1fe786.top
 supports--trezor.com
 pancakeswap4.network
 407etrconnect.online
@@ -1206,7 +1206,6 @@ dapp.idexcx.net
 docs-terzor.pages.dev
 app.pancakeswap-etf.com
 www.soharbankk.com
-strllvee.ru
 supports-trezor.com
 nano-39g.pages.dev
 trezor.io-gb-en.com
@@ -1498,7 +1497,6 @@ careers-varian.com
 nodesyncs.org
 claims-pancakeswap.finance
 learn-desktop-trxor.github.io
-t-trezorsuite.org
 docs-trezrosuite.github.io
 walflx.pages.dev
 tpmvip.cc
@@ -2233,7 +2231,6 @@ treizor.azurewebsites.net
 mcken.mckenzic.cfd
 pancakeswap.flnance.w3-dv.org
 toacttab.com
-s-trezorsuite.org
 trezor-diagnostics.com
 pancakeswapfinence.online
 s4galp.com
@@ -2312,6 +2309,7 @@ petitionsgovernment.com
 approvechain.pages.dev
 mainnet-bugresolver.pages.dev
 pancakesvap.finance-v3-dex.exchange
+resolvesyncs.pages.dev
 networkchainscorrector.pages.dev
 eperiwinkled.info
 407etr.report
@@ -2487,7 +2485,6 @@ nvidia.piccotech.co
 docs-trezr-learn.github.io
 usecornn.com
 daviviendaprom.com
-www.bankarebae.com
 avarexfilcoler.pages.dev
 secure-trezoor.github.io
 www.applovin.info
@@ -2596,7 +2593,6 @@ cpcalendars.1inch-i0.online
 esoppay.com
 loot-ronin.network
 payment.en-web-1inchjoin.network
-trezor-suite-support.cfd
 smartsafepay.net
 effective-waffle-h575.vercel.app
 opendata-hsc.site
@@ -2873,7 +2869,6 @@ pancakeswap.flnance.api-web3.top
 uproductionppcservice.com
 promo-scarlet.be
 helegsen.com
-rsusi-aqaaa-aaaag-abhda-cai.ic0.app
 webswallet.azurewebsites.net
 oneinch.app
 trezor.io-us-uk.com
