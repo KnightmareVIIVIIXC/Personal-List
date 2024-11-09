@@ -25,8 +25,6 @@ https://github.com/phishfort/phishfort-lists/
 
 https://github.com/ShadowWhisperer/
 
-https://github.com/StevenBlack/hosts/
-
 https://oisd.nl/
 
 https://www.spamhaus.org/
