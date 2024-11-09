@@ -1,5 +1,5 @@
-[![](https://github.com/user-attachments/assets/0554640e-274f-4924-b6bf-523c8e115fcd)
-](https://mahakala.is/) [![](https://github.com/user-attachments/assets/739f1957-73ea-4c5b-a556-0ed546fdfe4b)](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
+[![](https://github.com/user-attachments/assets/739f1957-73ea-4c5b-a556-0ed546fdfe4b)](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) 
+[![](https://github.com/user-attachments/assets/5b3aead6-b97c-4ffd-9d46-ab484563a9d3)](https://mahakala.is/)
 
 
 #
