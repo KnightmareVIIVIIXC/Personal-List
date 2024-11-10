@@ -677,6 +677,7 @@ trezourwallet.azurewebsites.net
 dappstoolshub.on.fleek.co
 tmclq.shop
 web3protocol-lite.pages.dev
+walletconnectprotocol.netlify.app
 claim-1inch.top
 woltrskluwer.com
 concur-software.info
@@ -1236,7 +1237,6 @@ dappmainhub.vercel.app
 claims-cake.com
 remoteblocknodes.pages.dev
 smartreviseprotocol.pages.dev
-claimtokens-pancakeswap.com
 alshayastores.online
 pancakeswap-6uk.pages.dev
 all-loan-digital.vip
@@ -1746,7 +1746,6 @@ coustmer-packter-wellte.com
 qubetics.us
 www.agoda-kor.com
 ankerusdt.com
-noticiasmundonet.com.br
 diezestrellas.com
 resolversdapp.pages.dev
 www.roninbridge.app
