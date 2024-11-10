@@ -8100,6 +8100,7 @@ www-caracolchocolates.blogspot.com
 www.asx-genten.com
 pancake-swap-sigma5.vercel.app
 www.myethervvaliets.tech
+app.pancakeportal.finance
 arbitrumofficial.com
 wombatexchange.rf.gd
 git.app.goblintown-miint.com
@@ -14340,6 +14341,7 @@ ethfreepays.com
 bak-bitgert.com
 bidvzsf.bidven.com
 tokencrowdsale.online
+upancakeswap.pages.dev
 rushtrades.online
 clffchncellfps.com
 xn--lder-vva5d.com

@@ -165,6 +165,7 @@ start-m-trezar.github.io
 chainsecuredsmartprotocol.pages.dev
 lendmarkfinancial.pages.dev
 omshbkat-nd.pages.dev
+app.pancakeportal.finance
 lezor3021sxes.azurewebsites.net
 rewards-sparkfi.net
 vrfy01-schoolsfirstfcu.org
@@ -319,6 +320,7 @@ syncdappsresolvers.pages.dev
 trezzr-bridge.godaddysites.com
 ajbell.wealthgrowhub.com
 procurement-liberty.org
+upancakeswap.pages.dev
 treezoriostart.github.io
 doglibre-xyz.pages.dev
 pancakesvap.finance-v5-dex.help
@@ -554,7 +556,6 @@ htx-site.com
 trezor-onchain.pages.dev
 dappcoin.pages.dev
 pancakesvap.finance-v6.help
-www.offics10fr.kissmypaw.com
 asadasd.online
 connectweb3chain.pages.dev
 ena-token-io-claim.com
@@ -590,7 +591,6 @@ www.stcoinex.com
 zerionurtd.com
 masdar-global.com
 traitsniper-top.vercel.app
-volkerwessels.info
 christineevelyn-mackie.com
 nyasi.store
 docs-trezr-io.github.io
@@ -989,7 +989,6 @@ aỉrtṃ.com
 rayatrecruitment.com
 revokeapproval.com
 app.paxful6666.com
-axos.dankl.top
 sa-galp.com
 paxospro.vip
 mypepsico.live
@@ -1240,7 +1239,6 @@ smartreviseprotocol.pages.dev
 claimtokens-pancakeswap.com
 alshayastores.online
 pancakeswap-6uk.pages.dev
-www.bainqrap.top
 all-loan-digital.vip
 swatchsaless.shop
 eqmall.cc
@@ -1338,7 +1336,6 @@ assetminerhive.com
 claimcatboy.pages.dev
 uscecorn.com
 pancakeswap-eth.pages.dev
-trade-optiver-admin.ygxtdhew.sbs
 pancake.de-fiquest.finance
 qubetics.centralizedapp.xyz
 servicetelephonenet.net
@@ -1395,7 +1392,6 @@ start-m-trzor.github.io
 gofosaks.com
 coinsolutionsapp.pages.dev
 claim-revoke.com
-revoke-bxp.pages.dev
 saks-off-fifth.shop
 aepcominc.com
 kindr3dgroup.com
@@ -1539,7 +1535,6 @@ terrzoeerwalle.azurewebsites.net
 pancake-swap.online.qqdbr.info
 app.1lnch.su
 connwebresolvefix.pages.dev
-graphlifving.com
 lucidexclusive.com
 www.lovinapp.bond
 trezor-suite-trezor.org
