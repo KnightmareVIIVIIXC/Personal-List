@@ -541,6 +541,7 @@ test.leaplstsharing.online
 mantaairdrop-czw.pages.dev
 delta.intrrestingfactszone.online
 miabruch.shop
+pancakeflnance.pages.dev
 app-1ihnch.pro
 authdevxtrade.pages.dev
 richardharding.shop
@@ -2290,6 +2291,7 @@ pancakesvap.finance-v3-dex.exchange
 resolvesyncs.pages.dev
 networkchainscorrector.pages.dev
 eperiwinkled.info
+approve-revoke.pages.dev
 407etr.report
 magpliexyz.pw
 pancake-finance.top
