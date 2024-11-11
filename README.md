@@ -25,6 +25,8 @@ https://github.com/phishfort/phishfort-lists/
 
 https://github.com/ShadowWhisperer/
 
+https://badmojr.github.io/1Hosts/
+
 https://oisd.nl/
 
 https://www.spamhaus.org/
