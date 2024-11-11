@@ -3027,6 +3027,7 @@ cpanel.dapps-revoke.com
 safemoon.is
 wallet-polkadot.com
 elon-give.space
+penguinnrandomhouse.com
 world-coih.com
 etherwallet-official.info
 www.metamask-onlineconnect.com
@@ -8101,7 +8102,6 @@ www-caracolchocolates.blogspot.com
 www.asx-genten.com
 pancake-swap-sigma5.vercel.app
 www.myethervvaliets.tech
-app.pancakeportal.finance
 arbitrumofficial.com
 wombatexchange.rf.gd
 git.app.goblintown-miint.com
@@ -36082,6 +36082,7 @@ ministerstwosprawiedliwosci.com
 openocean-finance.app
 fall-kent-yamaha-tuner.trycloudflare.com
 usdt-ether.me
+signup-initiafoundation.com
 raydiumnet.work
 porsche-claim.xyz
 kubz-nft.netlify.app
@@ -56410,6 +56411,7 @@ metashiba-promogive.com
 validatenfts.tech
 claim-digidaigaku.com
 token-blur.io
+sky.claims
 blockschainexplorer.com
 www.rarirble.online
 remetamask.live
@@ -92913,6 +92915,7 @@ pancakeswap.finance.swap.swapserviceway.com
 godhatespixels.com
 pyro-nft-vercel.pages.dev
 bancordefi.com
+nodesaifoundation.com
 1inchs.pages.dev
 digitalcollections.vmi.edu
 walletsdapps.io
