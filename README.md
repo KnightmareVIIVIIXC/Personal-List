@@ -25,7 +25,7 @@ https://github.com/phishfort/phishfort-lists/
 
 https://github.com/ShadowWhisperer/
 
-https://github.com/WilliDieEnte/BetterBlocklist
+https://github.com/WilliDieEnte/BetterBlocklist/
 
 https://badmojr.github.io/1Hosts/
 
