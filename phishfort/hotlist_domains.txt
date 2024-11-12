@@ -130,6 +130,7 @@ kevinholian.shop
 johnsoncontrols.co.in
 usecorn.fi
 stonexconsultinggroup.net
+tomlexlegal.com
 stonexgroup-1.com
 virginmoneycustomerchat.com
 rzoranio.s3.amazonaws.com
@@ -1400,6 +1401,7 @@ interglopal.com
 trezortax.io
 revoke-monad.app
 www.moneypak-secured.com
+vulnmon.pro
 ordinalswiftprotocol.pages.dev
 use-corns.xyz
 trezorwallet-app.org
