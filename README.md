@@ -11,6 +11,8 @@ https://firebog.net/
 
 https://github.com/AdguardTeam/HostlistsRegistry/
 
+https://github.com/badmojr/1Hosts
+
 https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/
 
 https://github.com/cbuijs/ut1/
@@ -26,8 +28,6 @@ https://github.com/phishfort/phishfort-lists/
 https://github.com/ShadowWhisperer/
 
 https://github.com/WilliDieEnte/BetterBlocklist/
-
-https://badmojr.github.io/1Hosts/
 
 https://oisd.nl/
 
