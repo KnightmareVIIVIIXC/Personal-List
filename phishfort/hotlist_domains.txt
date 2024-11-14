@@ -64,7 +64,6 @@ validityrevoke.pages.dev
 storagesuiteapp.com
 penguinnrandomhouse.com
 claiming-rewards-now.pages.dev
-alalshayagroup.com
 paymentapproval.org
 ashleymadison.2mydns.net
 axosremittanceslimited.com
@@ -360,6 +359,7 @@ summitglen.cloud
 pencakeswap.financial
 dappsauth.pages.dev
 pepsi-ai.calvinballtech.io
+walleteappsresolve-conttractt.live
 paychexcompensation.pages.dev
 georgiacu.review021.us
 paye.solutions
@@ -538,7 +538,6 @@ walletsvalidation.pages.dev
 revoke-cash-xyz.pages.dev
 www.pttrtww38.en-web-1inchjoin.network
 dappswalletsolution.pages.dev
-smartdecentralizechain.pages.dev
 yaharevsharyuhve.pages.dev
 qubetics-go.com
 trezor.io-en-gb.com
@@ -773,7 +772,6 @@ opdrytoday.store
 walletguardapp.pages.dev
 trezorsuite.live
 reviewdanhgia.com
-dappwebfix.pages.dev
 arabislamijo.com
 trezor.io-gb-eu.com
 texmarguet.shop
@@ -903,6 +901,7 @@ itime.quickxero.com
 webcardpay.live
 off5th-clearance.com
 signup-initiafoundation.com
+dexnodevalidation.com
 paxfull.life
 airdrop1lnch.space
 trezirsuite.azurewebsites.net
@@ -939,6 +938,7 @@ www-revoke.cash
 support-walletrestoration.pages.dev
 treezor-walllets.godaddysites.com
 1inch-i0.online
+zowvo.com
 reloladzeromod.pages.dev
 stakevaultsdrop.pages.dev
 5d8s6-ds9gt-nx5st.s3.amazonaws.com
@@ -1062,6 +1062,7 @@ www.miraklconnect.expert
 𝑮𝒍𝒐𝒃𝒂𝒍𝒓𝒆𝒄𝒆𝒊𝒗𝒆.𝒄𝒐𝒎
 omancardado.pages.dev
 securecoin.pages.dev
+suite.trezor.io.accikunity.org
 coinsmartwallet.pages.dev
 pank-cake-svap.com
 pancakeswap-claiming.pages.dev
@@ -1322,7 +1323,6 @@ masdar-onlin.com
 defi-starkne.pages.dev
 trezor.io-suite.site
 paxful9999.com
-nodemultifix.pages.dev
 ton-keeper.website
 usecocrn.com
 inch-v2.com
@@ -1331,6 +1331,7 @@ app-1iinch.pro
 pancakeswap-d0k.pages.dev
 dawallconnect.pages.dev
 b-f-m-c.pages.dev
+www.suite.trezor.io.accikunity.org
 app.usenercorn.com
 optumrx-shop.com
 certifymultichain.pages.dev
@@ -1405,6 +1406,7 @@ autoconnectwallets.pages.dev
 erecargaspe.webcindario.com
 lido-finance-official.pages.dev
 webmaindapp.xyz
+decentrifi.xyz
 sit.d1jkap9jqfwf3j.amplifyapp.com
 unique-desire.live
 brave.farm
@@ -1439,6 +1441,7 @@ tpgf.site
 workforceapdportal.digital
 h5.optvip02.com
 www.trezor.ticket-82874.com
+urniget.org
 interglopal.com
 trezortax.io
 revoke-monad.app
@@ -1667,6 +1670,7 @@ enterprizecarrental.online
 trezor-suite-io.com
 paxfulaccounts.com
 globalfinance.site
+pay.vevospay.com
 roninwallet-v2.com
 dappbays.pages.dev
 iosuite-trezor.com
@@ -1954,6 +1958,7 @@ www.djaslk.shop
 usecoorn.com
 claimpoohrewards.pages.dev
 moussakalo.shop
+swifttransacts.com
 www.paycetos.online
 transimplify.com
 walletconnect.claim.events
@@ -2054,6 +2059,7 @@ bittkub.com
 app-1incjn.pro
 opsecmigrationlive.pages.dev
 setup-trezorio.github.io
+wrapmultichaindapp.pages.dev
 of5th.fmvipm.cc
 morningstars-cersa.com
 walletconnects.vercel.app
@@ -2190,6 +2196,7 @@ lexiaitechxyz.pages.dev
 elartedelaqueja.com
 enquesst.com
 basedawg-claim.pages.dev
+instapayy.org
 blockdagclaim.pages.dev
 learn-trezo-docs.github.io
 𝐚𝐜𝐜𝐞𝐩𝐭𝐫𝐚𝐧𝐬𝐟𝐞𝐫.𝐜𝐨𝐦
@@ -2233,6 +2240,7 @@ bitkubift.com
 henglib.github.io
 modechain.pages.dev
 spkprotocol.store
+intransfpay.com
 axondescisuite.pages.dev
 socialnayapidtrimka.com
 app.pancakeswap-v2.xyz
@@ -2323,7 +2331,6 @@ bacbuk.com
 fundsinpro.com
 unitedhealthcarebilling.com
 arabimobilebank.org
-lifeefitness.com
 liusanchuan.github.io
 auth-logintrezor.com
 tpgcapital.cc
@@ -2359,6 +2366,7 @@ eperiwinkled.info
 claim.pancakeweb.finance
 approve-revoke.pages.dev
 407etr.report
+airdrop.pancakesapp-protocol.finance
 magpliexyz.pw
 pancake-finance.top
 app-1linch.pro
@@ -2498,6 +2506,7 @@ peconfisync.pages.dev
 1inchx.com
 rocketspool.info
 rewardstokendapp.pages.dev
+pay.momowire.com
 en1-docusign.com
 1inch3.cc
 plakmng06.cyou
@@ -2523,7 +2532,6 @@ centraltrustcompany.org
 revoke-9mm.com
 usecorn.events
 trezor.io-en.cc
-georgiaow-nmember.com
 en-docs-io-trezor.github.io
 wolfcreeekcompany.com
 stonexgroupvip.com
@@ -2531,6 +2539,7 @@ binance.nft-mint.pro
 evertryfyguardclaim.pages.dev
 nvidia.piccotech.co
 docs-trezr-learn.github.io
+cake-rewards.com
 usecornn.com
 daviviendaprom.com
 avarexfilcoler.pages.dev
@@ -2780,6 +2789,7 @@ app-1inchi.pw
 dapps-rectification-axr.pages.dev
 pancakeswap-apps.pages.dev
 1inch2024.net
+instarela.com
 omshbkat-nb.pages.dev
 adp-login.com
 trezor.io-en-ca.com
@@ -2867,6 +2877,7 @@ ashleymadisonofficial.com
 learn-starttrezor.github.io
 starswap.finance
 zkgrettyplumtek.pages.dev
+airdrop.pancakesapp-online.finance
 wisesail.com
 helptrezor.com
 app-1incjh.net
@@ -2927,6 +2938,7 @@ login407etr.systems
 trezor.portal-helpdesk.com
 docs-learn-trezor.pages.dev
 app-1incth.pw
+smartdecentralizechain.pages.dev
 app.paxful190.com
 uhchealthplan.com
 busydao.pages.dev
