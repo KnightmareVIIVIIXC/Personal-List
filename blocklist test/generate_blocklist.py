@@ -45,10 +45,10 @@ def update_hostlist():
         command = "hostlist-compiler -i {} -o blocklist.txt".format(" -i ".join(replacements))
         os.system(command)
 
-        repeat = input("Do you want to update the hostlist again? (y)es / (n)o: ").lower()
+        repeat = input("Do you want to update the blocklist again? (y)es / (n)o: ").lower()
         while repeat not in ('y', 'n', 'yes', 'no'):
             print(Fore.RED + "Invalid input. Please enter 'y' or 'n'." + Style.RESET_ALL)
-            repeat = input("Do you want to update the hostlist again? (y)es / (n)o: ").lower()
+            repeat = input("Do you want to update the blocklist again? (y)es / (n)o: ").lower()
         if repeat.startswith('n'):
             break
 
