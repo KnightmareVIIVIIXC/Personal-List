@@ -899,6 +899,7 @@ wallet-sync-protocol.pages.dev
 cma-cmg.cam
 mysiua.life
 gilangarinata.com
+defi-wallet.pages.dev
 appmulti-integrarteverses.pages.dev
 topmarketsales.ru
 woltreskluwer.com
@@ -950,7 +951,6 @@ securemaskclaim.pages.dev
 trezr-io-start.com
 admin.paxful10.xyz
 max1382.com
-patlicanoturtma.pages.dev
 revokes-seamlessfi.app
 coinwalletsmartsystem.pages.dev
 officialgrabowski.com
@@ -2051,7 +2051,6 @@ www.kor-agoda.com
 𝑷𝒂𝒙𝒇𝒖𝒍𝒑𝒂𝒚𝒎𝒆𝒏𝒕.𝒄𝒐𝒎
 servespay.xyz
 layananjasakirim.biz.id
-veripassdep.pages.dev
 syarservice.info
 pank-cakesvap.com
 trazeeerapp-api.azurewebsites.net
