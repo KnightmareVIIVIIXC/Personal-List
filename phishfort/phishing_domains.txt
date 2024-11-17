@@ -15267,6 +15267,7 @@ tvbint.online
 lidos.claims
 tioply.com
 walken.click
+verifieddapps.pages.dev
 starknet.cointon.org
 bonk-token.xyz
 poulcoinns.com
@@ -34188,6 +34189,7 @@ git.xn--rvoke-4ra.cash
 setup.ledgerhadrware.com
 metamaskh.com
 walletconnect.company
+m.bitkubxyz.com
 myaccessauth.com
 xn--allet-pw1b.xn--mymoner-r0a.com
 ccoinbase.link
