@@ -29,6 +29,8 @@ https://github.com/phishfort/phishfort-lists/
 
 https://github.com/ShadowWhisperer/
 
+https://github.com/shahidcodes/firebog-ticked-list
+
 https://github.com/WilliDieEnte/BetterBlocklist/
 
 https://oisd.nl/
