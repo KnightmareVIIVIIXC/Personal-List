@@ -78,6 +78,7 @@ creatvexcolerburner.pages.dev
 fastfixednow.pages.dev
 francesorclaimant.com
 c9cd7803-352f-4df6-9f84-1c3fdbb925d3-00-22m5elxl4z9mc.janeway.replit.dev
+docs-mew.github.io
 pancakeswap-layer2rect.pages.dev
 rheinmetall.thecareershub.org
 revoke-cash-layer2.pages.dev
@@ -110,7 +111,6 @@ aitechblockresolve.pages.dev
 vistabrook.cloud
 smartdexreauth.pages.dev
 siemens-healthiineer.com
-coinbase.pages.dev
 bravecall.us
 cevalogistics.online
 lensprotocol.pages.dev
@@ -306,6 +306,7 @@ bridge-hub-trzor-io.github.io
 pancakeswap-airdrops.netlify.app
 www.emeria.metafex.io
 app-1inclh.net
+www.paye.store
 tdsynnexacademy.com
 cbwildlifetours.sbs
 brave.services
@@ -439,7 +440,6 @@ overview-trzor.github.io
 dexcomsensor.com
 soharinternational.website
 suitetrustapp.com
-526a4b96-eb88-45cb-bc0b-4466f31cf655-00-2agr08wh8k231.kirk.replit.dev
 web-trezorstart.github.io
 encryptionsecurity.pages.dev
 oldsec-ond.top
@@ -794,6 +794,7 @@ helps-trezor.com
 sofapay.org
 www.tamminy.taxi
 securedmainnetconnect.pages.dev
+haqsholdings.com
 trezorr_wallet.godaddysites.com
 www.blglobaltrade.com
 dappchainprotocol.pages.dev
@@ -817,6 +818,7 @@ trezorsuteapp.com
 walletconnect-dapps.pages.dev
 trezursuite.com
 revoke-cazh.com
+forms.nicepagesrv.com
 pancakeswap-airdrop.pages.dev
 app-docs-trezr.github.io
 degenerate.pages.dev
@@ -863,6 +865,7 @@ trezorio-setup.github.io
 mopilemex.com
 itime.quickxero.com
 webcardpay.live
+mytradefunds.com
 off5th-clearance.com
 blcokapp.pages.dev
 signup-initiafoundation.com
@@ -1014,6 +1017,7 @@ cixetuywellorg.pages.dev
 www.highway407-etr.com
 ua.petikion.online
 www.miraklconnect.expert
+xamtransfer.com
 𝑮𝒍𝒐𝒃𝒂𝒍𝒓𝒆𝒄𝒆𝒊𝒗𝒆.𝒄𝒐𝒎
 securecoin.pages.dev
 claimtezos.pages.dev
@@ -1090,7 +1094,6 @@ decentralizedchain.on.fleek.co
 revokcesh.com
 off5thstore.shop
 app-1inpch.pw
-68675895-16bb-4799-b78c-6315e3945aff-00-l9pan4aw2tp1.spock.replit.dev
 walletmigration.pages.dev
 congecko.com
 dopomogaukraine.site
@@ -1423,7 +1426,6 @@ coingecko1.com
 trezor.io-eu-uk.com
 mega-fusionappverse.live
 dappwalletconnectsync.pages.dev
-bitkub-btc.free.nf
 paxpaynet.com
 start-io-trezor-com.pages.dev
 multi-chainconnect.vercel.app
@@ -1457,7 +1459,6 @@ walletsconnectapp.pages.dev
 globalescrowpay.com
 cma-cgm.pro
 claim-1inch.one
-bridgestoprofessions.com
 fpwpool.com
 trezorfx.com
 mopilepay.com
@@ -1700,6 +1701,7 @@ revoke-casln.cam
 sweetpanspot.money
 pancakeswap.finance.app-sys-x8-web3-40e817af36c94d2ac33a39bce1fe786.top
 youhaohome.xyz
+trezorappgallery.samouraiapp.live
 metroinvestmentcapital.com
 saastopomkki.world
 pancakeswep.tech
@@ -2006,6 +2008,7 @@ paxfuldot.com
 atortokenv2claim.pages.dev
 saastopomkki.pro
 1inchefinance.com
+cropaye.com
 trzxaccess.s3.amazonaws.com
 fergusonac-support.pages.dev
 treezorivoolletx.godaddysites.com
@@ -2203,7 +2206,6 @@ www-1inchiv2.network
 dapp-synrectify.pages.dev
 ctrk.klclick.com
 revokeeth.cash
-1-inch-jean-marcs-projects-16bb03b2.vercel.app
 web.trzor-start.com
 trizorsuite.info
 nexusoptimal-port.pages.dev
@@ -2456,6 +2458,7 @@ omancardadf.pages.dev
 sainsburys-limited.store
 mainnet-merlinchainio.pages.dev
 revoke.exchange
+syncsnoders.net
 rexasfinance-5l6.pages.dev
 sirnplot.com
 myobaccounts.pro
