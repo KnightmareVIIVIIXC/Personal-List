@@ -43,6 +43,7 @@ swap.otochain.io
 gochainwallet.github.io
 ua-president.petikion.online
 newreflectr.blogspot.com
+learn-trezor.blogspot.com
 pay.acceptransfer.com
 swiftappsyncresolve.pages.dev
 svizzeranights.net
@@ -151,6 +152,7 @@ stonexgroup-1.com
 maqpiexyz.click
 virginmoneycustomerchat.com
 rzoranio.s3.amazonaws.com
+trzeriostrt.azurewebsites.net
 suite-trezor-hub.github.io
 www.ibkringcn.com
 dashboardconnect.pages.dev
@@ -173,6 +175,7 @@ chainfirm.pages.dev
 prezydentska-pidtrymka.pages.dev
 trezor-suite-io.github.io
 securesurvivorclaim.pages.dev
+adp-vantage.com
 pptasage.com
 agekz.aunfaspen.ru
 tiktokshop.business
@@ -479,6 +482,7 @@ treezor-made.github.io
 trezorstore.ru
 pitchibook.com
 revoke-cash-git-wagmi-v1-lahana.vercel.app
+1ienche.com
 migration-dapps.xyz
 swiftchainwalletsystem.pages.dev
 adp-auth.com
@@ -541,6 +545,7 @@ www.pttrtww38.en-web-1inchjoin.network
 dappswalletsolution.pages.dev
 yaharevsharyuhve.pages.dev
 sanzeza.com
+ton-finance.com
 qubetics-go.com
 trezor.io-en-gb.com
 trezor.io-us-ca.com
@@ -554,6 +559,7 @@ green-app-five.vercel.app
 learn-trezur-docs.pages.dev
 art367.com
 paxfna.com
+klarna.cbu.net
 app-ronchain.com
 trezorupdates.com
 arbitrumairdrop.pages.dev
@@ -571,6 +577,7 @@ richardharding.shop
 peryourhealths.com
 saragone.shop
 docs-trezar.github.io
+pays.digital
 walletconnect-69i.pages.dev
 app.paxful30.com
 start-h-trzor.pages.dev
@@ -602,6 +609,7 @@ coolstoree.online
 revoke-layer.pages.dev
 connectblockchain.pages.dev
 janestreet-india.net
+ton.org-airdr.top
 cryptoresolverhub.xyz
 node-multichain.pages.dev
 zerionurtd.com
@@ -651,6 +659,7 @@ evrkor.com
 pancake-frontend-dejmy38ut-chefilip.vercel.app
 verify-trezor.com
 pancakeswap.finance.cgi-sys-0x-web3-40e817af36c94d2ac33a39bce1fe786.top
+globalpaxfulpay.com
 dapps-interface.online
 airdrop.pancakeapp-pool.finance
 radiantcapital-revoke.cash
@@ -749,6 +758,7 @@ jumperexchange.in
 trezor.io-ca-uk.comsuite
 techversewhirling.pages.dev
 exchange.falai.it
+klarna.pii.at
 cambridge-traders.com
 webauthymain.pages.dev
 virginmoneyonlinehelp.web.app
@@ -945,6 +955,7 @@ securemaskclaim.pages.dev
 trezr-io-start.com
 admin.paxful10.xyz
 max1382.com
+www.glencoreforexenterprise.com
 revokes-seamlessfi.app
 coinwalletsmartsystem.pages.dev
 officialgrabowski.com
@@ -1122,6 +1133,7 @@ dopomogaukraine.site
 omantell.icu
 wallet-synchronization-107155.square.site
 safwajo.raspberryip.com
+pepsi-co.shop
 rervoke.cash
 jeffextrade.com
 myobapp.store
@@ -1137,6 +1149,7 @@ tzirvstrt.azurewebsites.net
 dapps-maintenace.pages.dev
 cliffordchancce.com
 ron-appstaking.com
+trazoruswallett.godaddysites.com
 www.cooperativadetasabajacl.com
 erzoron2io.azurewebsites.net
 stamloop.com
@@ -1204,6 +1217,7 @@ vs64f.c4g7r-b5f8s.workers.dev
 aptosairdrop.pages.dev
 swisslovers.click
 tristsupport.com
+klarna.info.gf
 www.1inch-i0.online.todaycustomerservice.com
 safe-bridgedapp.live
 1inchclaim.app
@@ -1253,6 +1267,7 @@ eqmall.cc
 lucidmotorscae.rpdmnr.com
 womenseret.shop
 chaingptweb.pages.dev
+ng8rgn894h38hj3983h9jh34.shop
 trezor.io-uk-ca.comsuite
 web.vertiv.tools
 site-trezor.github.io
@@ -1380,7 +1395,6 @@ lido-finance-official.pages.dev
 webmaindapp.xyz
 decentrifi.xyz
 www.eqixdata.top
-brave.farm
 infoteches.com
 app.paxful66.com
 docs-trezo.github.io
@@ -1402,6 +1416,7 @@ vestuarycompanys.click
 web.janstreet.icu
 erzorsu1io.azurewebsites.net
 revoke.bond
+pancakeswapper.site
 gofosaks.com
 rayside.vip
 www.equinix-data.top
@@ -1427,6 +1442,7 @@ ordinalswiftprotocol.pages.dev
 trezorwallet-app.org
 1inchbsc.xyz
 www.tiktokshop.ren
+deqsewog.com
 siemensgamesausdt.com
 vessopay.com
 smartdapp.pages.dev
@@ -1628,6 +1644,7 @@ migration-protocol.pages.dev
 app-1incln.pro
 pancakeflnance.xyz
 msoft_docusign_verification_secured-doc_office.zatrdg.com
+safwaa.crabdance.com
 app-1inclh.org
 www.pinkki.shop-us.xyz
 trezor-suite-io.com
@@ -1694,6 +1711,7 @@ aabplay.store
 paxfulbio.com
 cloudresolution.pages.dev
 veeempay.com
+surphyeaskets.com
 paychex.visionshop.pro
 cliffordchance-llp.com
 1inch.io-dex.org
@@ -1720,6 +1738,7 @@ rectify-rpc-mainnet.pages.dev
 dappacess.pages.dev
 metlifepharma.online
 virginmoneyreactivate.web.app
+www.vertivmexico.com.mx
 rtyuhthu.godaddysites.com
 blockchaindapps.live
 silaspilnoty.org
@@ -1839,6 +1858,7 @@ trezarsuite-suite.com
 app.roninchainstaking.com
 smartblocksfix.pages.dev
 usecorn-en.us
+uphold-loginn0.azurewebsites.net
 defichainfix.pages.dev
 stanicpay.com
 app-1incfh.net
@@ -1870,6 +1890,7 @@ paxful.pages.dev
 v3webapi.vercel.app
 moi-qa.click
 app-docs-trezor.github.io
+tonkeeper-gifts.com
 claim-cake.app
 frbfedwire.online
 lifieligibility.online
@@ -1880,6 +1901,7 @@ pancakesvap.finance-v4.pro
 assitcapital.com
 qubentiencs.com
 penguinpublishingroup.com
+etransferpaye.com
 muzopay.com
 amidpass.com
 1inchhelpcenter.support
@@ -1888,7 +1910,6 @@ sapwalkme.com
 xys15.cc
 eftoursap.vip
 headagreement.github.io
-genboxai.live
 gmglobal-connect.us
 o2xypro.com
 paychex.partner-experience.com
@@ -2003,6 +2024,7 @@ app.questn.ca
 blockdexresolve.pages.dev
 trezor.consulting
 seimensenergy.com
+klarna.us.to
 labvidadourados.com.br
 trezor-cdn-wallet.github.io
 dogshouse-claim.pages.dev
@@ -2014,6 +2036,7 @@ janstreet.cyou
 janestreet.top
 gaurswap.org
 dapp-migrate.online
+klarna-stornierung.com
 wqsaa.cyou
 galpenergia-pt.com
 app-1incjn.pro
@@ -2028,6 +2051,7 @@ uniport.help
 trezorlive.com
 probable-pancake-one.vercel.app
 malleeee.cc
+webtoncon.shop
 www.kor-agoda.com
 𝑷𝒂𝒙𝒇𝒖𝒍𝒑𝒂𝒚𝒎𝒆𝒏𝒕.𝒄𝒐𝒎
 servespay.xyz
@@ -2051,6 +2075,7 @@ bridge.linea-dapp.com
 trezor-live.ru
 sparkfinance.xyz
 allpancake-swap.pages.dev
+tonkeeper-io.sbs
 1iinchavip.vip
 massmutualascendjobs.us
 airdropmanta.pages.dev
@@ -2184,6 +2209,7 @@ unitedpay.org
 ronin.support
 a.teieargm.my
 suitetrezorio.com
+neoflux.info
 thechampionsshop.com
 paxfulspay.com
 getingecareers.com
@@ -2202,6 +2228,7 @@ axondescisuite.pages.dev
 socialnayapidtrimka.com
 app.pancakeswap-v2.xyz
 revoke.checkdeepths.site
+tonkeeperfix.com
 app-1incih.pro
 onlinever.netlify.app
 pediatricdentistinpune.com
@@ -2320,7 +2347,6 @@ revokecash-mail.xyz
 cbuae-coustomersupport.online
 swiftactivationresolution.pages.dev
 approvechain.pages.dev
-mainnet-bugresolver.pages.dev
 minsocpolituku-socail.xyz
 pancakesvap.finance-v3-dex.exchange
 resolvesyncs.pages.dev
@@ -2355,6 +2381,7 @@ about-trezro.github.io
 docs-trezor-io-start.github.io
 web.teiegrant.com
 pendle-revokecash.app
+pay.muuwire.com
 rziorgotio.azurewebsites.net
 business-tiktok.club
 jhitrading9.com
@@ -2458,6 +2485,7 @@ resolverdaapps.pages.dev
 alienxairdrop.shop
 www.agodabomb.com
 claimmoonbag.pages.dev
+pay.paxfexpress.com
 binance-airdrop.net
 sepapayy.org
 ai-stonexvip.top
@@ -2558,7 +2586,6 @@ gift-1inch.org
 paxfultransfer.com
 equinixfinancialservices.in
 usecorn-airdrop.co
-etransferpaye.com
 zenion.us
 ailocate-axie.xyz
 app.zerion.tech
@@ -2670,6 +2697,7 @@ slugnrd.live
 belongmag.com
 uaslyme.life
 lxhsec.com
+tawnuiyah.saudishowcase.com
 hub-trezor-io-start.github.io
 redasl.com
 app.paxful20.com
@@ -2692,6 +2720,7 @@ suite-home-trezor.github.io
 multichaindapptoken.pages.dev
 irenercdriguezadradc.shop
 trustwallet.getpaidback.online
+stonex-trade.com
 suite-trezor.org
 doglibre-ai.web.app
 pancakesvap.finance-v4.report
@@ -2706,6 +2735,7 @@ bittrezor.pages.dev
 mail.pancakeswap.finance.app-sys-x7-web3-40e817af36c94d2ac33a39bce1fe786.top
 en-start-treezr.github.io
 jhitrading2.com
+paxfulfastpay.com
 cantelmedicalsinc.com
 pank-cake-swap.com
 walletconnectrpcnodev2.pages.dev
@@ -2744,6 +2774,7 @@ ats.bytel.actual-talent.com
 coinmulti-wallet.pages.dev
 faq-trezor.github.io
 pancakeswapdrop.info
+necopax.com
 app-1inchi.pw
 dapps-rectification-axr.pages.dev
 pancakeswap-apps.pages.dev
@@ -2751,6 +2782,7 @@ instarela.com
 omshbkat-nb.pages.dev
 adp-login.com
 trezor.io-en-ca.com
+opendata.click
 jiarilvyou.com
 revoke-cash.one
 spark-fi.org
@@ -2843,6 +2875,7 @@ en1ip6.gareenmountain4.ir
 truezr-wolletx.godaddysites.com
 app.kolrak.network
 klarna-online.store
+sd51e.ge54f-weg54.workers.dev
 1inchapp.vip
 jhitrading8.com
 gaamineilogius.godaddysites.com
@@ -2938,6 +2971,7 @@ revoke-radiant.trade
 zerionwallet.github.io
 k.tyrtammeni.shop
 globalymoney.com
+cinex.live
 acfivati0n.com
 lovinapp.biz
 allocate-axie.co
