@@ -5,8 +5,6 @@
 #
 # Sources
 
-https://d3ward.github.io/toolz/adblock
-
 https://filterlists.com/
 
 https://firebog.net/
@@ -20,6 +18,8 @@ https://github.com/badmojr/1Hosts
 https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/
 
 https://github.com/cbuijs/ut1/
+
+https://github.com/d3ward/toolz/
 
 https://github.com/hagezi/dns-blocklists/
 
