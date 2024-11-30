@@ -5,6 +5,8 @@
 #
 # Sources
 
+https://d3ward.github.io/toolz/adblock
+
 https://filterlists.com/
 
 https://firebog.net/
