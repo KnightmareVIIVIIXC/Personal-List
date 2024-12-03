@@ -243,7 +243,6 @@ defi-prot.pages.dev
 brave-wallet.io
 rekrutmenperbankan.driftr.my.id
 terrzorwallet.azurewebsites.net
-hanonsystems.tdr.tienda
 revoge.cash
 emailpro.onloard.online
 sparkfi-tokens.com
@@ -340,7 +339,6 @@ transfers.t-cashpay.com
 transfastway.com
 bometrumpdrop.pages.dev
 tpgx.cc
-gmglobalconnects.us
 en-by-trezor.github.io
 syncdappsresolvers.pages.dev
 trezzr-bridge.godaddysites.com
@@ -1159,7 +1157,6 @@ jeffextrade.com
 myobapp.store
 glopalpay.com
 www.lovinapp.info
-sarapanzeri.shop
 airdrop-sealana.pages.dev
 synselites.com
 afsalsatians.info
@@ -1267,6 +1264,7 @@ startio-trezor-docs.github.io
 en-bridge-trezzor.github.io
 exchange.add-solution.de
 conference-template-67044accd5114.ycode.site
+miusjhi001.com
 debug-chain.pages.dev
 payxpayl.vercel.app
 jhitrading3.com
@@ -1617,7 +1615,6 @@ trezorlock.com
 app-1inclh.pw
 blockchaindapp-dri.pages.dev
 paylinkglobal.services
-visapwr.com
 bitem83628800127mkr.eg7publicidade.com
 pendle-revokecash.co
 alshayar.com
@@ -1811,7 +1808,6 @@ www.portalpipes.com
 b9rg4.s4w5g-4ef9w.workers.dev
 beancake-swap.vercel.app
 jumper-exchange.store
-maildev.continuous.qsldev.work
 pancakeswap.servupdatemailer.workers.dev
 moi-q.sbs
 elite-sync.pages.dev
@@ -1885,7 +1881,6 @@ phczeepmobile.com
 helpukr.cc.ua
 claim-dashboard.pages.dev
 jefffortrading.com
-trezor-io.fm5ab.org
 1inch-airdrops.com.ng
 nequipsee.webcindario.com
 v3webapi.vercel.app
@@ -2832,6 +2827,7 @@ bulkdirectproversa.pages.dev
 pepsibray.site
 off5thstores.shop
 remotesmulitconnect.netlify.app
+app.pancakefi-pools.org
 walletsdemo.netlify.app
 exploremanta.pages.dev
 blockchain-reflection.vercel.app
