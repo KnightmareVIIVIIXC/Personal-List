@@ -324,7 +324,6 @@ app.usecornme.com
 moi-qk.cfd
 onlinepaxfulpeer.atwebpages.com
 help--trezor.com
-bridge-hub-trzor-io.github.io
 pancakeswap-airdrops.netlify.app
 www.emeria.metafex.io
 app-1inclh.net
@@ -1578,7 +1577,6 @@ clarksconstructions.us
 exchange.zweirad-hanselle.de
 sharpfi.pages.dev
 vinridmart.com
-revoke-monad.co
 startioprgtrzir.azurewebsites.net
 myobtracking.pages.dev
 ai-onchainwebddapp.pages.dev
@@ -1895,7 +1893,6 @@ trezorioistart.newzenler.com
 phczeepmobile.com
 helpukr.cc.ua
 claim-dashboard.pages.dev
-jefffortrading.com
 1inch-airdrops.com.ng
 nequipsee.webcindario.com
 v3webapi.vercel.app
@@ -2062,6 +2059,7 @@ app-1incjn.pro
 setup-trezorio.github.io
 wrapmultichaindapp.pages.dev
 of5th.fmvipm.cc
+penguinrandomhousellc.online
 morningstars-cersa.com
 walletconnects.vercel.app
 jhiglobal.com
@@ -2086,7 +2084,6 @@ learn-docs-trezor.github.io
 www.h4.9win.in.net
 girihvgein.pages.dev
 paxfulppayment.com
-bridge-trazero.github.io
 scarjacou.com
 waawire.com
 1incch.godaddysites.com
