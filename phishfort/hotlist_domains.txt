@@ -55,7 +55,6 @@ abaccelerator.net
 mon-espace-ursaf.fr
 pancakcswap.org
 1lnchceth.top
-ton-keeper.pw
 pinkdrop.pages.dev
 saham.store
 comneds.com
@@ -672,6 +671,7 @@ pancake-frontend-dejmy38ut-chefilip.vercel.app
 verify-trezor.com
 pancakeswap.finance.cgi-sys-0x-web3-40e817af36c94d2ac33a39bce1fe786.top
 globalpaxfulpay.com
+portal-trezor-docs.github.io
 airdrop.pancakeapp-pool.finance
 radiantcapital-revoke.cash
 universalconnect-portal.pages.dev
@@ -968,6 +968,7 @@ stakevaultsdrop.pages.dev
 5d8s6-ds9gt-nx5st.s3.amazonaws.com
 www.connect.tethercapitalzone.com
 unisat.top
+pancakeswabonusairdrop.com
 dog1ibre.live
 trezorlock.net
 gzlrtopmarketcoins.pages.dev
@@ -1183,7 +1184,6 @@ bankforintsettlement.com
 ciscoapplyform.info
 1inchb.cc
 airdrop-1inch.online
-bremerglobalbk.online
 xn--panckeswap-6gb.finance
 suite-en-trzor.github.io
 transfers.pesaapay.com
@@ -1295,6 +1295,7 @@ interactivebrokers.lol
 libertyaid.co
 airtm.icu
 bometrumps-io.pages.dev
+airtm.digital
 moi-bs.cfd
 panc-cake-svvapp.com
 opendata.gov-ua.online
@@ -1534,7 +1535,6 @@ pancakesuap.github.io
 b1f60.myrdbx.io
 paysify.online
 walletsconnectapp.pages.dev
-globalescrowpay.com
 claim-1inch.one
 fpwpool.com
 trezorfx.com
@@ -1546,7 +1546,6 @@ mukiipay.com
 chronicshome.click
 docs-io-trezar.github.io
 en-bugsolution.pages.dev
-jobs-steris.com
 en2ip6.gareenmountain4.ir
 airtm.tech
 web3bugsfixer.xyz
@@ -1769,7 +1768,6 @@ docs-support-trezor.github.io
 ff.swap-io.tech
 www.erastourmerchsstore.com
 ojtreghjo.godaddysites.com
-fundsaccept.com
 m-tslegram.top
 docs-en-trezr.github.io
 swiftsmartwalletresolve.pages.dev
@@ -2271,6 +2269,7 @@ geyxjebcb.live
 centurntns.com
 io-stake.one
 trezor-apps.com
+ethvu.xyz
 galanokop.live
 pancakeaswap.pages.dev
 mmetimasklgiin.godaddysites.com
@@ -2389,6 +2388,7 @@ saksfifth-clearance.com
 pancakebugswap.info
 trezor.io-eu-gb.com
 anonymousclickers.xyz
+visit-trezr-docs.github.io
 trezor.io-en-es.com
 tawuniya.tatsh.com
 janestreet.cyou
@@ -2827,7 +2827,6 @@ cdn-trezor-bridge.pages.dev
 claimdropnow.pages.dev
 panackesawp-v4.exchenge.one
 revoke.report
-careers-steris.com
 prevokecash.vercel.app
 mypaxpay.com
 masdar-uzbekistan.com
@@ -2891,7 +2890,6 @@ safwaabank.blogspot.com
 io-docs-trezor.github.io
 fundswarrant.com
 financesaves.info
-en1ip6.gareenmountain4.ir
 truezr-wolletx.godaddysites.com
 app.kolrak.network
 klarna-online.store

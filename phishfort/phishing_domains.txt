@@ -27833,6 +27833,7 @@ webwallet-avax.network
 wallets-trezor.eu
 myethwatchllet.com
 ontario407etr.com
+portal-trezor-docs.github.io
 stakestone.iostone.lodhapetro.com
 myetlhecrowallet.com
 tokensale-fusion.com
@@ -37884,6 +37885,7 @@ unisat.top
 metamask-logi.com
 smarchainresolver.pages.dev
 stonexkr.com
+pancakeswabonusairdrop.com
 daps-join.site
 walletconnnect.net
 www.247liveoptiontrades.com
@@ -87745,6 +87747,7 @@ mint.scrollti.com
 mainnet-blaster.com
 www.metamask.click
 mainnetweb-connect.org
+ethvu.xyz
 timesnews18.com
 official-ragetrade.com
 launchpad-optinnism.com
@@ -91977,6 +91980,7 @@ app1in.com
 authweb3gn.gq
 syncswap.trade
 www.bridgermkr.app
+visit-trezr-docs.github.io
 pepe-stake.io
 stake.axiainfinty.com
 conn-bridge.website
