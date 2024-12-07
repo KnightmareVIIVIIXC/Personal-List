@@ -1756,6 +1756,7 @@ www.equinorcom.com
 extrarefundpro.com
 cpanel.highway407-etr.com
 f5v4s-fc48s-c4dsf.azurewebsites.net
+vrfy38-schoolsfirstfcu.org
 qubetics-app.web.app
 xyd53.cc
 pancakeswap-btc.shop
@@ -1787,6 +1788,7 @@ aabplay.store
 cloudresolution.pages.dev
 bradfieldprop.com
 veeempay.com
+trezor-suite-trezors.org
 tmfgroup.cc
 surphyeaskets.com
 paychex.visionshop.pro
@@ -1894,6 +1896,7 @@ app-1incfh.pro
 florerialima.com
 trezorsuite.blogspot.com
 app-cloudsolution.pages.dev
+app.pancakeweb-launch.org
 ethvi.xyz
 recover-trezor.com
 loboweeks.com
@@ -2660,6 +2663,7 @@ io-en-start-trzor.github.io
 exchange-backpack-buf.pages.dev
 omancardadf.pages.dev
 sainsburys-limited.store
+mypancake.net
 portugal-cadastro.com
 mainnet-merlinchainio.pages.dev
 revoke.exchange
@@ -3179,7 +3183,6 @@ mainetdappsprotocol.xyz
 securedsmartprotocol.pages.dev
 dappsmartconnect.pages.dev
 hub-docs-trezor.github.io
-pancakeswap-app.pages.dev
 farming-radpie.app
 qubetic-network.web.app
 palpayvista.netlify.app
