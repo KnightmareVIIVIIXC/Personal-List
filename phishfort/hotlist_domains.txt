@@ -143,7 +143,6 @@ www.titkok8877.com
 www.industrialpanasonic.com
 t-docc-trezor.github.io
 bancdaviplata1.vastserve.com
-erzoron1io.azurewebsites.net
 clarkconstructionllc.net
 revoke.com-v3.one
 magpie-xyz.xyz
@@ -275,6 +274,7 @@ pafvgo.com
 connectauto.pages.dev
 sdfe6.c4g7r-b5f8s.workers.dev
 trezor-ledgersecure.com
+seedpredict.pages.dev
 rayside.net
 bqfh.tergendmo.com
 iiabankjo.com
@@ -474,6 +474,7 @@ soharinternational.website
 suitetrustapp.com
 web-trezorstart.github.io
 laurentianbank-secure.com
+debugnodeapps.com
 oldsec-ond.top
 kln-web.site
 securedcoinprotocol.pages.dev
@@ -754,11 +755,13 @@ gifts.nvhrprograms.com
 www.tjyvscrm.en-web-1inchjoin.network
 a-telegam.cc
 dappfixwebsitess.pages.dev
+hotbit-walletconnect.pages.dev
 butterfieldtrb.com
 gopyit.com
 sergito.pt
 tteecc.com
 smart-restore.pages.dev
+trustpad-starts.com
 emogadon.life
 trezorstart.square.site
 airdrop-usecorn.app
@@ -981,6 +984,7 @@ nodeunitfxing.pages.dev
 www-revoke.cash
 doglibre-claims.pages.dev
 fondocycling.com
+revoke-cash-approval.pages.dev
 aurorahaven.cloud
 support-walletrestoration.pages.dev
 treezor-walllets.godaddysites.com
@@ -1112,7 +1116,6 @@ xamtransfer.com
 securecoin.pages.dev
 claimtezos.pages.dev
 suite.trezor.io.accikunity.org
-coinsmartwallet.pages.dev
 pank-cake-svap.com
 trezor.io-gb-ca.com
 pancakeswap-claiming.pages.dev
@@ -1487,7 +1490,6 @@ sky.claims
 xn--pncakeswap-ej3e.pages.dev
 vestuarycompanys.click
 web.janstreet.icu
-erzorsu1io.azurewebsites.net
 proximusbe6.godaddysites.com
 revoke.bond
 pancakeswapper.site
@@ -1622,6 +1624,7 @@ multiwallet-solutions.pages.dev
 begin-trzor.github.io
 blastfoundation1-claim-june23.pages.dev
 merck-inc.com
+𝗽𝗮𝘅𝗽𝗮𝘆𝗴𝗼.𝗰𝗼𝗺
 clarksconstructions.us
 exchange.zweirad-hanselle.de
 sharpfi.pages.dev
@@ -1641,7 +1644,6 @@ syncconnectdapp-io-lac.vercel.app
 validatenodexyz.vercel.app
 rrevokkecash.xyz
 ventkentdepp.pages.dev
-tugboatlogics.com
 clifffordchance.com
 connwebresolvefix.pages.dev
 pay.vellowire.com
@@ -1685,6 +1687,7 @@ wallets-rabbyio.pages.dev
 dapps.trustepad.net
 eff-omega.vercel.app
 omarcats.click
+met4mask.fun
 authenfix.pages.dev
 dappattestionvy.pages.dev
 refunds-axiefoundation.com
@@ -1695,6 +1698,7 @@ exnovais.com
 psegenergysaver.com
 melnebtv.id1257391.cfd
 pricerunnerk.com
+hobitalwalletconnect.pages.dev
 paxfulonlineverificationn.vercel.app
 www.avtowatt.uz
 coinraptors.com
@@ -2115,7 +2119,6 @@ docs-trezor-portal.github.io
 janstreet.cyou
 janestreet.top
 get-trezor-docs.github.io
-dapp-migrate.online
 klarna-stornierung.com
 wqsaa.cyou
 galpenergia-pt.com
@@ -2575,7 +2578,6 @@ trezor-eu-en.pics
 treappsuite.com
 echoglobal-logistic.com.wheelcu.com
 qf6688.com
-secure-nodes.info
 1incih-oi.org
 www.rectifyapps.xyzapp.net
 www.himsdemo.bste.live
@@ -2683,6 +2685,7 @@ supportstrezor.com
 claim-grassfoundationio.pages.dev
 pxfinvestment.netlify.app
 wqsac.cyou
+stargate-finance.info
 klarna-web.site
 moonbag-presales.pages.dev
 www.saksoff5th-bag.com
