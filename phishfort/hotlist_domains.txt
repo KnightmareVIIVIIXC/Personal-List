@@ -294,6 +294,7 @@ www.equnixdata.biz
 account.paxfullpay.com
 xyy34.cc
 stonexusdt.com
+tmfgroup.vip
 pancakexswap.pages.dev
 wallet-connect-a2g.pages.dev
 fender-es.com
@@ -525,7 +526,6 @@ finanzaswizink.com
 issue-connection.pages.dev
 gimenezrangelfranklin.blogspot.com
 integratechaindefi.pages.dev
-pancake.otochain.io
 starknetdrop.pages.dev
 restoreweb3-dapnetwork.vercel.app
 payn.top
