@@ -33,9 +33,9 @@ https://github.com/ShadowWhisperer/
 
 https://github.com/shahidcodes/firebog-ticked-list
 
-https://github.com/WilliDieEnte/BetterBlocklist/
+https://github.com/sjhgvr/oisd
 
-https://oisd.nl/
+https://github.com/WilliDieEnte/BetterBlocklist/
 
 https://www.spamhaus.org/
 
