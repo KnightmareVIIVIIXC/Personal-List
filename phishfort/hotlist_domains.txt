@@ -200,7 +200,6 @@ vtrezor.com
 start-m-trezar.github.io
 chainsecuredsmartprotocol.pages.dev
 lendmarkfinancial.pages.dev
-lezor3021sxes.azurewebsites.net
 rewards-sparkfi.net
 vrfy01-schoolsfirstfcu.org
 trezor.io-apprecovermode.com
@@ -228,6 +227,7 @@ protocollifi-en.com
 sgcdex.finance
 stcoinext.com
 szemrajfotografi.pl
+thestargame.one
 vrfy09-schoolsfirstfcu.org
 thbitkubopu.com
 merges-dags-sever.pages.dev
@@ -506,6 +506,7 @@ revoke-cash-git-wagmi-v1-lahana.vercel.app
 1ienche.com
 migration-dapps.xyz
 claim-bnb-airdrop.pages.dev
+shrapnel-nft.xyz
 adp-auth.com
 buy.qubetecs.org
 arabiislamibankjo.com
@@ -571,6 +572,7 @@ rec-netchains.pages.dev
 pancake-frontend-9urm4h6ap-chefilip.vercel.app
 app.pancakefi-pool.com
 dappswalletsolution.pages.dev
+revcee-cash.com
 yaharevsharyuhve.pages.dev
 sanzeza.com
 bridga-doc-trezor.my.canva.site
@@ -615,7 +617,6 @@ saksoff5ths.com
 richardharding.shop
 peryourhealths.com
 saragone.shop
-pays.digital
 walletconnect-69i.pages.dev
 start-h-trzor.pages.dev
 siemens-energy.co
@@ -704,6 +705,7 @@ pancake-frontend-dejmy38ut-chefilip.vercel.app
 verify-trezor.com
 pancakeswap.finance.cgi-sys-0x-web3-40e817af36c94d2ac33a39bce1fe786.top
 globalpaxfulpay.com
+revqke.cash
 portal-trezor-docs.github.io
 airdrop.pancakeapp-pool.finance
 radiantcapital-revoke.cash
@@ -719,6 +721,7 @@ lending-tree.flexstart.live
 uesecorn.com
 demo.instant-healthcare.com
 toll-group.com
+strcasapp.online
 myobapp.pro
 web-trezor-en.my.canva.site
 trezor.io-es-gb.com
@@ -840,6 +843,7 @@ top.marath0nfund.net
 pancakeswap-connect-bsc.pages.dev
 smartmultionlinechain.web.app
 digitallinknet.com
+fecaladdiction.com
 revokc-cash.com
 walletaltacces.pages.dev
 makhtarsarr.serv00.net
@@ -863,7 +867,6 @@ tzrconnectsuite.com
 en-trezor-learn.github.io
 cliffchancelogistics.com
 multiwalletsolution.pages.dev
-bnb-projectclaim.firebaseapp.com
 𝐞𝐝𝐨𝐩𝐩𝐚𝐲.𝐜𝐨𝐦
 webmail.highway407-etr.com
 theys-fils.serv00.net
@@ -1062,6 +1065,7 @@ www.equnixapp.cloud
 xspay03.com
 1lnchceth.cyou
 sparkfi.foundation
+prize-promo.click
 omantel-webapp-reflink-om.com
 dappdefimodule.pages.dev
 k1er.co.uk
@@ -1235,7 +1239,6 @@ metroglobalcapitalbk.com
 cliffordchancce.com
 trazoruswallett.godaddysites.com
 www.cooperativadetasabajacl.com
-erzoron2io.azurewebsites.net
 stamloop.com
 usekorn.com
 tonkeepersafe.club
@@ -1424,6 +1427,7 @@ opendata-hsc.org
 saksoffbbags.com
 ukroshad.cc.ua
 www.equinorn.cc
+revgke.cash
 50-jili.site
 rachelstaqueriabrooklyn.com
 verawallet.pages.dev
@@ -1655,7 +1659,6 @@ begin-trzor.github.io
 blastfoundation1-claim-june23.pages.dev
 merck-inc.com
 𝗽𝗮𝘅𝗽𝗮𝘆𝗴𝗼.𝗰𝗼𝗺
-clarksconstructions.us
 exchange.zweirad-hanselle.de
 sharpfi.pages.dev
 vinridmart.com
@@ -2018,7 +2021,6 @@ etransferpaye.com
 pancake-swap-bug.pages.dev
 muzopay.com
 oneasx.com
-1inchhelpcenter.support
 app-wallet-connect.pages.dev
 xys15.cc
 eftoursap.vip
@@ -2053,7 +2055,6 @@ multismartcoinwallet.pages.dev
 reward-pancakeswap.com
 www.djaslk.shop
 kpricerunner.com
-usecoorn.com
 moussakalo.shop
 swifttransacts.com
 www.paycetos.online
@@ -2066,7 +2067,6 @@ web3zerion-chainclaim.pages.dev
 app.airtm.com.mx
 io-trezor-en.github.io
 washingtonpost.earnwithliquid.com
-aminagroup.finance
 iniciaonline.com
 penguinrandomhouse-berkley.com
 en-get-trezor.github.io
@@ -2078,11 +2078,11 @@ kvr198.com
 wallet-mymonero.com
 wh1370511.ispot.cc
 www.virtualsecuritysolutions.net
+trezor.activate-now-securease.com
 auth-trezior.my.canva.site
 nowutcourses.en-web-1inchjoin.network
 pancakesvap.flnance-v3-dex.report
 trezor-bridge-help.my.canva.site
-saks5thonclearance.com
 uu-water.com
 tz24.amwys.top
 wbmoores.com
@@ -2191,7 +2191,6 @@ trazeeerapp-api.azurewebsites.net
 www.paxful.wanderlustexpeditions.co.ke
 paxosplus.com
 coinbasemobile.pages.dev
-defi-universaldapps.xyz
 learn-docs-trezor.github.io
 www.h4.9win.in.net
 girihvgein.pages.dev
@@ -2221,7 +2220,6 @@ treezorivoolletx.godaddysites.com
 zeusln.tech
 gagufamily.com
 fourseasos.com
-app.launchpadtools.pro
 klarna-pay.de
 trezor-update.pages.dev
 www.pancakeswap.finance.app-sys-x13-web3-40e817af36c94d2ac33a39bce1fe786.top
@@ -2319,7 +2317,6 @@ clark-construction.co
 mooo.info
 coinmultiwalletparcl.pages.dev
 digitalnodeservexyz.pages.dev
-trezor-wallett.com
 suite-start-trezor.github.io
 omantelmyworld.nowsport365.com
 intapaay.com
@@ -2346,7 +2343,6 @@ trezor.io-gb-ca.comsuite
 dopdopsocpom.com
 coinpayments-c9c.pages.dev
 jumperchange.pro
-www.pepsi.co.id
 bitkubift.com
 henglib.github.io
 modechain.pages.dev
@@ -2603,11 +2599,9 @@ pay.pesapaye.com
 ttrezor-apps.github.io
 portal-trezor.io
 walletc-onnect.github.io
-uecorn.com
 revoke-auht.info
 reward-spark.com
 register-sparkfl.xyz
-cma-cgmlogistics.com
 revoke-bingx.net
 iktokshop.vip
 ecoppay.com
@@ -2704,7 +2698,6 @@ www.trezor.io-for-web.online
 sunpumpr.org
 trezriostart.my.canva.site
 meirgold.shop
-agoda-buzz.co
 1inch.io-connect.pro
 alshaya-group.com
 io-en-start-trzor.github.io
@@ -2745,7 +2738,6 @@ klarna-web.site
 moonbag-presales.pages.dev
 www.saksoff5th-bag.com
 xys47.cc
-dekentredent.pages.dev
 access407etr.report
 pancakeswap-datas.pages.dev
 senapsy-protocoll.org
@@ -2762,6 +2754,7 @@ zenion.us
 ailocate-axie.xyz
 app.zerion.tech
 facturacelsia.space
+klarnaplatform.com
 1inch5.cc
 trezor.io-uk-gb.com
 pancakefixextension.pages.dev
@@ -2977,7 +2970,6 @@ panackesawp-v4.exchenge.one
 revoke.report
 mypaxpay.com
 masdar-uzbekistan.com
-useccorn.com
 janstreets.icu
 m.bitkubscy.com
 generalmotorscareer.com
@@ -2996,7 +2988,6 @@ walletsdemo.netlify.app
 exploremanta.pages.dev
 blockchain-reflection.vercel.app
 daomaker-app.pages.dev
-twofactor-chevrononlinefcu.com
 proximus-mails.godaddysites.com
 learn-suie-trezor.github.io
 skipton-naht.co.uk
@@ -3004,7 +2995,6 @@ bridge-us-trezorio.github.io
 en-trezor-doc.my.canva.site
 trezor-suit-app-cdn.github.io
 trezor.io-uk-eu.com
-trezor.io-connect.online
 moneyonchain-api.tonapps.pro
 www-tsys.vip
 proxm-log-cmplxe.ycode.site
@@ -3185,7 +3175,6 @@ wqsaa.icu
 moonlitcove.cloud
 daass.online
 dapp-fixing.pages.dev
-bnb-projectclaim.web.app
 pancakesawpafinnace.com
 pay.paxfulepay.com
 helpful-dusk-258064.netlify.app
