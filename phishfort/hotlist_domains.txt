@@ -270,7 +270,6 @@ start-hub-trezor.github.io
 cevatranswift.com
 trezor.io-en-uk.com
 trozerwallets.com
-tathastudd.com
 autochainsfix.pages.dev
 prcboards.blogspot.com
 trezriostart1.godaddysites.com
@@ -825,6 +824,7 @@ graypolvark.pages.dev
 gantiekspedisi.my.id
 pancakeswap.flnance.w3-dv.run
 learn-desktop-trexorr.github.io
+vertiv.dns.cz
 tbo.evencarellc.com
 myomantelecom-refundappli-om.com
 trustbyit.com
@@ -962,7 +962,6 @@ signup-initiafoundation.com
 kfhhadith.com
 dexnodevalidation.com
 paxfull.life
-totalwineusa.com
 imayc.com
 wallet-sync-protocol.pages.dev
 cma-cmg.cam
@@ -1114,6 +1113,7 @@ testnnggg.pages.dev
 edoppay.com
 dapp-bridge.pages.dev
 webmail-arabbank-zcholraych.tdgccbjuyjbgdas.ru
+firstamus.com
 washingtonspost.live
 auth-start-trezor.my.canva.site
 portal-bridge-trezor.github.io
@@ -1725,7 +1725,6 @@ chain-rewards.pages.dev
 register-shrapnel.xyz
 dioneprotocol-snapshot.vercel.app
 id.myobtax.pro
-paxful.vemmowire.com
 letenkywizzair.sk
 pacnakesw.flnance-v4.icu
 rectifydapp.pages.dev
@@ -1771,6 +1770,7 @@ www.equinorcom.com
 extrarefundpro.com
 cpanel.highway407-etr.com
 f5v4s-fc48s-c4dsf.azurewebsites.net
+vertsiv.com
 vrfy38-schoolsfirstfcu.org
 trzrsutelgin8.godaddysites.com
 paxfulpaytransfer.com.payviobank.com
@@ -2069,6 +2069,7 @@ trezorstart-home.github.io
 sky-8ir.pages.dev
 fenderguitar.shop
 tymeprivate.com
+pennplaycasino.net
 1inchblog.com
 elr593.com
 securepaymentverify.000.pe
@@ -2255,7 +2256,6 @@ coinwallethub.web.app
 capitaladvisorsnet.com
 app.323171.cc
 defi-protocols.pages.dev
-adp-usdt.com
 paxfultransact.com
 pancake-swipe3.vercel.app
 register-sparkfl.trade
@@ -2318,6 +2318,7 @@ thechampionsshop.com
 app.paxfulinv.com
 trezor.io-gb-ca.comsuite
 dopdopsocpom.com
+tonkeepere.cc
 coinpayments-c9c.pages.dev
 jumperchange.pro
 bitkubift.com
@@ -2371,6 +2372,7 @@ exploits-revokecash.com
 protocol-migra.pages.dev
 pancakerswap.pages.dev
 magicbox-airdrop.web.app
+tonkeepere.com
 web3-pancakeswap.com
 mcken.mckenzic.cfd
 pancakeswap.flnance.w3-dv.org
@@ -2774,9 +2776,7 @@ minitoe.com
 mbarara.cheetahnet.ug
 xyy53.cc
 autoconnectfixer.pages.dev
-spark-protocol.co
 zieke-68uevd.net
-www.empower-retirementplan.com
 web-start-trezorr.my.canva.site
 www.bainqrap.cc
 arpentiat.com
@@ -3146,7 +3146,6 @@ wqsaa.icu
 moonlitcove.cloud
 daass.online
 dapp-fixing.pages.dev
-pancakesawpafinnace.com
 pay.paxfulepay.com
 devonenergyinc.com
 helpful-dusk-258064.netlify.app
