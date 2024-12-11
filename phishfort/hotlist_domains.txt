@@ -39,7 +39,6 @@ multisectionprotocol.pages.dev
 www.pancakeswap.flnance.w3-dv.run
 trezors-s-learn.my.canva.site
 empower-retirments.com
-usecorrn.com
 zaibubelts.com
 gochainwallet.github.io
 newreflectr.blogspot.com
@@ -1252,6 +1251,7 @@ bankforintsettlement.com
 ciscoapplyform.info
 1inchb.cc
 airdrop-1inch.online
+reviewca.com
 xn--panckeswap-6gb.finance
 suite-en-trzor.github.io
 transfers.pesaapay.com
@@ -2375,7 +2375,6 @@ vmaneuverability.info
 walletconnect.claiming.events
 www.syncndefix.line.pm
 unifiedchain-authdapps.pages.dev
-1-inchi0.online
 revoka-cash.best
 app-1ijnch.pw
 docs-bridge-treezor.github.io
