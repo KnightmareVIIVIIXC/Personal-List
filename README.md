@@ -20,6 +20,8 @@ https://github.com/d3ward/toolz/
 
 https://github.com/hagezi/dns-blocklists/
 
+https://github.com/infinitytec/blocklists/
+
 https://github.com/jarelllama/
 
 https://github.com/MetaMask/eth-phishing-detect/
