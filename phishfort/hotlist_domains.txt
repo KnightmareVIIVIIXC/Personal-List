@@ -146,6 +146,7 @@ trezor.activate-securease.com
 tomlexlegal.com
 stonexgroup-1.com
 maqpiexyz.click
+www.pancakeswap.finance.r1-web3.top
 rzoranio.s3.amazonaws.com
 trzeriostrt.azurewebsites.net
 suite-trezor-hub.github.io
@@ -498,11 +499,13 @@ migration-dapps.xyz
 foundation-maker.org
 claim-bnb-airdrop.pages.dev
 shrapnel-nft.xyz
+vhashmining.com
 adp-auth.com
 buy.qubetecs.org
 arabiislamibankjo.com
 www.wagehealthequity.icu
 sdao-migration.pages.dev
+pancakeswap.finance.r2-web3.top
 glencoreforex.com
 palucosmeticsitaly.com
 panackesawp.com
@@ -1171,6 +1174,7 @@ sqthgb7.com
 simonandschuster.xyz
 paxfulpaytransfer.com
 113815f.wcomhost.com
+transferbyt.com
 adp-welcome.com
 forex-vip.site
 paxsign.online
@@ -1225,6 +1229,7 @@ trazoruswallett.godaddysites.com
 www.cooperativadetasabajacl.com
 stamloop.com
 usekorn.com
+livetest.co4qu.com
 tonkeeper.monster
 tonkeepersafe.club
 protocolmigrazerionxz.pages.dev
@@ -1496,7 +1501,6 @@ potool.com
 v4-pancakcswape-exchange.icu
 en-trezor-docss.my.canva.site
 gka806.com
-dapp-1inch.com
 thbltkubcce.com
 trezorsute.com
 newyorkfrb.org
@@ -1722,7 +1726,6 @@ g-future.top
 layerzero-foundation-claims.pages.dev
 chain-rewards.pages.dev
 register-shrapnel.xyz
-dioneprotocol-snapshot.vercel.app
 id.myobtax.pro
 letenkywizzair.sk
 pacnakesw.flnance-v4.icu
@@ -2566,6 +2569,7 @@ migrate-squidgrow-io.pages.dev
 appsuitegear.com
 proposal-sparkfi.com
 www.fantwire.com
+pancakeswapv5.com
 saksoff5thpro.com
 rabby-4yk.pages.dev
 linea-airdrop.pages.dev
@@ -2631,7 +2635,6 @@ fiberproximus.be
 revokecash.services
 synctrezor.com
 1inchrewards.xyz
-app.1inhse.org
 pexful-lgin.godaddysites.com
 paxfulwel.com
 live-trezor-validation.com
@@ -2672,7 +2675,6 @@ berkleycapital.ca
 epaxfulpayment.com
 haiwaiajbell.laipiaozi.cc
 www.trezor.io-for-web.online
-sunpumpr.org
 pepsi.baby
 agodattvip.com
 trezriostart.my.canva.site
@@ -2729,7 +2731,6 @@ v2-pahcakesvvap.com
 rglegalllp.vip
 mainetnodeauth.pages.dev
 www.se-renewables.info
-gift-1inch.org
 io-trezor.my.canva.site
 paxfultransfer.com
 equinixfinancialservices.in
@@ -2952,6 +2953,7 @@ eqniuors-mall.cc
 pepsibray.site
 off5thstores.shop
 start-trezor-io.my.canva.site
+sa.ezxrich.com
 remotesmulitconnect.netlify.app
 app.pancakefi-pools.org
 walletsdemo.netlify.app
@@ -3069,7 +3071,6 @@ terminus-sushi.top
 claimton.net
 brave-app.com
 expresshardxa.shop
-casinovlad.com
 vnsupvc.com
 blockchain-protocol-mul.pages.dev
 bridge-wanchain.pages.dev
