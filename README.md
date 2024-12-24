@@ -4,8 +4,6 @@ https://filterlists.com/
 
 https://firebog.net/
 
-https://github.com/AdguardTeam/HostlistCompiler/
-
 https://github.com/AdguardTeam/HostlistsRegistry/
 
 https://github.com/badmojr/1Hosts
