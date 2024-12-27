@@ -1,10 +1,16 @@
+# Tools
+
+https://blocklist.sefinek.net/
+
+https://nodejs.org/
+
+https://github.com/AdguardTeam/HostlistCompiler/
+
 # Sources
 
 https://filterlists.com/
 
 https://firebog.net/
-
-https://github.com/AdguardTeam/HostlistCompiler/
 
 https://github.com/AdguardTeam/HostlistsRegistry/
 
@@ -37,10 +43,6 @@ https://github.com/shahidcodes/firebog-ticked-list/
 https://github.com/sjhgvr/oisd/
 
 https://github.com/WilliDieEnte/BetterBlocklist/
-
-https://nodejs.org/
-
-https://blocklist.sefinek.net/
 
 https://www.spamhaus.org/
 
