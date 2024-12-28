@@ -306,7 +306,6 @@ skylinehollow.cloud
 teamtrezor.io
 fundiings.org
 klarna-kasinot.fi
-tongeeper.xyz
 uselcron.com
 www.laurentian-group.ca
 app.1incln.io
@@ -1158,7 +1157,6 @@ airtmoficial.tech
 umarjoker22.ru
 klarnapricing.com
 demo.musangking.com.my
-1inch.io-defi.com
 407etrhighway.report
 cloudrectification.pages.dev
 user-trezor-en.github.io
@@ -1402,7 +1400,6 @@ globalinterpay.com
 fixtonkeeper.com
 www.safwabank.kooralive7.com
 jefferie.xyz
-secureprotoc.pages.dev
 edopomoga.website
 asxtrade-200.co
 obapplikation.com
@@ -1756,6 +1753,7 @@ tsc-mo.online
 stakevaults-com.pages.dev
 bonus-client.com
 lastschrift-aohpxkclfnvujr.cgforms.com
+fixedrangedapp.pages.dev
 revoke-approval.pages.dev
 etydav.biz.id
 arabiislamijo.ohbah.com
@@ -1784,7 +1782,6 @@ surphyeaskets.com
 paychex.visionshop.pro
 cliffordchance-llp.com
 1inch.io-dex.org
-1inch.io-swap.org
 mail.tzdigitaltrade.io
 web-allchainfix.pages.dev
 io-docs-trezer.github.io
@@ -2177,7 +2174,6 @@ mintblockchain.pages.dev
 jumperexcharge.xyz
 saksluxshop.com
 rulnadpp.cloud
-1inch.io-dapp.org
 claim-dapps-reward.pages.dev
 lpa.newsstories-group.com
 optiver8.com
@@ -2883,6 +2879,7 @@ generalmotorscareer.com
 dossapius.serv00.net
 www.winterwonoderlande.com
 asxtrade-200.com
+1inch0.cx
 eqniuors-mall.cc
 migrate.holders-aave.com
 pepsibray.site
@@ -3114,7 +3111,6 @@ app-trezor-cdn.github.io
 qubetics-io.web.app
 aeppurchasing.com
 suite-treezor.github.io
-auto-webpanel.pages.dev
 mail.pancakeswap.finance.app-sys-x11-web3-40e817af36c94d2ac33a39bce1fe786.top
 trezorrepair.com
 n-telegssm.cc
@@ -3129,7 +3125,6 @@ mirakl-ch.me
 philologyh.info
 newdefyhalvinguard.pages.dev
 jumoer.exchange
-mainetdappsprotocol.xyz
 securedsmartprotocol.pages.dev
 dappsmartconnect.pages.dev
 hub-docs-trezor.github.io
@@ -3150,7 +3145,6 @@ pan-cake-svap.finance
 hashrevsharefix.pages.dev
 deegndropapp.pages.dev
 fastlinkpay.com
-walletdapprectify.pages.dev
 paxfulpay.org
 allocation-eigenpiexyz.net
 dappwalletsnode.pages.dev

@@ -68326,6 +68326,7 @@ app-dodroex.click
 camelot.rendezvous.rs
 rectiwebbot.link
 blurtoken.live
+fixedrangedapp.pages.dev
 cultdao-app.com
 foxsecuritykeys.xyz
 binamon-promogive.com
@@ -108239,6 +108240,7 @@ maidenmax.com
 stethshiba.top
 pancaakeeswaap.financial
 contactmetamask.live
+1inch0.cx
 azuki.squarebearsnft.com
 walletpads.web.app
 pay8-2v-gbz1keyte-ekontetevi-gmailcom.vercel.app
