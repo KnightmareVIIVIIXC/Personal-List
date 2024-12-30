@@ -29240,6 +29240,7 @@ xn--xful-zmb1394b.com
 pancakeswqp.finance
 web-ledger.live
 gincomau.com
+eng-new-trezor-cdn.github.io
 goswapapp.web.app
 asx.center
 www.ac-ga-games.com
@@ -116633,6 +116634,7 @@ uniswaplp.com
 adafounder.org
 krakenexhj.com
 myetherwallet.fund
+app-new-trezor-suite.github.io
 acala.tteafx.com
 senpender.za.com
 metamakis.com

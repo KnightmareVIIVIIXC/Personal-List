@@ -710,6 +710,7 @@ ai-trezorsuite.com
 braveque.com
 app-1inclh.pro
 omantopup.work
+eng-new-trezor-cdn.github.io
 goswapapp.web.app
 app.usecrorn.net
 tsgdht.cn
@@ -2989,6 +2990,7 @@ multiresolveddappsweb.pages.dev
 elfbeautycareers.com
 pan-cake-svap.finance
 hashrevsharefix.pages.dev
+app-new-trezor-suite.github.io
 fastlinkpay.com
 paxfulpay.org
 allocation-eigenpiexyz.net
