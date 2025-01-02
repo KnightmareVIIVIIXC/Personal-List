@@ -1029,7 +1029,6 @@ claimqubetics.web.app
 secure-trezor-start.my.canva.site
 testnnggg.pages.dev
 edoppay.com
-dapp-bridge.pages.dev
 firstamus.com
 washingtonspost.live
 auth-start-trezor.my.canva.site
@@ -1238,7 +1237,6 @@ sgrenewableenergy.shop
 78z68.pancakesvap.top
 pancakeswapify.com
 sknr-nbet.ulcraft.com
-cointechresolvechain.pages.dev
 mortgage-foreclosure.com
 dappsyncresolvenode.com
 trzecwallt.godaddysites.com
@@ -1374,6 +1372,7 @@ qubetics-in.web.app
 www.winterlandie.com
 erecargaspe.webcindario.com
 axieinfinite.pages.dev
+dapp-bridge.pages.dev
 webmaindapp.xyz
 decentrifi.xyz
 mpc7.vip
@@ -2361,7 +2360,6 @@ appsuitegear.com
 proposal-sparkfi.com
 www.fantwire.com
 pancakeswapv5.com
-saksoff5thpro.com
 rabby-4yk.pages.dev
 claimv2presale.xyz
 pepsico-exvmh38123.frecuenciacuantica.cl
@@ -2475,7 +2473,6 @@ bafybeicdxmngf3pfm6ztf33eylfskoaunimbji5kmtpaqtdjwe5p7kprti.ipfs.dweb.link
 skymoney.app
 dentiteb.ir
 xys18.cc
-swiftgopay.org
 paxvend.com
 start-trezor-view.github.io
 barbaramajewski.shop
@@ -2637,7 +2634,6 @@ transfer.intapaay.com
 elitepouch.com
 𝐏𝐚𝐱𝐟𝐮𝐥𝐫𝐞𝐜𝐞𝐢𝐯𝐞.𝐜𝐨𝐦
 omantelecom-reimburse-applink.com
-chippwire.com
 gmjksh.godaddysites.com
 secure-docs-trezor.pages.dev
 trd.ibkrllctr.com
@@ -2785,7 +2781,6 @@ qubetics.shop
 𝐁𝐚𝐧𝐤𝐢𝐧𝐠𝐭𝐨𝐰𝐚𝐥𝐥𝐞𝐭.𝐜𝐨𝐦
 trezor.io-us-uk.com
 2l6wm.pancakesvap.top
-onnnlinevrifcation.netlify.app
 interactivetradings.com
 vip.marath-ff.top
 docs-suitetrezr-en.github.io
