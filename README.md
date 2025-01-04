@@ -1,7 +1,5 @@
 # Tools
 
-https://blocklist.sefinek.net/
-
 https://nodejs.org/
 
 https://www.python.org/
@@ -45,6 +43,8 @@ https://github.com/shahidcodes/firebog-ticked-list/
 https://github.com/sjhgvr/oisd/
 
 https://github.com/WilliDieEnte/BetterBlocklist/
+
+https://blocklist.sefinek.net/
 
 https://www.spamhaus.org/
 
