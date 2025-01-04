@@ -4,6 +4,8 @@ https://blocklist.sefinek.net/
 
 https://nodejs.org/
 
+https://www.python.org/
+
 https://github.com/AdguardTeam/HostlistCompiler/
 
 # Sources
