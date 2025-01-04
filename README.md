@@ -1,4 +1,4 @@
-# Tools
+## Tools
 
 https://nodejs.org/
 
@@ -6,7 +6,7 @@ https://www.python.org/
 
 https://github.com/AdguardTeam/HostlistCompiler/
 
-# Sources
+## Sources
 
 https://filterlists.com/
 
