@@ -36,6 +36,8 @@ https://github.com/PeterDaveHello/threat-hostlist/
 
 https://github.com/phishfort/phishfort-lists/
 
+https://github.com/sefinek/Sefinek-Blocklist-Collection/
+
 https://github.com/ShadowWhisperer/
 
 https://github.com/shahidcodes/firebog-ticked-list/
@@ -43,8 +45,6 @@ https://github.com/shahidcodes/firebog-ticked-list/
 https://github.com/sjhgvr/oisd/
 
 https://github.com/WilliDieEnte/BetterBlocklist/
-
-https://blocklist.sefinek.net/
 
 https://www.spamhaus.org/
 
