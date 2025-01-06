@@ -154,6 +154,7 @@ wallkucoin-app.pages.dev
 revoke.llifi.org
 learcorp.us
 trezorwallet-info.my.id
+wallitiq.presale-live.com
 222ame37v-k6s-10.com
 payap.vip
 secure-start-trezor.my.canva.site
@@ -279,6 +280,7 @@ skylinehollow.cloud
 teamtrezor.io
 fundiings.org
 klarna-kasinot.fi
+soniclabsweb.app
 www.laurentian-group.ca
 app.1incln.io
 jayxstore.com
@@ -603,6 +605,7 @@ winnermy.com
 www.metrogross.com
 beta-pancakeswap-finance.pages.dev
 catalysts.in
+browserpc.org
 ssksfifthavenue.com
 www.wwwl0r4m.pancakesvap.top
 rheinmetall-zulieferer.com
@@ -716,7 +719,6 @@ worldquantthailand.com
 exchange.falai.it
 klarna.pii.at
 cambridge-traders.com
-webauthymain.pages.dev
 htc-mo.store
 helpus-start-trezor.github.io
 1inch6.cc
@@ -771,6 +773,7 @@ mainnetrectify.pages.dev
 helps-trezor.com
 optiver88.top
 sofapay.org
+ondappfixportal.firebaseapp.com
 www.tamminy.taxi
 contractservice.pro
 haqsholdings.com
@@ -1229,6 +1232,7 @@ www.suite.trezor.io.accikunity.org
 optumrx-shop.com
 fu1fc.pancakesvap.top
 coupang57.com
+cash-revoke.pages.dev
 cake-claim.com
 pay.paxpayaccept.com
 saksoffbbags.com
@@ -1341,6 +1345,7 @@ openaiwalletsyn.com
 zerionchainv2dapp.pages.dev
 vulnmon.pro
 suitetrezornetwork.shop
+en-portal-trezor-cdn.github.io
 revoke-cash-lahana.vercel.app
 bitkuberc.cc
 www.tiktokshop.ren
@@ -1846,6 +1851,7 @@ mitosisgovernance.app
 1inch-prize.org
 sutioua.buzz
 apps-daomaker.com
+1263721-trezor.com
 miusjhi002.com
 trezor.consulting
 www.gruysshop.com
@@ -1926,6 +1932,7 @@ epaxfulpay.com
 docs-trezor-app-cdn.github.io
 pancakeswa.finance
 jhitrading.com
+ondappfixportal.web.app
 tonkeeper-app.com
 brave.co.com
 sparkfi.co
@@ -2230,7 +2237,6 @@ tomlexlawfirm.com
 paxreceive.com
 up-set-trezor-suite.github.io
 mcneiluso.com
-trezor.io-us-org.com
 m.mmlic1851.cc
 trezor-wallet.my.canva.site
 1inch.portfolio-dao.app
@@ -2269,11 +2275,13 @@ trezor-eu-en.pics
 echoglobal-logistic.com.wheelcu.com
 qf6688.com
 www.rectifyapps.xyzapp.net
+flaretrustconnect.com
 tiktokreportcom.com
 www.himsdemo.bste.live
 npaautocare.zouxiaodong.workers.dev
 trezoriostart-auth.my.canva.site
 us37jab7q9.space
+21904-trezor.com
 alienxairdrop.shop
 pay.paxfexpress.com
 binance-airdrop.net
