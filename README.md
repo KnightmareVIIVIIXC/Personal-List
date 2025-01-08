@@ -6,6 +6,8 @@ https://www.python.org/
 
 https://github.com/AdguardTeam/HostlistCompiler/
 
+https://github.com/d3ward/toolz/
+
 ## Sources
 
 https://filterlists.com/
@@ -21,8 +23,6 @@ https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/
 https://github.com/blocklistproject/Lists/
 
 https://github.com/cbuijs/ut1/
-
-https://github.com/d3ward/toolz/
 
 https://github.com/hagezi/dns-blocklists/
 
