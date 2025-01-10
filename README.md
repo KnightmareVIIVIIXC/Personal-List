@@ -20,8 +20,6 @@ https://github.com/badmojr/1Hosts
 
 https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/
 
-https://github.com/blocklistproject/Lists/
-
 https://github.com/cbuijs/ut1/
 
 https://github.com/hagezi/dns-blocklists/
