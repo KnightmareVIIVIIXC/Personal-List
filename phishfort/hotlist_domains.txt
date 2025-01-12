@@ -708,7 +708,6 @@ panstant.com
 dapp-rationappverse.pages.dev
 danielgril.com
 docs-suite-trezor.my.canva.site
-1inch-v2.us
 klarna-website.shop
 reward-masdar-global.com
 cokiwolustocyleew.pages.dev
@@ -804,6 +803,7 @@ eng-suite-trezor-docs.github.io
 𝑷𝒂𝒙𝒇𝒖𝒍𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕.𝒄𝒐𝒎
 kaydonsbearings.com
 radiant-revokecash.org
+layer2nuche-pancake-swap.pages.dev
 rerfiet.blogspot.com
 dapp-nodesweb.pages.dev
 𝐏𝐚𝐱𝐟𝐮𝐥𝐭𝐫𝐚𝐧𝐬𝐟𝐞𝐫.𝐜𝐨𝐦
@@ -999,7 +999,6 @@ da0makerdai.github.io
 pank-cake-svap.com
 trezor.io-gb-ca.com
 proximus-web.net
-app.1inch-v2.xyz
 d2g5e.s4w5g-4ef9w.workers.dev
 jhispecial.com
 opawire.com
@@ -2111,6 +2110,7 @@ winnebago.my.id
 www.lovinapp.co
 basedaifoundation.net
 ciscoapplyjob.info
+1inchusdt.world
 lucid-vue.onrender.com
 formssubmitting.online
 smartprotocol.pages.dev
