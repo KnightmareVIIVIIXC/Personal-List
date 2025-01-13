@@ -1623,6 +1623,7 @@ veeempay.com
 pancakeswapfinance.top.cldf-app.top
 trezor-suite-trezors.org
 tmfgroup.cc
+revoke-cashv2.pages.dev
 surphyeaskets.com
 paychex.visionshop.pro
 cliffordchance-llp.com
@@ -2168,6 +2169,7 @@ bacbuk.com
 unitedhealthcarebilling.com
 applovin-pro.com
 qubetics.ink
+secure.ezpasspen.top
 auth-logintrezor.com
 eccotransfer.com
 a533h.icu
