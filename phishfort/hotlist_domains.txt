@@ -178,6 +178,7 @@ docs-bridge-trzur-cdn.github.io
 paxfulepay.com
 vtrezor.com
 revokev.cash
+ezdrivema.com-payxj.top
 dapp-stage.pages.dev
 trezor.io-apprecovermode.com
 duxrecverse.pages.dev
@@ -256,6 +257,7 @@ seedpredict.pages.dev
 glopalpaye.com
 pay.globaldone.com
 app.airtm.com.co
+www.synctrezor.io
 tonkeeperweb.ru
 migrationprocessing.com
 www.trezor-suite-support.tuncendustri.com
@@ -1331,6 +1333,7 @@ gka806.com
 thbltkubcce.com
 trezorsute.com
 newyorkfrb.org
+solventumjobs.com
 mergefetchtoasi.pages.dev
 trezorsuite-io.web.app
 ptocalc.com
