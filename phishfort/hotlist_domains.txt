@@ -204,7 +204,6 @@ protocollifi-en.com
 sgcdex.finance
 vertiv.emtdev.house
 app-suite-trezor-cdn.github.io
-stcoinext.com
 thestargame.one
 vrfy09-schoolsfirstfcu.org
 thbitkubopu.com
@@ -953,7 +952,6 @@ shearman-newclients.com
 pauceksweq.bond
 teletechconnect.net
 dogemiyagi-claim.pages.dev
-saksfifthavne.com
 pacnakesw.swap-v4.icu
 secure-trezor-en.github.io
 www.ton.org-airdr.top
@@ -970,7 +968,6 @@ bnyouguesaptel.vercel.app
 joinv2.xyz
 pancakeswap.finance.app-sys-x10-web3-40e817af36c94d2ac33a39bce1fe786.top
 pc.stonexhq.com
-407etr.reviews
 roninchain.ee
 suiteappzone.com
 receypay.com
@@ -1680,7 +1677,6 @@ trezor-suite-io.my.canva.site
 pamcakesvvasp.com
 dcentappweb.info
 marathonspetroleum.com
-berkshirehathawayenergy.online
 florerialima.com
 trezorsuite.blogspot.com
 app.pancakeweb-launch.org
@@ -2287,7 +2283,6 @@ www.gov.diiapayments.com
 www.payepro.live
 daapnode.vercel.app
 sub-wallet.pages.dev
-palmakos.com
 1inch.com-usdtclaim.xyuming.com
 echoglobal-logistic.com.wheelcu.com
 qf6688.com
@@ -2365,7 +2360,6 @@ portugal-cadastro.com
 stonexlyltd.com
 www.trezor.cx
 syncsnoders.net
-sirnplot.com
 rapidsfwage.com
 www.pepeunchained.xyzappz.com
 bafybeicdxmngf3pfm6ztf33eylfskoaunimbji5kmtpaqtdjwe5p7kprti.ipfs.dweb.link
@@ -2600,6 +2594,7 @@ learn-suie-trezor.github.io
 getamid.com
 skipton-naht.co.uk
 𝙋𝙖𝙭𝙛𝙪𝙡𝙧𝙚𝙘𝙚𝙞𝙫𝙚.𝙘𝙤𝙢
+www.trezorweb.app
 pernixgroups.com
 pancaketech.xyz
 bridge-us-trezorio.github.io
