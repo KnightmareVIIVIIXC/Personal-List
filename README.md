@@ -1,13 +1,3 @@
-## Tools
-
-https://nodejs.org/
-
-https://www.python.org/
-
-https://github.com/AdguardTeam/HostlistCompiler/
-
-https://github.com/d3ward/toolz/
-
 ## Sources
 
 https://filterlists.com/
