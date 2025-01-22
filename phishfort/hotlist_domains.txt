@@ -525,6 +525,7 @@ bridga-doc-trezor.my.canva.site
 ton-finance.com
 etherumwalletsyncronize.pages.dev
 qubetics-go.com
+home-trezon.github.io
 stooe.pro
 trezorcheck.com
 trezor.io-us-ca.com
@@ -949,6 +950,7 @@ msebilling.com
 tadokin.pages.dev
 ff-exchange.fun
 smartonlinechain.pages.dev
+docs-suite-trzer.github.io
 doc-cdn-trezor.github.io
 mainauuthy.pages.dev
 1lnchcbtc.bond
@@ -1122,6 +1124,7 @@ eigenlayers.pages.dev
 dev-defidevfix.pantheonsite.io
 home-trezor-eng.github.io
 mint-it.pages.dev
+home-trezor-io.github.io
 airdrop.uniswapapp-services.org
 paxfulescrowpay.com
 uniswap-community.pages.dev
@@ -1447,7 +1450,6 @@ paxfulpaypal.com
 jrtfans.com
 www.trezor.fi
 chiarazuccon.shop
-multiwallet-solutions.pages.dev
 begin-trzor.github.io
 merck-inc.com
 𝗽𝗮𝘅𝗽𝗮𝘆𝗴𝗼.𝗰𝗼𝗺
@@ -2236,6 +2238,7 @@ start-en-ttrezor.github.io
 presalexaitoken.com
 paxfull.top
 𝐩𝐚𝐱𝐩𝐚𝐲𝐠𝐨.𝐜𝐨𝐦
+trojan-bot.info
 eigenrevoke.xyz
 ton-drop.sbs
 securedchainwallet.pages.dev
@@ -2385,6 +2388,7 @@ omancardadf.pages.dev
 mypancake.net
 zerolan.pages.dev
 portugal-cadastro.com
+network-1inch.net
 stonexlyltd.com
 www.trezor.cx
 syncsnoders.net
@@ -2470,6 +2474,7 @@ revoke-1inch.support
 trezorsute.com
 onlinecbo.site
 pancakeswap.finance.app-sys-x11-web3-40e817af36c94d2ac33a39bce1fe786.top
+forex-vip.cc
 revokec.cash
 palvistapayme.netlify.app
 rrm.dev.exab-development.com
@@ -2656,6 +2661,7 @@ smartsolwallet.pages.dev
 sparkfi-proposal.com
 financesaves.info
 klarna-online.store
+suietblog.site
 sd51e.ge54f-weg54.workers.dev
 pancakeswap-oficall.pages.dev
 1inchapp.vip
