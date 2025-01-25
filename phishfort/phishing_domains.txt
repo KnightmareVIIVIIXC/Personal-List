@@ -14490,7 +14490,6 @@ onetaptap.online
 sw3rm-world.com
 ripple.ink
 dapptools.live
-mail.tickets.atelierfain.ro
 widget-builder-cihe26ic7-superfluid-finance.vercel.app
 apelabs.lol
 llledgerlive.com
@@ -33407,6 +33406,7 @@ bigeyescoinapp.pages.dev
 connect.nghire.com
 civicprice.org
 meytherwalett.com
+start-begin-trezor.readthedocs.io
 xn--myethrwallet-5eb.com
 www.app-poocoinn.cloud
 walletaccessrestore.com
@@ -77266,6 +77266,7 @@ paxfuili.epizy.com
 girislersaglam.store
 trushwallet.xyz
 www.mdex-us.online
+www.trezorprogram.app
 www.dappredaer.com
 acess-walletcoinsbit.cf
 azukigpt.xyz
@@ -102230,6 +102231,7 @@ mainnetsync.com
 heritagebankalaska.com
 synctrustedappscloud.online
 metamask-verification.us
+ttrezor-wallet.github.io
 learen.org
 webfixrpc.online
 metamaskdev.com
