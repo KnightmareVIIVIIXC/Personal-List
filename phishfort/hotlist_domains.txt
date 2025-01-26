@@ -285,7 +285,6 @@ s5de8-f54fe-g5ehe.azurewebsites.net
 rapidsf.net
 skylinehollow.cloud
 teamtrezor.io
-fundiings.org
 soniclabsweb.app
 app.1incln.io
 jayxstore.com
@@ -444,7 +443,6 @@ laurentianbank-secure.com
 debugnodeapps.com
 tustik.com
 auth-trezor-start.github.io
-oldsec-ond.top
 securedcoinprotocol.pages.dev
 www.bridge.metis-dashboard.org
 1inch-v3.xyz
@@ -1701,7 +1699,6 @@ trezor-suite-io.my.canva.site
 trezordevicehelp.com
 pamcakesvvasp.com
 dcentappweb.info
-marathonspetroleum.com
 florerialima.com
 trezorsuite.blogspot.com
 app.pancakeweb-launch.org
@@ -1949,6 +1946,7 @@ mypancake.com
 debugappfix-coral.vercel.app
 servespay.xyz
 stonexglobe.com
+idpacess.ink
 paxosplus.com
 smartprotocols.pages.dev
 thestarau.com
@@ -1966,7 +1964,6 @@ linchudt.digital
 wallet-connect-protocol.pages.dev
 safepal.pages.dev
 tonkeeper-io.sbs
-massmutualascendjobs.us
 privatealtokensale.pages.dev
 globalreceive.com
 tunsarabbank.blogspot.com
@@ -2007,7 +2004,6 @@ zikukaverazofariqi.shop
 covpangmall.com
 losingsatyajit.com
 creosrl.com
-jumperexcharge.xyz
 saksluxshop.com
 rulnadpp.cloud
 claim-dapps-reward.pages.dev
@@ -2496,6 +2492,7 @@ trezor.io-uk-us.com
 plum223104.studio.site
 1inch666.cx
 directconnect-aud.pages.dev
+www.insync.work.gd
 en-trezoor-bridge.github.io
 four-seasonshotels.com
 intrapayeapp.com
