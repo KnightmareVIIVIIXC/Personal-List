@@ -1,5 +1,6 @@
 import requests
 import re
+import ipaddress
 from colorama import init, Fore
 
 init()
@@ -44,13 +45,13 @@ def find_blocking_blocklists(target_ip, sources):
 
 if __name__ == "__main__":
     blocklist_sources = {
+        "Binary Defense Banlist": "https://www.binarydefense.com/banlist.txt",
         "Blocklist.de IP List": "https://lists.blocklist.de/lists/all.txt",
         "BlocklistProject Malware IP List": "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.ip",
         "C2-Tracker IP List": "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt",
         "CI-BadGuys IP List": "https://cinsscore.com/list/ci-badguys.txt",
         "DandelionSprout IP List": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/Dandelion%20Sprout's%20and%20other%20adblocker%20lists'%20IPs.ipset",
         "Emerging Threats Compromised IP List": "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
-        "Firehol ET Tor IP List": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset",
         "GlobalAntiScamOrg IP List": "https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/raw/main/global-anti-scam-org-scam-ips.txt",
         "Green Snow IP List": "https://blocklist.greensnow.co/greensnow.txt",
         "Hagezi TIF IP List": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt",
@@ -76,8 +77,9 @@ if __name__ == "__main__":
             print("Exiting the script.")
             break
 
-        ip_pattern = r"^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$"
-        if not re.match(ip_pattern, target_ip):
+        try:
+            ipaddress.ip_address(target_ip)
+        except ValueError:
             print(Fore.YELLOW + "Invalid IP address format.")
             print(Fore.RESET, end="")
             continue
