@@ -1,7 +1,7 @@
 import requests
 import json
 
-def is_valid_asn(asn):  # Define the function here!
+def is_valid_asn(asn):
     return asn.isdigit()
 
 def extract_asn_from_json_lines(json_lines):
@@ -37,7 +37,7 @@ if __name__ == "__main__":
                 try:
                     entry = json.loads(decoded_line)
                     asn = entry.get("asn")
-                    if asn and is_valid_asn(str(asn)):  # Now it's defined!
+                    if asn and is_valid_asn(str(asn)):
                         asns.add(str(asn))
                 except (json.JSONDecodeError, TypeError):
                     pass
