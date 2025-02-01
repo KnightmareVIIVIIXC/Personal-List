@@ -5,7 +5,7 @@ from colorama import init, Fore
 init()
 
 
-def check_domain_in_blocklist(source_url, target_domain):
+def check_ip_in_blocklist(source_url, target_ip):
     try:
         response = requests.get(source_url)
         response.raise_for_status()
@@ -16,7 +16,7 @@ def check_domain_in_blocklist(source_url, target_domain):
             if line.strip() and not line.startswith(("#", "!"))
         ]
 
-        pattern = rf"(?:^|\s|\|){re.escape(target_domain)}(?=\#|\!|\s|$)"
+        pattern = rf"(?:^|\s|\|){re.escape(target_ip)}(?:\s|/|#|$)"
         matches = [re.search(pattern, line, flags=re.MULTILINE) for line in lines]
         return any(matches)
 
@@ -25,19 +25,19 @@ def check_domain_in_blocklist(source_url, target_domain):
         return False
 
 
-def find_blocking_blocklists(target_domain, sources):
+def find_blocking_blocklists(target_ip, sources):
     blocking_blocklists = []
 
     for name, source in sources.items():
-        if check_domain_in_blocklist(source, target_domain):
+        if check_ip_in_blocklist(source, target_ip):
             blocking_blocklists.append(name)
 
     if blocking_blocklists:
-        print(Fore.GREEN + f"Domain '{target_domain}' found in the following sources:\n")
+        print(Fore.GREEN + f"IP '{target_ip}' found in the following sources:\n")
         for blocklist in blocking_blocklists:
             print(Fore.CYAN + f" - {blocklist}\n")
     else:
-        print(Fore.RED + f"Domain '{target_domain}' not found in any sources.")
+        print(Fore.RED + f"IP '{target_ip}' not found in any sources.")
 
     print(Fore.RESET, end="")
 
@@ -70,20 +70,16 @@ if __name__ == "__main__":
     }
 
     while True:
-        target_domain = input("Enter an IP to find (or type 'exit' to close): ")
+        target_ip = input("Enter an IP address to find (or type 'exit' to close): ")
 
-        if target_domain.lower() == "exit":
+        if target_ip.lower() == "exit":
             print("Exiting the script.")
             break
 
-        if (
-            "." not in target_domain
-            or target_domain.startswith(".")
-            or target_domain.endswith(".")
-            or ".." in target_domain
-        ):
-            print(Fore.YELLOW + "Invalid domain")
+        ip_pattern = r"^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$"
+        if not re.match(ip_pattern, target_ip):
+            print(Fore.YELLOW + "Invalid IP address format.")
             print(Fore.RESET, end="")
             continue
 
-        find_blocking_blocklists(target_domain, blocklist_sources)
+        find_blocking_blocklists(target_ip, blocklist_sources)
