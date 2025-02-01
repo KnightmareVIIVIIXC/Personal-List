@@ -70,7 +70,7 @@ if __name__ == "__main__":
     }
 
     while True:
-        target_domain = input("Enter a domain to find (or type 'exit' to close): ")
+        target_domain = input("Enter an IP to find (or type 'exit' to close): ")
 
         if target_domain.lower() == "exit":
             print("Exiting the script.")
