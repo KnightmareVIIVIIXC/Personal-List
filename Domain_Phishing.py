@@ -44,21 +44,24 @@ def find_blocking_blocklists(target_domain, sources):
 
 if __name__ == "__main__":
     blocklist_sources = {
-        "MetaMask Phishing": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/Personal-List/main/metamask/phishing.txt",
-        "PhishFort Phishing": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/Personal-List/main/phishfort/phishing_domains.txt",
-        "Phishing URLs": "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/security/filter_30_PhishingURLBlocklist/filter.txt",
-        "Phishing Army": "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/security/filter_18_PhishingArmy/filter.txt",
         "Cert.pl": "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/regional/filter_41_POL_CERTPolskaListOfMaliciousDomains/filter.txt",
-        "PhishTank": "https://github.com/Zaczero/pihole-phishtank/raw/main/hosts.txt",
+        "MetaMask Phishing": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/Personal-List/main/metamask/phishing.txt",
+        "NRD 14 Day": "https://github.com/xRuffKez/NRD/raw/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt",
+        "NRD 30 Day": "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
         "OpenPhish": "https://github.com/invisiblethreat/openphish-pihole/raw/main/openphish.txt",
+        "PhishFort Phishing": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/Personal-List/main/phishfort/phishing_domains.txt",
+        "PhishTank": "https://github.com/Zaczero/pihole-phishtank/raw/main/hosts.txt",
+        "Phishing Army": "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/security/filter_18_PhishingArmy/filter.txt",
         "Phishing Database Active": "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-ACTIVE.txt",
         "Phishing Database New Last Hour": "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-last-hour.txt",
         "Phishing Database New Today": "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-today.txt",
-        "NRD 14 Day": "https://github.com/xRuffKez/NRD/raw/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt",
-        "NRD 30 Day": "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
+        "Phishing Sinking Yachts": "https://phish.sinking.yachts/v2/text",
+        "Phishing URLs": "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/security/filter_30_PhishingURLBlocklist/filter.txt",
         "RPiList Phishing": "https://github.com/RPiList/specials/raw/master/Blocklisten/Phishing-Angriffe",
-        "chainapsis Phishing Blocklist": "https://github.com/chainapsis/phishing-block-list/raw/main/block-list.txt",
         "blocklistproject Phishing": "https://github.com/blocklistproject/Lists/raw/master/phishing.txt",
+        "chainapsis Phishing Blocklist": "https://github.com/chainapsis/phishing-block-list/raw/main/block-list.txt",
+        "validin-phish-feed": "https://github.com/MikhailKasimov/validin-phish-feed/raw/main/validin-phish-feed.txt",
+        "validin-phish-feed-1": "https://github.com/MikhailKasimov/validin-phish-feed/raw/main/validin-phish-feed-1.txt",
     }
 
     while True:
