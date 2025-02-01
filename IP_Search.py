@@ -45,7 +45,6 @@ def find_blocking_blocklists(target_ip, sources):
 
 if __name__ == "__main__":
     blocklist_sources = {
-        "Binary Defense Banlist": "https://www.binarydefense.com/banlist.txt",
         "Blocklist.de IP List": "https://lists.blocklist.de/lists/all.txt",
         "BlocklistProject Malware IP List": "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.ip",
         "C2-Tracker IP List": "https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt",
