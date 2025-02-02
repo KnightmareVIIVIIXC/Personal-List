@@ -16,7 +16,7 @@ def check_domain_in_blocklist(source_url, target_domain):
             if line.strip() and not line.startswith(("#", "!"))
         ]
 
-        pattern = rf"(?:^|\s|\.|\|){re.escape(target_domain)}(?=\^|\#|\!|\s|$)"
+        pattern = rf"(?:^|\s|\.|\|){re.escape(target_domain)}(?:\^|\#|\!|\s|$)"
         matches = [re.search(pattern, line, flags=re.MULTILINE) for line in lines]
         return any(matches)
 
