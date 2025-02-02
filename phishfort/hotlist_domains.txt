@@ -202,7 +202,6 @@ zeriont.top
 zenonflooring.com
 cinematica.homes
 amica.my.id
-sgcdex.finance
 vertiv.emtdev.house
 app-suite-trezor-cdn.github.io
 thestargame.one
@@ -385,6 +384,7 @@ claim-stakelayer.pages.dev
 trezor.io-lng-en.top
 www.swiggyoffers.in
 mylaurentiansecurity.com
+www.paxful.fexitransfer.com
 bridge-m-trzor.github.io
 millertoken.github.io
 nationalhealthcareadvisors.com
@@ -1360,7 +1360,6 @@ unjswap.org
 fundingtransfers.com
 zerion-dhz.pages.dev
 auth-io-trezor.my.canva.site
-trezortax.io
 remboursement.support-transaction.com
 openaiwalletsyn.com
 zerionchainv2dapp.pages.dev
@@ -1689,7 +1688,6 @@ revoke-cash-jp.pages.dev
 paayeflow.com
 rekrutmenbank.appswebss.com
 snakeking.club
-www.portalpipes.com
 b9rg4.s4w5g-4ef9w.workers.dev
 groupdow.com
 jumper-exchange.store
@@ -2209,7 +2207,6 @@ arbtirum.io
 pepsitoken.xyz
 resolvesyncs.pages.dev
 new-trezor-bridge.pages.dev
-networkchainscorrector.pages.dev
 ktomixboutique.store
 sanincto.net
 revokecash.tools
@@ -2345,7 +2342,6 @@ pay.paxfexpress.com
 sepapayy.org
 www.e-qixwk.top
 asttbnb.com
-ai-stonexvip.top
 nextpaxfund.com
 k9finance-web.pages.dev
 pay.momowire.com
@@ -2532,7 +2528,6 @@ rpc-rectify.ai3page.com
 app.pancakeweb-portfolio.org
 qubetics-claim.pages.dev
 wezawire.com
-paychexjobs.com
 claim-k4rallyio.xyz
 bitkubcon.cc
 cmacgm-usd.com
