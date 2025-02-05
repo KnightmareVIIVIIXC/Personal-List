@@ -45,7 +45,7 @@ def find_blocking_blocklists(target_domain, sources):
 if __name__ == "__main__":
     blocklist_sources = {
         "Cert.pl": "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/regional/filter_41_POL_CERTPolskaListOfMaliciousDomains/filter.txt",
-        "MetaMask Phishing": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/Personal-List/main/metamask/phishing.txt",
+        "MetaMask Phishing": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/Personal-List/main/metamask/phish.txt",
         "NRD 14 Day": "https://github.com/xRuffKez/NRD/raw/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt",
         "NRD 30 Day": "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
         "OpenPhish": "https://github.com/invisiblethreat/openphish-pihole/raw/main/openphish.txt",
