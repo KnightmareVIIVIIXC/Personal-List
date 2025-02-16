@@ -1,40 +1,57 @@
 import requests
 
-def download_and_merge(urls, output_file):
+def process_file(url):
     try:
-        all_domains = set()
+        response = requests.get(url, stream=True)
+        response.raise_for_status()
 
-        for url in urls:
-            try:
-                response = requests.get(url, stream=True)
-                response.raise_for_status()
+        domains = set()
+        for line in response.iter_lines(decode_unicode=True):
+            line = line.strip()
+            if line and not line.startswith("#") and not line.startswith("!"):
+                parts = line.split()
+                domain = parts[0] if len(parts) >= 1 else None
+                if len(parts) > 1:
+                    domain = parts[1]
+                if domain:
+                    domains.add(domain)
 
-                for line in response.iter_lines():
-                    if line:
-                        domain = line.decode('utf-8').strip()
-                        if not domain.startswith("#") and not domain.startswith("!"):
-                            all_domains.add(domain)
+        return domains
 
-            except requests.exceptions.RequestException as e:
-                print(f"Error downloading {url}: {e}")
-                continue
-
-        with open(output_file, 'w') as f:
-            for domain in sorted(list(all_domains)):
-                f.write(domain + '\n')
-
-        print(f"Successfully downloaded and merged into {output_file}")
-
+    except requests.exceptions.RequestException as e:
+        print(f"Error downloading file: {e}")
+        return None
     except Exception as e:
         print(f"An error occurred: {e}")
+        return None
+
+def write_domains_to_file(domains, output_filename="activephish.txt"):
+    if domains is None:
+        return
+
+    try:
+        with open(output_filename, "w") as f:
+            for domain in sorted(list(domains)):
+                f.write(domain + "\n")
+        print(f"Domains written to {output_filename}")
+    except Exception as e:
+        print(f"Error writing to file: {e}")
 
 
 if __name__ == "__main__":
     urls = [
+        "https://hosts.tweedge.net/malicious.txt",
         "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-ACTIVE.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-last-hour.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-today.txt",
     ]
-    output_file = "activephish.txt"
-    download_and_merge(urls, output_file)
+
+    all_domains = set()
+
+    for url in urls:
+        domains = process_file(url)
+        if domains:
+            all_domains.update(domains)
+
+    write_domains_to_file(all_domains)
