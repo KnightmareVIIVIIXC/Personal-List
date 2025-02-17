@@ -1,13 +1,14 @@
 import requests
 
-def download_psyfeed(url, filename):
+def download_psyfeed_lines(url, filename):
     try:
         response = requests.get(url, stream=True)
         response.raise_for_status()
 
         with open(filename, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
+            for line in response.iter_lines():
+                if line:
+                    f.write(line + b'\n')
 
         print(f"Successfully downloaded {url} and saved as {filename}")
 
@@ -20,4 +21,4 @@ def download_psyfeed(url, filename):
 if __name__ == "__main__":
     url = "https://phish.sinking.yachts/v2/text"
     filename = "psyfeed.txt"
-    download_psyfeed(url, filename)
+    download_psyfeed_lines(url, filename)
