@@ -1,8 +1,6 @@
 import requests
-import json
 
 url = "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/main/src/config.json"
-
 
 def extract_domains(output_file, key):
     try:
@@ -21,9 +19,8 @@ def extract_domains(output_file, key):
 
     except requests.RequestException as e:
         print(f"Error downloading the JSON file: {e}")
-    except (json.JSONDecodeError, KeyError) as e:
+    except (KeyError, ValueError) as e:
         print(f"Error parsing the JSON file: {e}")
-
 
 if __name__ == "__main__":
     extract_domains("fuzzy.txt", "fuzzylist")
