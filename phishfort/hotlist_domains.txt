@@ -418,7 +418,6 @@ xwatergobal.com
 5oo.icu
 m.bitkubabc.com
 trezorweb.app
-exchange-smoky-tau.vercel.app
 dappsdecentralizefix.web.app
 paymentconfirmation.netlify.app
 palfniger.com
@@ -1186,7 +1185,6 @@ dappsyncresolvenode.com
 paxcopay.com
 tojsat.net
 revoke-cash.de
-pancakeswap-btc.top
 globalpaxnet.com
 miusjhi001.com
 eng-new-trezr-bridge.github.io
@@ -1636,6 +1634,7 @@ ledger-comstart.pages.dev
 moodyssolutionsanalytics.com
 trezor-starts.my.canva.site
 gamefirsttime.xyz
+useorn.com
 telaagam.hempproud.com
 ccbesetipperloginwall.com
 setupbotcode.pro
@@ -1665,7 +1664,6 @@ visitpass.vertiv.tools
 m-tslegram.top
 www.n2pro.pancakesvap.top
 trezor_live-upd_cdn.teachable.com
-sweetpanspot.money
 bitkuocoins.com
 pancakeswap.finance.app-sys-x8-web3-40e817af36c94d2ac33a39bce1fe786.top
 trezorappgallery.samouraiapp.live
@@ -2024,7 +2022,6 @@ app-sparkprotocol-io.ipns.dweb.link
 jkhhgvh.github.io
 autovalidateweb3.pages.dev
 toknn.cc
-qubetiencs.com
 coingecko-priceapi.com
 www.onxstonex.com
 transquek.com

@@ -1,4 +1,5 @@
 228196-coinbase.com
+283837-coinbase.com
 350e1164-a79a-4ffc-a40f-18f0652c6650.amazon-relay.com
 8068702-coinbase.com
 890170-coinbase.com
@@ -35,8 +36,10 @@ amazon-clone-navy-six.vercel.app
 amazon-clone-rust-kappa.vercel.app
 amazon-delta-sable.vercel.app
 amazon-driver-jobs.info
+amazon-gilt-pi.vercel.app
 amazon-git-main-sushmas-projects-7748af80.vercel.app
 amazon-outlet-figure.net
+amazon-prime-opui.openplatform.co
 amazon-shope.vip
 amazon-trial.acl360.io
 amazon-tw.netlify.app
@@ -44,12 +47,12 @@ amazon-ui-clone-zeta.vercel.app
 amazon.fr.videoprimelcns.com
 amazon.fr.videoprimevsft.com
 amazon.org.gg
-amazon2-secure.com
 amazon367.top
 amazonclone-alpha.vercel.app
 amazonl1.vip
 amazonn.site
 amazonsxs.com
+amzon.pro
 api-apple.com
 api-qa.apple-sk.com
 app-amazn.duckdns.org
@@ -77,11 +80,11 @@ apple-valleymall.com
 apple.imap-located.live
 apple.m-icioud.com
 apple.minepro.fit
-apple1.topolnet.com
 apple7.club
 appleclonadu.netlify.app
 appleclonebootstrap1.netlify.app
 appleid-apple.com.in.a169.us
+appleid.apple.co-ar.cc
 appleid.apple.com-login.us
 apples-care-service7p3.vercel.app
 apples-care-service9p4.vercel.app
@@ -94,9 +97,9 @@ apply-now-free-badge-service.vercel.app
 apply-to-get-your-badge.vercel.app
 apply-your-page-for-verified.vercel.app
 appole.indigen.cn
+appole.saccade.cn
 aryenmotors.com
 at.coinbasecard.de
-attsupportteam1.weebly.com
 auth-home-coinbase.webflow.io
 auth-procoinbase.webflow.io
 autoconfig.coinbase.cnb-lgg.xyz
@@ -113,7 +116,6 @@ binance-thongbao.tech
 binance.bey-dev.mixh.jp
 binanceaff.com
 binancee.vip
-binancegames.com.ua
 binancepay.info
 bolly-dropbox.top
 bpt-l6ks.vercel.app
@@ -147,14 +149,12 @@ coinbase-sup.com
 coinbase-wallot.webflow.io
 coinbase.928747821.com
 coinbase.concretamv.com
-coinbasead.com
 coinbaseexnsion.webflow.io
 coinbasehelp-desk.com
-coinbasenfts.org
 coinbaseprolesogin.webflow.io
 coinbaseprologinorofficialwebs.godaddysites.com
 coinbaseprroloygin.webflow.io
-coinbaseyproxlogin.webflow.io
+coinbass.xyz
 cold-self.vercel.app
 comcomssssm.admin.amazon-relay.com
 comcomsssssssssssm.ortal.amazon-relay.com
@@ -177,11 +177,11 @@ dat3-beta.vercel.app
 dat4-one.vercel.app
 dat5-two.vercel.app
 data.apple-sk.com
+dfxjwssvzfesm.sftp.apple-icloud.us
 direct.bbva-s.shop
 dnatoto-apple.com
 docs.google.com
 docu.apple-sk.com
-doors-and-windows-intl.xyz
 double-glazed-windows.com
 download.apple-sk.com
 downloadmetamasktumbl.us
@@ -189,7 +189,6 @@ dropbox-debug.com
 duszwltg.account-netflix-be.com
 eb-var6.vercel.app
 ebat-lake.vercel.app
-ebdisk.apple-ld-support.com
 ebwif.coinbaseoption.top
 einstagram.com
 elsmere-windows.com
@@ -233,7 +232,6 @@ futuregroup-google-translator.360managed.com.au
 gbjslyhr.account-check-netflix.com
 gdhd464geg.ubpages.com
 get-blue-badge-opportunity-for-apply.vercel.app
-girisyap-garantibbva.duckdns.org
 go.ly
 google-account-signin.netlify.app
 google-cse.xyz
@@ -249,11 +247,9 @@ gunjanamazon.netlify.app
 help---page--coinbase.webflow.io
 help-ext--coinbasehelp--en.webflow.io
 help-sso-coinbasehelp-h-auth.webflow.io
-helpdesk-coinbase-net.webflow.io
 helpp-facabook.netlify.app
 hjsqvkbi.netflix-seguro.com
 holo.beta.leia.app.amazon.dev
-home--wallet-coinbase.webflow.io
 home--web-coinbase.webflow.io
 home-wallet-metamask.webflow.io
 homestarpro.com
@@ -320,6 +316,7 @@ lm4-leufews-projects.vercel.app
 login-facebook-ten.vercel.app
 login-ms-outlook.com
 login-outlook-livestreem.com
+login-press-apple.dmlib.pro
 login.apple-sk.com
 login_coinbasepr0.godaddysites.com
 loginmicrosoftonlinesettings.jabil.hasuva.com.vn
@@ -329,6 +326,7 @@ loiu6-lhuins-projects.vercel.app
 lordfillm-netflix.ru
 lwkqmanseyrdusidffg.weebly.com
 m.350e1164-a79a-4ffc-a40f-18f0652c6650.amazon-relay.com
+m.a.amazon2-security.com
 m.account-check-netflix.com
 m.acessos-itau.com
 m.admin.netflix-seguro.com
@@ -340,12 +338,12 @@ m.beta.apple-sk.com
 m.binace.homes
 m.builder.apple-sk.com
 m.cart-prod.apple-sk.com
+m.comsscomcomssssm.amazon-relay.com
 m.direct.bbva-s.shop
 m.docu.apple-sk.com
 m.documentation.apple-sk.com
 m.download.apple-sk.com
 m.duszwltg.account-netflix-be.com
-m.ebdisk.apple-ld-support.com
 m.ebdisk.google-login.org
 m.files.apple-sk.com
 m.fkwlsssssssm.apple-icloud.us
@@ -383,7 +381,6 @@ m.shop.bbva-s.shop
 m.sitemap.linkeden.ca
 m.sitemap.refresh-coinbase.com
 m.sitemaps.linkeden.ca
-m.sm.apple-ld-support.com
 m.sm.sitemap.refresh-coinbase.com
 m.srfkwlsssssssm.apple-icloud.us
 m.ss350e1164-a79a-4ffc-a40f-18f0652c6650.amazon-relay.com
@@ -394,7 +391,6 @@ m.ssm.apple-icloud.us
 m.ssqnutisssintranet.amazon-relay.com
 m.ssrfkwlsssssssm.apple-icloud.us
 m.sssadmin.amazon-relay.com
-m.sssftp.apple-ld-support.com
 m.sssop.amazon-relay.com
 m.sssportal.amazon-relay.com
 m.sssqnutisssintranet.amazon-relay.com
@@ -408,7 +404,6 @@ m.sssssssm.apple-icloud.us
 m.sssssssssm.apple-icloud.us
 m.ssssssssssm.apple-icloud.us
 m.sssswhm.apple-icloud.us
-m.sswhm.apple-ld-support.com
 m.subscribe.apple-sk.com
 m.support.apple-sk.com
 m.sversion.apple-sk.com
@@ -437,7 +432,6 @@ metamasksligon.webflow.io
 metamasksnft.com
 metamasktcn.com
 metamaskutextension.webflow.io
-metamaskwalletextensionv.webflow.io
 metamaskxtesoin.webflow.io
 metamsk-logiu.webflow.io
 metanask-login.webflow.io
@@ -508,6 +502,7 @@ okk-black.vercel.app
 old-spotify.vercel.app
 onedrive.service-office365.com
 online-coinbase-pro.webflow.io
+opensea.redtoch.net
 openseapro.vip
 openseas-io.io
 orrwv.coinbaseoption.top
@@ -540,7 +535,6 @@ pub-c4563b329a9a43fd959620a7ca52cce1.r2.dev
 pub-f3a335c3131047a7a157d355c61847fa.r2.dev
 qa.apple-sk.com
 ques8.coinbaseoption.top
-re.hrlp-nettflix.com
 react-spotify-web-app.netlify.app
 registration-opensea.com
 regularizar-pago-netflix.com
@@ -561,10 +555,9 @@ scomsm.ssssadmin.amazon-relay.com
 scomsssm.ssssop.amazon-relay.com
 scomsssssssssssm.ortal.amazon-relay.com
 sdirect.bbva-s.shop
-sebdisk.apple-ld-support.com
-secure-check-amazon2.democrat
 secure-coinbase-app.webflow.io
 secure-sso--coinbasepro--auth-c--cdn.webflow.io
+secure.link-amazon.click
 security.microsott.no
 sellcentralamazonsupport-de.publittec.com.br
 sellercentral.amazon.com
@@ -574,7 +567,6 @@ sellercentral.amazon.com-v8.net
 sellercentral.amazon.com-v9.net
 sfiles.apple-sk.com
 sfindajobforme.linkedin.loginfor.me
-sftp.apple-ld-support.com
 sftp.apple-sk.com
 sharefile8.pages.dev
 shop.account-check-netflix.com
@@ -596,10 +588,8 @@ sites.google.com
 slng.bbva-s.shop
 sm.acessos-itau.com
 sm.amazon2-secure.com
-sm.apple-ld-support.com
 sm.beta.apple-sk.com
 sm.documentation.apple-sk.com
-sm.ebdisk.apple-ld-support.com
 sm.graphql-api.apple-sk.com
 sm.k8s.apple-sk.com
 sm.lab.apple-sk.com
@@ -608,11 +598,9 @@ sm.mx.apple-sk.com
 sm.sfiles.apple-sk.com
 sm.shop.bbva-s.shop
 sm.sitemap.refresh-coinbase.com
-sm.sm.apple-ld-support.com
 sm.ssm.apple-icloud.us
 sm.ssortal.amazon-relay.com
 sm.ssrfkwlsssssssm.apple-icloud.us
-sm.sssftp.apple-ld-support.com
 sm.sssm.apple-icloud.us
 sm.sssportal.amazon-relay.com
 sm.sssqnutisssintranet.amazon-relay.com
@@ -624,7 +612,6 @@ sm.status.apple-sk.com
 sm.sversion.apple-sk.com
 solar-windows-11637.bond
 solar-windows-16427.bond
-solar-windows-16974.bond
 solar-windows-20584.bond
 solar-windows-23398.bond
 solar-windows-26490.bond
@@ -680,7 +667,6 @@ sscomssssm.admin.amazon-relay.com
 sscomsssssssssssm.ortal.amazon-relay.com
 ssdirect.bbva-s.shop
 ssdocs.apple-sk.com
-ssebdisk.apple-ld-support.com
 ssing.direct.bbva-s.shop
 ssintranet.amazon-relay.com
 sslng.bbva-s.shop
@@ -693,15 +679,12 @@ ssm.server.apple-sk.com
 ssm.sfiles.apple-sk.com
 ssm.shop.bbva-s.shop
 ssm.sitemap.refresh-coinbase.com
-ssm.sm.apple-ld-support.com
 ssm.ssm.apple-icloud.us
 ssm.ssssadmin.amazon-relay.com
 ssm.ssssop.amazon-relay.com
 ssm.sssssssadmin.amazon-relay.com
 ssm.sssssssssssm.apple-icloud.us
-ssm.ssssswhm.apple-ld-support.com
 ssm.status.apple-sk.com
-ssm.swhm.apple-ld-support.com
 sso----coinbasepro--cdn--r--auth.webflow.io
 sso---coinbasepro--cdn---b--aauth.webflow.io
 sso---coinbasepro-cdn---eng-auth.webflow.io
@@ -711,7 +694,6 @@ sspxcfusssssssssssm.sftp.apple-icloud.us
 ssqnutisssintranet.amazon-relay.com
 ssremote.amazon-relay.com
 ssrfkwlsssssssm.apple-icloud.us
-sssftp.apple-ld-support.com
 sssintranet.amazon-relay.com
 sssm.apple-icloud.us
 sssm.graphql-api.apple-sk.com
@@ -739,11 +721,9 @@ ssssportal.amazon-relay.com
 sssssadmin.amazon-relay.com
 sssssm.ortal.amazon-relay.com
 sssssm.ssssop.amazon-relay.com
-sssssm.swhm.apple-ld-support.com
 sssssortal.amazon-relay.com
 ssssssm.apple-icloud.us
 ssssssm.ortal.amazon-relay.com
-ssssssm.swhm.apple-ld-support.com
 sssssssm.sssssssm.apple-icloud.us
 sssssssm.sssswhm.apple-icloud.us
 sssssssm.ssswildcard.amazon-relay.com
@@ -754,14 +734,11 @@ ssssssssssm.ortal.amazon-relay.com
 sssssssssssm.ortal.amazon-relay.com
 sssssssssssm.sftp.apple-icloud.us
 sssssssssssssm.ortal.amazon-relay.com
-sssssswhm.apple-ld-support.com
-sswhm.apple-ld-support.com
 static.facebook.securprotection.com
 static.faceook.securprotection.com
 status.apple-sk.com
 steam.iplay.fit
 steam.suzhouren.cn
-steamcommnnity.com
 steamcommunity-50.com
 steamcommunity-bless.com
 steamcommununity.ru
@@ -776,7 +753,6 @@ support.apple-sk.com
 sversion.apple-sk.com
 svzfesm.sftp.apple-icloud.us
 swbbn.binace.homes
-swhm.apple-ld-support.com
 theakshatsengar.me
 tinu.be
 token-trustwallet.com
@@ -793,7 +769,6 @@ trustwalletah.com
 trustwalletaj.com
 trustwalletak.com
 trustwalletaz.com
-trustwalletcj.com
 trustwalletds.com
 trustwalletei.com
 trustwalletrectify.com
@@ -857,7 +832,6 @@ windows-blinds-gb-006.space
 windows-doors-2981.top
 windows-for-house-13012.click
 windows-qpz.top
-windows-qpz.xyz
 windows-replacement-met-sas1.click
 windows-replacement-met-sas2.click
 windows-replacement-met-sas3.click
@@ -872,6 +846,7 @@ ww7.coinbase-ln.com
 ww7.segura-bbva.com
 www.0ffice365.support
 www.afternic.com
+www.amazon-shopai.top
 www.amazonro.cloud
 www.auth-seller-amazon.com
 www.blog-office365.com
