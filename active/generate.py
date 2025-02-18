@@ -40,7 +40,6 @@ def write_domains_to_file(domains, output_filename="activephish.txt"):
 
 if __name__ == "__main__":
     urls = [
-        "https://hosts.tweedge.net/malicious.txt",
         "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-ACTIVE.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-last-hour.txt",
