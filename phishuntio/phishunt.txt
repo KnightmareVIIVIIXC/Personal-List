@@ -1,7 +1,9 @@
+294572-coinbase.com
 2fa-coinbasewallet.com
 3ds-netflix.com
 582959-coinbase.com
 890170-coinbase.com
+9018273-coinbase.com
 961762-coinbase.com
 976724-coinbase.com
 aauth---g-sso-crypto--apply.webflow.io
@@ -14,6 +16,7 @@ account.login.my-dropbox.com
 accounts.0ffice365.support
 accounts.google.sn.cn
 acessos-itau.com
+activity-opensea.com
 admin.account-check-netflix.com
 admin.amazon-relay.com
 admin.bbva-s.shop
@@ -44,13 +47,13 @@ amazon-ui-clone-zeta.vercel.app
 amazon.fr.videoprimelcns.com
 amazon367.top
 amazonclone-alpha.vercel.app
+andalanmitraprestasi.co.id
 api-apple.com
 app.amazon-relay.com
 app.amazon2-update.school
 app.bbva-s.shop
 app.tagapple.com
 app1.oceantg.com
-app1.runawayjob.quest
 appie.one
 apple-account.com.es
 apple-ai.vercel.app
@@ -81,6 +84,7 @@ appleworldcoin.xyz
 apply-blue-tick-here.vercel.app
 apply-to-get-your-badge.vercel.app
 asesoriabarrachina.es
+aspmx.l.google.com.babcockrestorationservices.com
 at.coinbasecard.de
 auth-home-coinbase.webflow.io
 autoconfig.coinbase.cnb-lgg.xyz
@@ -104,6 +108,7 @@ browsers-coinbase-exttn.webflow.io
 btconnectfilesecureinboxbthomelogindropboxbackboxpd.weebly.com
 builder.apple-sk.com
 calendly.apple-one.info
+casibom-google.com
 cbhelp-coinbase.com
 ccoinbasewalletexxtension.webflow.io
 cdek.kwid9.coinbaseoption.top
@@ -114,6 +119,7 @@ chi2-six.vercel.app
 ci-cd.apple-sk.com
 cin-fv9l.vercel.app
 cin10-beta.vercel.app
+clique.ws
 clone-instagram-login-git-master-shrees-projects-176dfe94.vercel.app
 clone-instagram-login-three.vercel.app
 coimbase.pro
@@ -127,14 +133,15 @@ coinbase-wallot.webflow.io
 coinbase.co.in
 coinbase.concretamv.com
 coinbase.signin.oauth-challenge.p7ah.com
+coinbased.beautyjibindia.com
 coinbasehelp-desk.com
 coinbaseprologinorofficialwebs.godaddysites.com
 coinbaseprroloygin.webflow.io
-coinbaseverif34521.xyz
 coinbasewallet-usa.com
 coinbass.xyz
 coinnbase-pro-logiin.godaddysites.com
 cold-self.vercel.app
+comadmin.account-check-netflix.com
 comcomssssm.admin.amazon-relay.com
 communiition.weebly.com
 compte-netlflix-secur.com
@@ -144,6 +151,7 @@ comssssssm.portal.amazon-relay.com
 comwww.admin.account-check-netflix.com
 connect.secure.cdn-wellsfargo.com
 consent.google.com
+consoleaws-amazon.com
 conveniente-sharefile.info
 copy-instagram-teal.vercel.app
 correo1.franriveraaltacostura.com
@@ -160,12 +168,14 @@ direct.bbva-s.shop
 dnatoto-apple.com
 docs.google.com
 docu.apple-sk.com
+doska.tv
 double-glazed-windows.com
 download.apple-sk.com
 downloadmetamasktumbl.us
 dropbox-debug.com
 drsangitareddy.com
 duszwltg.account-netflix-be.com
+eb-hnz3.vercel.app
 eb-var6.vercel.app
 ebat-lake.vercel.app
 einstagram.com
@@ -196,6 +206,7 @@ facebook2-by-rtn.vercel.app
 facebookbloge.blogspot.com
 facebookclone12.vercel.app
 facebookrecreation.webflow.io
+facebooksupport-1.ubpages.com
 fapple.news
 findajobforme.linkedin.loginfor.me
 fppawmsxncbfurfkg.weebly.com
@@ -213,6 +224,7 @@ google-cse.xyz
 google-jrm.xyz
 google-pay.net
 google-u.com
+google.com.altar.co.za
 google.com.babcockrestorationservices.com
 google.com.wilo.luckystup-id.xyz
 google.test.perigon.xyz
@@ -232,9 +244,11 @@ homemetamaskllog.godaddysites.com
 homestarpro.com
 honey-tyagi-spotify-clone.vercel.app
 hrpltwnm.account-check-netflix.com
+hsbcorsoemployer-mirror.wrkr.hk
 hsbcs.com.mx
 hub-coinbase-extension.webflow.io
 i.marcofacebook.com
+id-apples.com
 info-microsoft-office365.idtechsproducts.com
 infuranet-faucet.metamask.cx
 inicios-bbva.info
@@ -264,6 +278,7 @@ instagramm.xyz
 instagrampro.pk
 instagramusicabrasilinstagram.blogspot.com.es
 instapro2.com
+intesa-san-paolo-ban.ca
 intranet.account-check-netflix.com
 intranet.bbva-s.shop
 intranet.netflix-seguro.com
@@ -279,6 +294,7 @@ jamazon.one
 jnzawmgfkx.myfunnelish.com
 k8s.apple-sk.com
 khalid-apple-replica.netlify.app
+l.google.com.babcockrestorationservices.com
 lb2-loitrtrs-projects.vercel.app
 le48.paris
 learn.amazon.com
@@ -295,7 +311,6 @@ login-press-apple.dmlib.pro
 login.apple-sk.com
 login_coinbasepr0.godaddysites.com
 loginmicrosoftonlline.com
-loginoutloo-verification-officee365.com
 lordfillm-netflix.ru
 lwkqmanseyrdusidffg.weebly.com
 m.350e1164-a79a-4ffc-a40f-18f0652c6650.amazon-relay.com
@@ -349,6 +364,7 @@ m.sbbva.ubicacion-online-mx.com
 m.server.apple-sk.com
 m.sfiles.apple-sk.com
 m.sfkwlsssssssm.apple-icloud.us
+m.sftp.apple-sk.com
 m.shop.bbva-s.shop
 m.shop.netflix-seguro.com
 m.sinfuranet-faucet.metamask.cx
@@ -357,6 +373,8 @@ m.sitemap.refresh-coinbase.com
 m.sitemaps.linkeden.ca
 m.sm.acessos-itau.com
 m.sm.sitemap.refresh-coinbase.com
+m.ssadmin.bbva-s.shop
+m.ssapp.bbva-s.shop
 m.ssbeta.apple-sk.com
 m.sslng.bbva-s.shop
 m.ssm.apple-icloud.us
@@ -373,6 +391,7 @@ m.sssswhm.apple-icloud.us
 m.tzoimfgc.account-check-netflix.com
 m.uat.apple-sk.com
 m.wildcard.apple-verifier.in
+m.wwww.amazon-info-admin.com
 m3ins.azurewebsites.net
 map.gooqle-mepeas.com
 mapaapple.com
@@ -465,7 +484,6 @@ outlook-verify-office.com
 outlook365-online-login.com
 outook.lojaseofertas.com
 page-coinbase--org.webflow.io
-pagina.pro
 paid-coinbasepro-auth.webflow.io
 phishing-instagram-log-in-page.vercel.app
 photo-editing-programs-for-windows-1455.shop
@@ -495,6 +513,7 @@ request-free-apply-one-blue-fanpage.vercel.app
 rrpostoffice.com
 rustore.regularizacao-netflix.com
 rvbyiodn.netflix-suspenso.com
+s3.amazon2-update.com
 sadmin.bbva-s.shop
 safebrowser.secure.cdn-wellsfargo.com
 sapp.bbva-s.shop
@@ -645,15 +664,13 @@ sssssssssssssm.ortal.amazon-relay.com
 static.facebook.securprotection.com
 static.faceook.securprotection.com
 status.apple-sk.com
-steam-shortlink.cfd
-steam.bywg.vip
 steam.communityartworkfiles.com
+steam.communitydisscussion.com
 steam.iplay.fit
 steamcommunity-bless.com
 steamcommunity-cash.com
 steamcommunity.com
 steamcommunity.wallpapersenginehome.com
-steamcommunltty.com
 steamcommunttiy.com
 storage.googleapis.com
 submit-form-apply-here-br.vercel.app
@@ -677,6 +694,7 @@ trustwalletak.com
 trustwalletaz.com
 trustwalletds.com
 trustwalletei.com
+twitter.com
 twitter.my
 two4x7-apples-helps-lines.onrender.com
 us-hsbc.net
@@ -755,6 +773,7 @@ www.0ffice365.support
 www.afternic.com
 www.amazonro.cloud
 www.binance.com.179-43-172-131.cprapid.com
+www.bing.com
 www.blog-office365.com
 www.dropbox.com
 www.google.com
