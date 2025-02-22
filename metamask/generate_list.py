@@ -23,6 +23,5 @@ def extract_domains(output_file, key):
         print(f"Error parsing the JSON file: {e}")
 
 if __name__ == "__main__":
-    extract_domains("fuzzy.txt", "fuzzylist")
     extract_domains("allow.txt", "whitelist")
     extract_domains("phish.txt", "blacklist")
