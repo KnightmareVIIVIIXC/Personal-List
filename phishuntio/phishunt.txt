@@ -2,6 +2,7 @@
 2fa-coinbasewallet.com
 3ds-netflix.com
 582959-coinbase.com
+837263-coinbase.com
 890170-coinbase.com
 9018273-coinbase.com
 961762-coinbase.com
@@ -44,6 +45,7 @@ amazon-shope.vip
 amazon-trial.acl360.io
 amazon-tw.netlify.app
 amazon-ui-clone-zeta.vercel.app
+amazon.fr.videoprimecnst.com
 amazon.fr.videoprimelcns.com
 amazon367.top
 amazonclone-alpha.vercel.app
@@ -122,12 +124,13 @@ cin10-beta.vercel.app
 clique.ws
 clone-instagram-login-git-master-shrees-projects-176dfe94.vercel.app
 clone-instagram-login-three.vercel.app
+cloudnetfiji.com
 coimbase.pro
 coinase--web--extensuion.webflow.io
 coinbase-pro-login25.godaddysites.com
 coinbase-pro-login45.godaddysites.com
 coinbase-pro-sign-in.company.site
-coinbase-signin.us
+coinbase-redirectlink.etherlite.xyz
 coinbase-sup.com
 coinbase-wallot.webflow.io
 coinbase.co.in
@@ -224,7 +227,6 @@ google-cse.xyz
 google-jrm.xyz
 google-pay.net
 google-u.com
-google.com.altar.co.za
 google.com.babcockrestorationservices.com
 google.com.wilo.luckystup-id.xyz
 google.test.perigon.xyz
@@ -286,6 +288,8 @@ invoice.apple-sk.com
 it-outlookwebaccess.com
 ita6.sfdc-3d0u2f.salesforce.com
 itau.pages.dev
+itaucartao.pages.dev
+itaucontaecartao.pages.dev
 itauverano.uy
 ixcoamgu.account-check-netflix.com
 ixlmrsssrfkwlsssssssm.apple-icloud.us
@@ -310,6 +314,7 @@ login-outlook-livestreem.com
 login-press-apple.dmlib.pro
 login.apple-sk.com
 login_coinbasepr0.godaddysites.com
+loginidapple.com
 loginmicrosoftonlline.com
 lordfillm-netflix.ru
 lwkqmanseyrdusidffg.weebly.com
@@ -444,22 +449,20 @@ netflix-clone-five-puce.vercel.app
 netflix-clone-jamesfrye420.vercel.app
 netflix-clone-smokey.vercel.app
 netflix-dual-subtitles.com
-netflix-gpt-a2c67.firebaseapp.com
-netflix-gpt-a2c67.web.app
 netflix-gpt.shreyanshshukla.me
-netflix-official.com
 netflix-regulamento.info
 netflix-sable.vercel.app
 netflix-seguro.com
 netflix-squid-game-trip.com
 netflix-stige-clone.vercel.app
 netflix-subscription.live
+netflix-super-clone-65gs9.kinsta.page
 netflix-two-gules.vercel.app
 netflix-v5.vercel.app
 netflix.exlaso.in
+netflix.vythweb.in
 netflixgpt-98554.web.app
 netflixgpt-theta.vercel.app
-netflixmonthfree.blogspot.mk
 new-windows-and-doors-companies-0808.xyz
 news.apple-cl0ud.com
 next-instagram-clone-alpha.vercel.app
@@ -482,6 +485,7 @@ openseas-io.io
 outlook-live-barcode-workspace.com
 outlook-verify-office.com
 outlook365-online-login.com
+outlookoffice365.xyz
 outook.lojaseofertas.com
 page-coinbase--org.webflow.io
 paid-coinbasepro-auth.webflow.io
@@ -510,6 +514,7 @@ remote.amazon-relay.com
 renewal-windows-and-doors-032.click
 replace-your-old-windows-fast-0402.click
 request-free-apply-one-blue-fanpage.vercel.app
+review-for-fix-violation-apply.vercel.app
 rrpostoffice.com
 rustore.regularizacao-netflix.com
 rvbyiodn.netflix-suspenso.com
@@ -671,6 +676,7 @@ steamcommunity-bless.com
 steamcommunity-cash.com
 steamcommunity.com
 steamcommunity.wallpapersenginehome.com
+steamcommunrity.com
 steamcommunttiy.com
 storage.googleapis.com
 submit-form-apply-here-br.vercel.app
@@ -681,6 +687,7 @@ swbbn.binace.homes
 taupe-conkies-145dc9.netlify.app
 theakshatsengar.me
 token-trustwallet.com
+trade-metamask.co
 traffico-ita-m.geogeo.club
 trustwallet-info.pro
 trustwallet.intttc.com
@@ -783,7 +790,6 @@ www.login-office365.net
 www.office365services.online
 www.peppertreecatering.com.au
 www.phillyweedentraining.com
-www.shorten.is
 www.steamtradeoffercommunitynewpartner.com
 www1.apple-id-maps.live
 wwww.amazon-info-admin.com
