@@ -1,3 +1,4 @@
+234211-coinbase.com
 294572-coinbase.com
 2fa-coinbasewallet.com
 3ds-netflix.com
@@ -26,6 +27,7 @@ ads-microsoft.lubrine.com.br
 ads.google.com
 ads.mcrosoft.it.com
 akzqghbx.account-check-netflix.com
+amazin-electro.com
 amazon-aws.shop
 amazon-business.app
 amazon-business.design
@@ -41,6 +43,7 @@ amazon-driver-jobs.info
 amazon-gilt-pi.vercel.app
 amazon-git-main-sushmas-projects-7748af80.vercel.app
 amazon-outlet-figure.net
+amazon-prime-opui.openplatform.co
 amazon-shope.vip
 amazon-trial.acl360.io
 amazon-tw.netlify.app
@@ -49,8 +52,8 @@ amazon.fr.videoprimecnst.com
 amazon.fr.videoprimelcns.com
 amazon367.top
 amazonclone-alpha.vercel.app
-andalanmitraprestasi.co.id
 api-apple.com
+app-bbva.es-788.com
 app.amazon-relay.com
 app.amazon2-update.school
 app.bbva-s.shop
@@ -114,7 +117,6 @@ calendly.apple-one.info
 casibom-google.com
 cbhelp-coinbase.com
 ccoinbasewalletexxtension.webflow.io
-cdek.kwid9.coinbaseoption.top
 cdn-wellsfargo.com
 cen-96cu.vercel.app
 check.fnos.net
@@ -184,6 +186,8 @@ ebat-lake.vercel.app
 einstagram.com
 elsmere-windows.com
 em.linkeden.ca
+eng--sso-coinbasepro--cdn--u--auth.webflow.io
+es-bbva.es-788.com
 ether-fi-coinbase.com
 exchange-smoky-tau.vercel.app
 facebook-beryl-one.vercel.app
@@ -250,7 +254,6 @@ hsbcorsoemployer-mirror.wrkr.hk
 hsbcs.com.mx
 hub-coinbase-extension.webflow.io
 i.marcofacebook.com
-id-apples.com
 infuranet-faucet.metamask.cx
 inicios-bbva.info
 insant-review-for-restrication.vercel.app
@@ -288,7 +291,6 @@ it-outlookwebaccess.com
 ita6.sfdc-3d0u2f.salesforce.com
 itau.pages.dev
 itaucartao.pages.dev
-itaucontaecartao.pages.dev
 itauverano.uy
 ixcoamgu.account-check-netflix.com
 ixlmrsssrfkwlsssssssm.apple-icloud.us
@@ -324,14 +326,17 @@ m.acessos-itau.com
 m.admin.account-check-netflix.com
 m.admin.bbva-s.shop
 m.admin.netflix-seguro.com
+m.amazon.fr.videoprimelcns.com
 m.api-qa.apple-sk.com
 m.app.account-check-netflix.com
 m.app.bbva-s.shop
 m.app.netflix-seguro.com
+m.bbva.spain-login.com
 m.be.apple-sk.com
 m.beta.apple-sk.com
 m.binace.homes
 m.builder.apple-sk.com
+m.bztvself.account-check-netflix.com
 m.cart-prod.apple-sk.com
 m.comsscomcomssssm.amazon-relay.com
 m.docu.apple-sk.com
@@ -381,6 +386,7 @@ m.sm.sitemap.refresh-coinbase.com
 m.ssadmin.bbva-s.shop
 m.ssapp.bbva-s.shop
 m.ssbeta.apple-sk.com
+m.ssdocs.apple-sk.com
 m.sslng.bbva-s.shop
 m.ssm.apple-icloud.us
 m.ssrfkwlsssssssm.apple-icloud.us
@@ -459,7 +465,6 @@ netflix-subscription.live
 netflix-two-gules.vercel.app
 netflix-v5.vercel.app
 netflix.exlaso.in
-netflix.vythweb.in
 netflixgpt-98554.web.app
 netflixgpt-theta.vercel.app
 new-windows-and-doors-companies-0808.xyz
@@ -481,11 +486,13 @@ online-coinbase-pro.webflow.io
 opensea.godaddysites.com
 opensea.redtoch.net
 openseas-io.io
+otakunomnom.com
 outlook-live-barcode-workspace.com
 outlook-verify-office.com
 outlook365-online-login.com
 outlookoffice365.xyz
 outook.lojaseofertas.com
+p.active-paypal.com.reference.1ma.xyz
 page-coinbase--org.webflow.io
 paid-coinbasepro-auth.webflow.io
 phishing-instagram-log-in-page.vercel.app
@@ -550,6 +557,7 @@ sintranet.bbva-s.shop
 sitemap.gooqle-ar.services
 sitemap.linkeden.ca
 sitemaps.amazon2-secure.com
+sitemaps.appie-us.center
 sitemaps.gooqle-ar.services
 sitemaps.linkeden.ca
 sites.google.com
@@ -559,7 +567,6 @@ sm.acessos-itau.com
 sm.amazon2-secure.com
 sm.beta.apple-sk.com
 sm.documentation.apple-sk.com
-sm.graphql-api.apple-sk.com
 sm.k8s.apple-sk.com
 sm.lab.apple-sk.com
 sm.mx.apple-sk.com
@@ -577,6 +584,7 @@ sm.status.apple-sk.com
 sm.sversion.apple-sk.com
 solar-windows-11637.bond
 solar-windows-16427.bond
+solar-windows-19344.bond
 solar-windows-20584.bond
 solar-windows-23398.bond
 solar-windows-26490.bond
@@ -637,6 +645,10 @@ sso----coinbasepro--cdn--r--auth.webflow.io
 sso---coinbasepro-cdn---eng-auth.webflow.io
 sso---coinbasepro-cdn-en-oauth.webflow.io
 sso---pro--coinbase----cden.webflow.io
+sso--cdn-coinbasepro-w--cdn--auth.webflow.io
+sso--coinbasepro--cdn-h---authd.webflow.io
+sso--en-coinbasepro--cdn-x-auth.webflow.io
+sso--my--coinbasepro-w--cdn--auth.webflow.io
 ssqnutisssintranet.amazon-relay.com
 ssremote.amazon-relay.com
 ssrfkwlsssssssm.apple-icloud.us
@@ -673,10 +685,11 @@ steam.communityartworkfiles.com
 steam.communitydisscussion.com
 steam.iplay.fit
 steamcommunity-bless.com
-steamcommunity-cash.com
 steamcommunity.com
+steamcommunity.p250workshop.com
 steamcommunity.wallpapersenginehome.com
 steamcommunrity.com
+steampowered.playtest-doomthedarkages.com
 storage.googleapis.com
 submit-form-apply-here-br.vercel.app
 support--binance-us.webflow.io
@@ -700,7 +713,6 @@ trustwalletak.com
 trustwalletaz.com
 trustwalletds.com
 trustwalletei.com
-twitter.my
 two4x7-apples-helps-lines.onrender.com
 us-hsbc.net
 usa-metamaskk-logi.godaddysites.com
@@ -708,6 +720,7 @@ uspss.pages.dev
 ussm.ssssssssssm.apple-icloud.us
 v-sso--coinbasepro-cdn---auth.webflow.io
 validartucuenta.outlook.officemx.hstn.me
+vbyiodn.netflix-suspenso.com
 vendorcentral.amazon.me
 verify-coinbese.com
 verify-office-outlook.com
@@ -732,6 +745,7 @@ windows-19001.bond
 windows-19764.bond
 windows-20903.bond
 windows-21408.bond
+windows-24616.bond
 windows-26154.bond
 windows-26590.bond
 windows-34671.bond
@@ -748,14 +762,18 @@ windows-63552.bond
 windows-63953.bond
 windows-68367.bond
 windows-76463.bond
+windows-76777.bond
 windows-80016.bond
+windows-80186.bond
 windows-81868.bond
 windows-831.bond
 windows-83188.bond
 windows-88161.bond
+windows-90317.bond
 windows-91551.bond
 windows-93177.bond
 windows-95049.bond
+windows-99220.bond
 windows-and-doors-replacement-company-0901.click
 windows-and-doors-replacement-company-1301.click
 windows-blinds-gb-006.space
@@ -775,7 +793,6 @@ ww38.amazon-prime.pro
 ww7.segura-bbva.com
 www-metamask.tech
 www.0ffice365.support
-www.afternic.com
 www.amazonro.cloud
 www.binance.com.179-43-172-131.cprapid.com
 www.bing.com
@@ -789,5 +806,7 @@ www.office365services.online
 www.peppertreecatering.com.au
 www.phillyweedentraining.com
 www.steamtradeoffercommunitynewpartner.com
+www.www-metamask.io.metamask.com.se
 www1.apple-id-maps.live
 wwww.amazon-info-admin.com
+zendesk1.apac2.coinbase.fi
