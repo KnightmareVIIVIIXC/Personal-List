@@ -94,6 +94,7 @@ autoconfig.coinbase.cqm--lggn.xyz
 ayfpk.coinbaseoption.top
 bbva-loans.click
 bbva-prestamo.click
+bbva.es-788.com
 bbva.spain-login.com
 bbva.ubicacion-online-mx.com
 bbvv.online
@@ -121,7 +122,6 @@ chi2-six.vercel.app
 ci-cd.apple-sk.com
 cin-fv9l.vercel.app
 cin10-beta.vercel.app
-clique.ws
 clone-instagram-login-git-master-shrees-projects-176dfe94.vercel.app
 clone-instagram-login-three.vercel.app
 cloudnetfiji.com
@@ -251,7 +251,6 @@ hsbcs.com.mx
 hub-coinbase-extension.webflow.io
 i.marcofacebook.com
 id-apples.com
-info-microsoft-office365.idtechsproducts.com
 infuranet-faucet.metamask.cx
 inicios-bbva.info
 insant-review-for-restrication.vercel.app
@@ -345,6 +344,7 @@ m.files.apple-sk.com
 m.fkwlsssssssm.apple-icloud.us
 m.ftp.apple-sk.com
 m.gbjslyhr.account-check-netflix.com
+m.google.com.babcockrestorationservices.com
 m.graphql-api.apple-sk.com
 m.hjsqvkbi.netflix-seguro.com
 m.hrpltwnm.account-check-netflix.com
@@ -456,7 +456,6 @@ netflix-seguro.com
 netflix-squid-game-trip.com
 netflix-stige-clone.vercel.app
 netflix-subscription.live
-netflix-super-clone-65gs9.kinsta.page
 netflix-two-gules.vercel.app
 netflix-v5.vercel.app
 netflix.exlaso.in
@@ -550,6 +549,7 @@ sinstagram.bleacherreportmodels.com
 sintranet.bbva-s.shop
 sitemap.gooqle-ar.services
 sitemap.linkeden.ca
+sitemaps.amazon2-secure.com
 sitemaps.gooqle-ar.services
 sitemaps.linkeden.ca
 sites.google.com
@@ -677,7 +677,6 @@ steamcommunity-cash.com
 steamcommunity.com
 steamcommunity.wallpapersenginehome.com
 steamcommunrity.com
-steamcommunttiy.com
 storage.googleapis.com
 submit-form-apply-here-br.vercel.app
 support--binance-us.webflow.io
@@ -701,7 +700,6 @@ trustwalletak.com
 trustwalletaz.com
 trustwalletds.com
 trustwalletei.com
-twitter.com
 twitter.my
 two4x7-apples-helps-lines.onrender.com
 us-hsbc.net
