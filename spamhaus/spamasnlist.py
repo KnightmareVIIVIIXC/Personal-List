@@ -24,7 +24,7 @@ def save_asns_to_file(asns, output_file):
 
 if __name__ == "__main__":
     file_url = "https://www.spamhaus.org/drop/asndrop.json"
-    output_file = "asnspam.txt"
+    output_file = "asndrop.txt"
 
     try:
         response = requests.get(file_url, stream=True)
