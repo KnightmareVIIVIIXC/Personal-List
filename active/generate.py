@@ -50,7 +50,9 @@ if __name__ == "__main__":
 
     for url in urls:
         domains = process_file(url)
-        if domains:
-            all_domains.update(domains)
+        if domains is None:
+            break
+        all_domains.update(domains)
 
-    write_domains_to_file(all_domains)
+    if all_domains:
+        write_domains_to_file(all_domains)
