@@ -3379,6 +3379,7 @@ coinbasesi.xyz
 multi-dappsync.netlify.app
 walletsdappvalidation.com
 pancakeswap.re
+rdrfrost.com
 mooniswapiotex.com
 2ethereum.website
 trustcores.site
@@ -22338,6 +22339,7 @@ web3loginpp.ml
 walmartgift.net
 wallet-connect.cloud
 bankless-connect.online
+lepop.com.ng
 coinmainnets.com
 pancakeswap.finance.swap-gochange.in
 walletsyncronise.online
@@ -60615,6 +60617,7 @@ www.solanalink.live
 cashrevoke.net
 metamaskwailet.com
 somethingisbreving.xyz
+puxwire.com
 authy-vulcan.com
 big-bang-rewards.app
 fix.quest
@@ -71255,6 +71258,7 @@ prometheus.us-pancakeswap.dysnix.org
 liquiditypoolmobile.com
 pancakeswap.com.cm
 luxury-dusk-92886b.netlify.app
+frostbanksu0c.com
 m.js-xlh.com
 origintrail.in
 lilluvium.com
@@ -74131,6 +74135,7 @@ arbabank.com
 bitmex-blog.info
 walletfinance-connect.info
 solanaaitkin.com
+paxful.huwapay.com
 claimethereum.org
 www.synapce-protocol.org
 usdt1004.com
@@ -82150,6 +82155,7 @@ trezorlive.com
 bscmining88.com
 panswapcakes.com
 thesandbox.cyou
+pancakesawp.finance
 d-metamask.io
 kushflyrecreational.com
 www.zkmoney.cloud
