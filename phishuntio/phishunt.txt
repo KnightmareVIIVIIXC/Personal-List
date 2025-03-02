@@ -2,8 +2,8 @@
 234211-coinbase.com
 280451-coinbase.com
 294572-coinbase.com
-577658-coinbase.com
 710482-coinbase.com
+827617t-coinbase.com
 976724-coinbase.com
 a2-seven-gules.vercel.app
 aauth---g-sso-crypto--apply.webflow.io
@@ -14,7 +14,6 @@ account.login.my-dropbox.com
 accounts.0ffice365.support
 acessos-itau.com
 activity-opensea.com
-adm.coinbasesap.com
 admin.account-check-netflix.com
 admin.amazon-relay.com
 admin.bbva-s.shop
@@ -22,7 +21,6 @@ admin.netflix-seguro.com
 ads-microsoft.lubrine.com.br
 ads.google.com
 ads.mcrosoft.it.com
-air-binanze.sbs
 akzqghbx.account-check-netflix.com
 alwpmsyehdjfg.weebly.com
 amazon-business.app
@@ -61,6 +59,8 @@ app.amazon2-update.school
 app.bbva-s.shop
 app.tagapple.com
 app1.andrewjohnston.ca
+app1.britan.com
+app1.hemahosur.com
 app1.oceantg.com
 app1.sss-india.com
 app1.tubu.com
@@ -80,7 +80,6 @@ apple.alygroupinteriordesign.com
 apple.chuangyoutijian.com
 apple.cnzbjf.com
 apple.co-ar.cc
-apple.coiavineyards.com
 apple.com.account-update.edacademy.com.pt
 apple.digitallegacyportal.com
 apple.dlguskvo.com
@@ -140,7 +139,6 @@ cbhelp-coinbase.com
 ccoinbasewalletexxtension.webflow.io
 check.fnos.net
 china-google.net
-clique.ws
 clone-facebook-exi51okvv.vercel.app
 cloudnetfiji.com
 coinbase-airdrop-claims.vercel.app
@@ -182,9 +180,7 @@ copy-instagram-teal.vercel.app
 correios.diadaita.com
 correo1.franriveraaltacostura.com
 correosprepago.bnext.es
-courier.paycal.xyz
 cx.metamask.cx
-demo.itau.abcdigital.cl
 dfxjwssvzfesm.sftp.apple-icloud.us
 direct.bbva-s.shop
 dispositivoapple.com
@@ -192,7 +188,6 @@ dnatoto-apple.com
 docs.google.com
 double-glazed-windows.com
 downloadmetamasktumbl.us
-drive.google.onetimelogon.com
 dropbox-debug.com
 drsangitareddy.com
 duszwltg.account-netflix-be.com
@@ -247,7 +242,6 @@ google-compra.shop
 google-cse.xyz
 google-hao.top
 google-jrm.xyz
-google-math.com
 google-pay.net
 google-u.com
 google.com.babcockrestorationservices.com
@@ -256,7 +250,6 @@ google.loginforms.co
 googler.cdchiyuan.top
 gooogle-authentic.com
 happicloud.store
-help---ext--coinbase-sso-wallet.webflow.io
 help-coinbasedweb.vercel.app
 helpp-facabook.netlify.app
 helps-coinbasepro--cdn-auth-cdn.webflow.io
@@ -488,6 +481,7 @@ paid-coinbasepro-auth.webflow.io
 paypalloginin-usa.blogspot.li
 photo-editing-programs-for-windows-1455.shop
 pn6-tau.vercel.app
+portal--en--coinbasepro--cdn-auth.webflow.io
 portal--sso-coinbasepro---w--cdn.webflow.io
 portal--sso-coinbasepro---x--cdn.webflow.io
 portal-coinbasepro.webflow.io
@@ -672,9 +666,6 @@ static.facebook.securprotection.com
 static.faceook.securprotection.com
 stats.my.paypal.com.userid.me
 steam.communityartworkfiles.com
-steam.communityuserstore.com
-steamcommmulty.com
-steamcommnnity.com
 steamcommunity.com
 steamcommunity.p250workshop.com
 steamcommunity.pips.ru
@@ -706,9 +697,7 @@ ussm.ssssssssssm.apple-icloud.us
 validartucuenta.outlook.officemx.hstn.me
 vbyiodn.netflix-suspenso.com
 verify-coinbese.com
-viewa.gooqle-meaepas.com
 vikashspotify.netlify.app
-vnjsayqsapp.com
 vpn.netfiix-obnovit.com
 vww-facebook.com.vn
 vzfesm.sftp.apple-icloud.us
@@ -719,6 +708,7 @@ wbbn.binace.homes
 web-procoinbase.webflow.io
 webmail-santafe-conicets-gov-ar.netlify.app
 wgvnrzod.netflix-suspenso.com
+whm.google-login.org
 wildcard.apple-verifier.in
 wildcard.binace.homes
 windows-0225-2.click
@@ -779,7 +769,6 @@ workspace.binace.homes
 ww.app.bbva-s.shop
 ww01.appie.one
 ww38.amazon-prime.pro
-www-metamask.tech
 www.0ffice365.support
 www.amazonro.cloud
 www.bing.com
