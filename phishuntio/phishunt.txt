@@ -8,7 +8,6 @@
 a2-seven-gules.vercel.app
 aauth---g-sso-crypto--apply.webflow.io
 about-coinbase-help--extn.webflow.io
-account.login.my-dropbox.com
 accounts.0ffice365.support
 acessos-itau.com
 activity-opensea.com
@@ -33,7 +32,6 @@ amazon-clone-navy-six.vercel.app
 amazon-clone-rust-kappa.vercel.app
 amazon-delta-sable.vercel.app
 amazon-driver-jobs.info
-amazon-gilt-pi.vercel.app
 amazon-git-main-sushmas-projects-7748af80.vercel.app
 amazon-kitchen-appliances.click
 amazon-kitchen-set-offers.click
@@ -48,6 +46,7 @@ amazon.fr.videoprimelcns.com
 amazon.ogv21.com
 amazonclone-alpha.vercel.app
 amazonia-beta.vercel.app
+amazonvcg.co
 api-apple.com
 app--pro--coinbase-px-auth.webflow.io
 app-bbva.es-788.com
@@ -75,12 +74,10 @@ apple-shrimp.shop
 apple.alygroupinteriordesign.com
 apple.co-ar.cc
 apple.com.account-update.edacademy.com.pt
-apple.digitallegacyportal.com
 apple.dlguskvo.com
 apple.imap-located.live
 apple.kinensidou1.com
 apple.minepro.fit
-apple.opusteni.com
 apple.pro.in
 apple.tkshoptti.com
 apple.tkshopttr.com
@@ -94,7 +91,6 @@ apples-care-service9p5.vercel.app
 apples-service-care.vercel.app
 apples-service-care6p1.vercel.app
 appleworldcoin.xyz
-apply-blue-tick-here.vercel.app
 apply-review-7rjip.ondigitalocean.app
 apply-subscription-activation-panel-meta-badge-for-free.vercel.app
 asesoriabarrachina.es
@@ -102,7 +98,6 @@ aspmx.l.google.com.babcockrestorationservices.com
 attlql88-e9b8.vercel.app
 attstop.weebly.com
 auffrischen-coinbase.me
-avis-google.net
 ayfpk.coinbaseoption.top
 bbva-loans.click
 bbva-prestamo.click
@@ -139,12 +134,14 @@ coinbase-pro-sign-in.company.site
 coinbase-sup.com
 coinbase-walet.me
 coinbase-wb3.vip
+coinbase.cmm-prq.xyz
 coinbase.concretamv.com
 coinbase.signin.oauth-challenge.p7ah.com
 coinbase.signin.oauth.p7ah.com
 coinbasepr04.godaddysites.com
 coinbaseprollogin13.godaddysites.com
 coinbaseprologinorofficialwebs.godaddysites.com
+coinbaseproologien.webflow.io
 coinbaseprroloygin.webflow.io
 coinbasewallet-usa.com
 coinbass.xyz
@@ -172,7 +169,6 @@ correosprepago.bnext.es
 cx.metamask.cx
 dfxjwssvzfesm.sftp.apple-icloud.us
 direct.bbva-s.shop
-dispositivoapple.com
 dnatoto-apple.com
 docs.google.com
 double-glazed-windows.com
@@ -180,7 +176,6 @@ dropbox-debug.com
 drsangitareddy.com
 duszwltg.account-netflix-be.com
 einstagram.com
-elsmere-windows.com
 emote.amazon-relay.com
 empresas3-grupo-santander-es3.com
 emujssssm.intranet.amazon-relay.com
@@ -189,6 +184,7 @@ en--sso--coinbasepro-cdn.webflow.io
 es-bbva.es-788.com
 ether-fi-coinbase.com
 excel-invoice-signin.mos.ap-southeast-2.sufybkt.com
+extension.connectionapi.com
 extranet.apple-icloud.us
 facebook-116km.pagemaker.link
 facebook-beryl-one.vercel.app
@@ -237,16 +233,15 @@ google-hao.top
 google-jrm.xyz
 google-pay.net
 google-u.com
+google-v3-signin-identifier-authuser-continue-service.ru
 google.com.babcockrestorationservices.com
 google.com.wilo.luckystup-id.xyz
-google.loginforms.co
 googler.cdchiyuan.top
 gooogle-authentic.com
 happicloud.store
 help-coinbasedweb.vercel.app
 help-metamask-chrome-cdn.webflow.io
 helpp-facabook.netlify.app
-helps-coinbasepro--cdn-auth-cdn.webflow.io
 helps-coinbasepro--cdn-auth-cdns.webflow.io
 hjsqvkbi.netflix-seguro.com
 holo.beta.leia.app.amazon.dev
@@ -273,6 +268,7 @@ instagram-clone-six-tau.vercel.app
 instagram-dark-light.vercel.app
 instagram-five-sandy.vercel.app
 instagram-flame-omega.vercel.app
+instagram-frontend-wine.vercel.app
 instagram-ksf.vercel.app
 instagram-login-ecru.vercel.app
 instagram-nextjs-three.vercel.app
@@ -282,7 +278,6 @@ instagram-v2-jet.vercel.app
 instagram.archive.com.im
 instagram.ossamaelidrissi.com
 instagrambusiness-supportcenter.pages.dev
-instagramcombanidosshopauth2authorizewergresponsetypecode.vercel.app
 instagramcybersecurity.vercel.app
 instagramhelp.azurewebsites.net
 instagrampro.pk
@@ -312,6 +307,7 @@ logigmetamaskkii.godaddysites.com
 login-facebook-ten.vercel.app
 login-press-apple.dmlib.pro
 lwkqmanseyrdusidffg.weebly.com
+m-sso-coinbasepro-v-auth.webflow.io
 m.350e1164-a79a-4ffc-a40f-18f0652c6650.amazon-relay.com
 m.a.amazon2-security.com
 m.account-check-netflix.com
@@ -393,17 +389,25 @@ metamask.io.merge.salalahexpert.com
 metamask_usrwallet.godaddysites.com
 metamask_uswallet.godaddysites.com
 metamaskeloiin.webflow.io
+metamaskioaloginn.webflow.io
 metamaskkkligo.godaddysites.com
+metamaskklogink.webflow.io
 metamaskksuextension.webflow.io
 metamaskkvlogie.godaddysites.com
 metamasklginorofficialwebsite.godaddysites.com
 metamasklogin-communityplatfor.godaddysites.com
 metamaskloginaf.webflow.io
+metamasklogtkn.webflow.io
 metamaskloug-us4.godaddysites.com
 metamaskrectify.com
 metamasksnft.com
 metamasktcn.com
-metamosk--chrom.webflow.io
+metamaskwalletextensiionh.webflow.io
+metamaskwalletextensiioni.webflow.io
+metamaskwalletextensiionm.webflow.io
+metamaskwalletextensiiono.webflow.io
+metamaskwalletextensiionp.webflow.io
+metamaskzlogjin.webflow.io
 metamsk-logiu.webflow.io
 metamsk-mozilla----org.webflow.io
 metamsk-xwallt.godaddysites.com
@@ -418,11 +422,13 @@ microsoft-teams-download.app
 microsoft-validatingmailbox.weebly.com
 microsoft.dropcloud.it
 microsoft.infosynergie.dev
+microsoft.securityresponse.org
 microsoftauthenticator.net
 microsofttrustmicromacros.net
 midiakit.net
 mlcrosoft.live
 mm-metamask.top
+mm-metamask.vip
 mobile-facebook.com.vn
 motamask-us-anlog.godaddysites.com
 my--sso--coinbasepro---cdn-auth.webflow.io
@@ -442,7 +448,6 @@ netflix-sable.vercel.app
 netflix-seguro.com
 netflix-sepia-one.vercel.app
 netflix-squid-game-trip.com
-netflix-support.xyz
 netflix.exlaso.in
 netflixgpt-98554.web.app
 netflixgpt-theta.vercel.app
@@ -458,10 +463,12 @@ official-free-request-here-blue-verified-apply.vercel.app
 official-free-service-one-apply-verification.vercel.app
 old-spotify.vercel.app
 olsekumcnbshajwsd.weebly.com
+onboard-opensea.ddnss.eu
 online-coinbase-pro.webflow.io
 opensea.godaddysites.com
 opensea.io-nftaccess.app
 openseas-io.io
+oqndasdaapp.com
 outllook.orngxncr.top
 outook.lojaseofertas.com
 p.active-paypal.com.reference.1ma.xyz
@@ -544,7 +551,6 @@ secure-2fa-outlook.com
 secure-app--coinbasepro--cdn--oauth.webflow.io
 secure-coinbasepro--cdn-auths--cdn.webflow.io
 secure-coinbasepro--cdn-s-cdn.webflow.io
-secure-en-coinbasepro---en--cdn.webflow.io
 secure-sso--coinbasepro--auth-c--cdn.webflow.io
 secure.cdn-wellsfargo.com
 security.microsott.no
@@ -558,7 +564,6 @@ sextranet.apple-icloud.us
 sfacebook.erniefriedlander.com
 sfindajobforme.linkedin.loginfor.me
 shawconnection1.weebly.com
-shiib.pages.dev
 shop.account-check-netflix.com
 shop.bbva-s.shop
 signin.microsoft.com.cerblos.ch
@@ -623,6 +628,7 @@ spotifydd.com
 spotifyee.com
 spotifyinfo.com
 spotifymodapk.com.co
+spotifypay1533-001-site1.qtempurl.com
 spotifypremiumapk.tv
 spublic.apple-icloud.us
 sqnutisssintranet.amazon-relay.com
@@ -670,6 +676,7 @@ static.facebook.securprotection.com
 static.faceook.securprotection.com
 steam.communityartworkfiles.com
 steamcommunity.com
+steamcommunity.doom-the-dark-ages-games.com
 steamcommunity.p250workshop.com
 steamcommunity.wallpapersengineshub.com
 submit-form-apply-here-br.vercel.app
@@ -700,6 +707,7 @@ validartucuenta.outlook.officemx.hstn.me
 vbyiodn.netflix-suspenso.com
 verify-coinbese.com
 vikashspotify.netlify.app
+vpn.3ds-netflix.com
 vpn.compte-netlflix-secur.com
 vpn.netfiix-obnovit.com
 vpn.netflix-seguro.com
@@ -712,7 +720,6 @@ web-procoinbase.webflow.io
 webmail-santafe-conicets-gov-ar.netlify.app
 wellsfargoslognsaccounts.vercel.app
 wgvnrzod.netflix-suspenso.com
-whatsapp0.ubpages.com
 whm.google-login.org
 wildcard.binace.homes
 windows-0225-2.click
@@ -777,8 +784,8 @@ www.0ffice365.support
 www.amazonro.cloud
 www.bing.com
 www.google.com
+www.google.com.ar
 www.google.com.vn
-www.localizador-apple.com
 www.login-office365.net
 www.metamark.ct.ws
 www.netflix.com
