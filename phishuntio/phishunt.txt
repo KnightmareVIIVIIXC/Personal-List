@@ -47,7 +47,6 @@ amazonclone-alpha.vercel.app
 amazonia-beta.vercel.app
 amazonlandingpageclone.netlify.app
 api-apple.com
-app--pro--coinbase-px-auth.webflow.io
 app-bbva.entornoseguro.app
 app-bbva.es-788.com
 app-bbva.es-942.com
@@ -117,11 +116,10 @@ cdn3.secure.3ds-netflix.com
 check-payement-netflix.info
 check.fnos.net
 china-google.net
-clique.ws
+citigroup.btult.com
 clone-facebook-exi51okvv.vercel.app
 coinbase-airdrop-claims.vercel.app
 coinbase-eth.com
-coinbase-extenson.webflow.io
 coinbase-pro-login25.godaddysites.com
 coinbase-pro-login46.godaddysites.com
 coinbase-pro-sign-in.company.site
@@ -169,7 +167,6 @@ dropbox-debug.com
 drsangitareddy.com
 einstagram.com
 empresas3-grupo-santander-es3.com
-en--app--coinbasepro---cdn-x--auth.webflow.io
 en--sso--coinbasepro-cdn.webflow.io
 es-bbva.entornoseguro.app
 es-bbva.es-788.com
@@ -225,11 +222,11 @@ google-pay.net
 google-u.com
 google.com.babcockrestorationservices.com
 google.com.wilo.luckystup-id.xyz
+google.justwaitforme.de
 googler.cdchiyuan.top
 gooogle-authentic.com
 happicloud.store
 help-coinbasedweb.vercel.app
-help-metamask-chrome-cdn.webflow.io
 helpp-facabook.netlify.app
 helps-coinbasepro--cdn-auth-cdns.webflow.io
 hjsqvkbi.netflix-seguro.com
@@ -243,7 +240,6 @@ hrpltwnm.account-check-netflix.com
 hsbcorsoemployer-mirror.wrkr.hk
 hsbcs.com.mx
 i.marcofacebook.com
-inatagram.it.com
 infuranet-faucet.metamask.cx
 insant-review-for-restrication.vercel.app
 instagram-adsinghnet.vercel.app
@@ -296,7 +292,6 @@ live-trustwalletservice.vercel.app
 logigmetamaskkii.godaddysites.com
 login-facebook-ten.vercel.app
 login-press-apple.dmlib.pro
-login-some-coinbase-pro.webflow.io
 lwkqmanseyrdusidffg.weebly.com
 m-sso-coinbasepro-v-auth.webflow.io
 m.a.amazon2-security.com
@@ -339,6 +334,7 @@ m.sm.acessos-itau.com
 m.sm.cdn-wellsfargo.com
 m.sm.sitemap.refresh-coinbase.com
 m.spublic.apple-icloud.us
+m.sssemote.amazon-relay.com
 m.sssportal.amazon-relay.com
 m.sssremote.amazon-relay.com
 m.sssssop.amazon-relay.com
@@ -437,7 +433,6 @@ netflix.appsign.in
 netflix.exlaso.in
 netflixgpt-98554.web.app
 netflixgpt-theta.vercel.app
-netflx.sa.com
 new-windows-and-doors-companies-0808.xyz
 news.apple-cl0ud.com
 newsroom-apple.com
@@ -489,7 +484,6 @@ paypalloginin-usa.blogspot.li
 paypalloginin-usa.blogspot.mx
 paypalloginin-usa.blogspot.nl
 paypalloginin-usa.blogspot.no
-paypalloginin-usa.blogspot.pt
 paypalloginin-usa.blogspot.ro
 paypalloginin-usa.blogspot.ru
 paypalloginin-usa.blogspot.se
@@ -570,7 +564,6 @@ sm.bbva.ubicacion-online-mx.com
 sm.sitemap.refresh-coinbase.com
 sm.sssremote.amazon-relay.com
 sm.ssssortal.amazon-relay.com
-so-io-coinbase--pro-login.webflow.io
 solar-windows-13038.bond
 solar-windows-16427.bond
 solar-windows-19344.bond
@@ -614,7 +607,6 @@ spottifyapk.com
 spublic.apple-icloud.us
 sqnutisssintranet.amazon-relay.com
 sregularizacao-netflix.comftp.regularizacao-netflix.com
-ss350e1164-a79a-4ffc-a40f-18f0652c6650.amazon-relay.com
 ssadmin.bbva-s.shop
 ssapp.bbva-s.shop
 sscomsemote.amazon-relay.com
@@ -628,7 +620,6 @@ ssm.sssssssadmin.amazon-relay.com
 sso---coinbasepro-cdn--z--auth.webflow.io
 sso---pro--coinbase----cden.webflow.io
 sso--coinbasepro--cdn-h---authd.webflow.io
-sso-en---coinbasepro-v---cdn.webflow.io
 sso-now--coinbasepro-cdn.webflow.io
 sssm.apple-icloud.us
 sssm.sitemap.refresh-coinbase.com
@@ -644,13 +635,13 @@ static.facebook.securprotection.com
 static.faceook.securprotection.com
 steam.communityartworkfiles.com
 steamcommmulty.com
+steamcommunity-25.com
 steamcommunity.app437991.com
 steamcommunity.com
 steamcommunity.doom-the-dark-ages-games.com
 steamcommunity.p250workshop.com
 steamcommunity.wallpapersengineshub.com
 steamcommunrity.com
-steamecommunity-gift.com
 submit-form-apply-here-br.vercel.app
 suport-metamaskz.webflow.io
 support--binance-us.webflow.io
