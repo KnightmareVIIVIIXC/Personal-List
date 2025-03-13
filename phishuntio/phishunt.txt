@@ -52,7 +52,6 @@ anyconnect.account-check-netflix.com
 anyconnect.account-netflix-be.com
 app-bbva.acceso-secure.es
 app-bbva.actualiza.app
-app-bbva.es-788.com
 app-bbva.es-942.com
 app-coinbasepros-app.webflow.io
 app-metamask.godaddysites.com
@@ -92,12 +91,12 @@ aspmx.l.google.com.babcockrestorationservices.com
 attstop.weebly.com
 auffrischen-coinbase.me
 auth-coinbase-pro-ca-login.webflow.io
+auth.gy
 authd-sso--coinbasepro-cdn--cdn.webflow.io
 autoconfig.amazon-relay.com
 bbva-loans.click
 bbva-prestamo.click
 bbva.actualiza.app
-bbva.es-788.com
 bbva.es-942.com
 bbva.spain-login.com
 binace.homes
@@ -133,6 +132,7 @@ coinbaseaa.com
 coinbaseac.com
 coinbasedeexcagnbed.webflow.io
 coinbaseexcahngeed.webflow.io
+coinbasehwalletextensione.webflow.io
 coinbaselogint.webflow.io
 coinbasepr04.godaddysites.com
 coinbaseprologinorofficialwebs.godaddysites.com
@@ -186,6 +186,7 @@ dropbox-debug.com
 dropbox7575.weebly.com
 drsangitareddy.com
 en--sso---coinbasepro---auth----cdn.webflow.io
+en--sso---coinbasepro---auth--qn--cdn.webflow.io
 en--sso--coinbasepro-cdn.webflow.io
 en-help-coinbaseext.webflow.io
 eng-sso---coinbasepro---auth--h--cd.webflow.io
@@ -194,7 +195,6 @@ enopenseaapp.io
 es-bbva.acceso-secure.es
 es-bbva.actualiza.app
 es-bbva.entornoseguro.app
-es-bbva.es-788.com
 esvzdussm.ssssssssssm.apple-icloud.us
 ether-fi-coinbase.com
 facebook-116km.pagemaker.link
@@ -225,6 +225,7 @@ facebook.us15.playmusicvideo1.com
 facebook2-by-rtn.vercel.app
 facebookclone12.vercel.app
 facebookrecreation.webflow.io
+facebooks.com.vn
 fapple.news
 findajobforme.linkedin.loginfor.me
 forspotify.top
@@ -234,8 +235,11 @@ ftp.appie-us.center
 ftp.regularizacao-netflix.com
 futuregroup-google-translator.360managed.com.au
 gdhd464geg.ubpages.com
+gift50steam.com
+google-ads-local-2973.xyz
 google-aloqa.golo-siso.cfd
 google-aloqa.mivori.cfd
+google-auth.xn--hostiner-ugb.com
 google-cse.xyz
 google-hao.top
 google-ipak.golo-siso.cfd
@@ -272,6 +276,7 @@ hotmailfree-milfsexx017-whatsapp754.netlify.app
 hsbcorsoemployer-mirror.wrkr.hk
 hsbcs.com.mx
 i.marcofacebook.com
+index-home-page-coinbase-en.webflow.io
 infuranet-faucet.metamask.cx
 instagram-beautygirls-publicationsparis.vercel.app
 instagram-build-one.vercel.app
@@ -305,10 +310,12 @@ it-outlookwebaccess.com
 ita6.sfdc-3d0u2f.salesforce.com
 jnzawmgfkx.myfunnelish.com
 khalid-apple-replica.netlify.app
+khr.lfp.mybluehost.me
 kunawon.com
 l.google.com.babcockrestorationservices.com
 le48.paris
 learn-appe-trezor.webflow.io
+learn-ext-coinbasees.webflow.io
 learn.amazon.com
 letflix.hair
 letflix.im
@@ -320,8 +327,10 @@ login-facebook-ten.vercel.app
 login-faxplus-outlook.com
 login-outlook-liveauth.com
 login-outlookonline-server.com
+loginoutloo-verification-officee365.com
 lwkqmanseyrdusidffg.weebly.com
 m-sso-coinbasepro-v-auth.webflow.io
+m-web-coinbasepros-auth.webflow.io
 m.admin.netflix-seguro.com
 m.amazon.fr.videoprimecnst.com
 m.amazon.fr.videoprimelcns.com
@@ -384,14 +393,17 @@ metamaskextansiona.webflow.io
 metamaskextensiin.webflow.io
 metamaskioaloginn.webflow.io
 metamaskklogink.webflow.io
+metamaskkslogain.webflow.io
 metamaskksuextension.webflow.io
 metamasklginorofficialwebsite.godaddysites.com
 metamasklogin-communityplatfor.godaddysites.com
 metamaskloginaf.webflow.io
 metamaskloginat.webflow.io
+metamaskloginede.webflow.io
 metamaskloginorsignin.godaddysites.com
 metamaskloiggin.webflow.io
 metamaskloug-us4.godaddysites.com
+metamaskluiygin.webflow.io
 metamaskrectify.com
 metamasksnft.com
 metamaskwalletextensiioni.webflow.io
@@ -431,11 +443,13 @@ netflix-clone-eight-black.vercel.app
 netflix-clone-five-puce.vercel.app
 netflix-clone-jamesfrye420.vercel.app
 netflix-clone-mu-jade.vercel.app
+netflix-clone-peach-zeta.vercel.app
 netflix-clone-rose-omega.vercel.app
 netflix-clone-taupe-ten-27.vercel.app
 netflix-gpt-8e862.firebaseapp.com
 netflix-gpt.shreyanshshukla.me
 netflix-one-ochre.vercel.app
+netflix-payment.click
 netflix-redesign-ten.vercel.app
 netflix-sable.vercel.app
 netflix-seguro.com
@@ -483,7 +497,6 @@ paypalloginin-usa.blogspot.my
 paypalloginin-usa.blogspot.ro
 photo-editing-programs-for-windows-1455.shop
 pjnklm.sssssssm.apple-icloud.us
-play-gogle-dominoglobal.pro
 portal--coinbasepro--cdn-e--auth.webflow.io
 portal--coinbasepro--cdn-e--cdn.webflow.io
 portal--en--coinbasepro--cdn-auth.webflow.io
@@ -587,6 +600,7 @@ spjnklm.sssssssm.apple-icloud.us
 spotifty-login-page-clone.vercel.app
 spotify-02.vercel.app
 spotify-clone-luigi-iossa.netlify.app
+spotify-clone-site.netlify.app
 spotify-login-clone.netlify.app
 spotifycc.com
 spotifyee.com
@@ -618,6 +632,7 @@ sso---coinbasepro---aecure-app.webflow.io
 sso---coinbasepro--cdn-en--auth.webflow.io
 sso---coinbasepro-cdn--z--auth.webflow.io
 sso---en--coinbasepro---cdn--auth.webflow.io
+sso---nav---coinbasepro--cdn---r--auths.webflow.io
 sso---pro--coinbase----cden.webflow.io
 sso--coinbasepro--cdn---auth.webflow.io
 sso--coinbasepro--cdn---en--auth.webflow.io
@@ -652,6 +667,7 @@ steam.archive.com.im
 steam.communityartworkfiles.com
 steam.concord-publications.com
 steam.suzhouren.cn
+steam.workshopteams.com
 steamcommmulty.com
 steamcommuinuty.com
 steamcommunity-bless.com
@@ -687,6 +703,7 @@ trusted-device-apple.com-info.io
 trustwallet-info.pro
 trustwallet.intttc.com
 two4x7-apples-helps-lines.onrender.com
+unbouncepages.com
 up495364565262.wpenginepowered.com
 us.coinbase.msbe.cc
 usa-metamaskk-logi.godaddysites.com
@@ -764,10 +781,12 @@ www.amazonro.cloud
 www.barclays-investment.com
 www.coinbase-securenow.com
 www.coinbasewallet-initiate.com
+www.facebook.com
 www.facebooksecuritycenter.top
 www.google.com
 www.google.com.ar
 www.google.com.vn
+www.icloud.com
 www.metamark.ct.ws
 www.oni-sbc.com
 www.pagina.pro
