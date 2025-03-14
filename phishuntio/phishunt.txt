@@ -43,7 +43,6 @@ amazon.fr.videoprimegcbt.com
 amazon.fr.videoprimelcns.com
 amazon.ogv21.com
 amazon118.com
-amazonbest.vip
 amazonclone-alpha.vercel.app
 amazonia-beta.vercel.app
 amazonlandingpageclone.netlify.app
@@ -170,8 +169,6 @@ comwww.officevpn.account-netflix-be.com
 comwww.vpn.account-netflix-be.com
 connect.account-netflix-be.com
 consent.google.com
-consent.oogle.it
-conto.intesasanpaolo1.banca.s.p.a.t.mydomain.zone
 copy-instagram-teal.vercel.app
 correo-es.muabannotienthinh.com
 correosprepago.bnext.es
@@ -226,7 +223,6 @@ facebook2-by-rtn.vercel.app
 facebookclone12.vercel.app
 facebookrecreation.webflow.io
 facebooks.com.vn
-fapple.news
 findajobforme.linkedin.loginfor.me
 forspotify.top
 forspotify.xyz
@@ -255,7 +251,6 @@ google.ollerenshaw.au
 google.omninents.com
 graduate-work-app-instagram.vercel.app
 help--coinbasepro--cdn.webflow.io
-help-appe-ledgre.webflow.io
 help-coinbasedweb.vercel.app
 helpcenter8.ubpages.com
 helpcoinbase.info
@@ -273,6 +268,7 @@ homemetamaskllog.godaddysites.com
 homestarpro.com
 honey-tyagi-spotify-clone.vercel.app
 hotmailfree-milfsexx017-whatsapp754.netlify.app
+hsbc-main-demo-broker.azurewebsites.net
 hsbcorsoemployer-mirror.wrkr.hk
 hsbcs.com.mx
 i.marcofacebook.com
@@ -379,6 +375,7 @@ meta_mask-log-inus.godaddysites.com
 metaamask-logg.godaddysites.com
 metacase2661.com
 metamark.ct.ws
+metamask-io-s--dk.webflow.io
 metamask-login6.godaddysites.com
 metamask-logn.webflow.io
 metamask-us_logxn.godaddysites.com
@@ -405,7 +402,6 @@ metamaskloiggin.webflow.io
 metamaskloug-us4.godaddysites.com
 metamaskluiygin.webflow.io
 metamaskrectify.com
-metamasksnft.com
 metamaskwalletextensiioni.webflow.io
 metamaskwalletextensiionm.webflow.io
 metamaskwalletextensiionn.webflow.io
@@ -421,7 +417,6 @@ metamssk-luggiinn.godaddysites.com
 mettmask-login.webflow.io
 micrasoft-onedrive.com
 microsoft-login-eight.vercel.app
-microsoft.infosynergie.dev
 microsoft.secnsure.xyz
 microsoftauthenticator.net
 microsofts.email
@@ -449,7 +444,6 @@ netflix-clone-taupe-ten-27.vercel.app
 netflix-gpt-8e862.firebaseapp.com
 netflix-gpt.shreyanshshukla.me
 netflix-one-ochre.vercel.app
-netflix-payment.click
 netflix-redesign-ten.vercel.app
 netflix-sable.vercel.app
 netflix-seguro.com
@@ -516,7 +510,6 @@ processitau.vercel.app
 proo-sso-coinbasepro--auth.webflow.io
 pub-005ceeda28c049c5893402169635d4a4.r2.dev
 pub-3424228f58ac440c9523afb01100ed68.r2.dev
-pub-6b21397ab3dc4447a1594697db571a7f.r2.dev
 pub-f3a335c3131047a7a157d355c61847fa.r2.dev
 public---coinbasepro--cdn-auths-cdn.webflow.io
 public.netflix-security.de
@@ -668,7 +661,6 @@ steam.communityartworkfiles.com
 steam.concord-publications.com
 steam.suzhouren.cn
 steam.workshopteams.com
-steamcommmulty.com
 steamcommuinuty.com
 steamcommunity-bless.com
 steamcommunity-lala.com
@@ -676,7 +668,6 @@ steamcommunity.com
 steamcommunity.doom-the-dark-ages-games.com
 steamcommunity.p250workshop.com
 steamcommunity.wallpapersengineshub.com
-steamcomnmnuity.com
 steamcomnuinty.com
 steamcomyunity.com
 steamecommmunnity.com
@@ -779,14 +770,11 @@ www.000414-coinbase.com
 www.0ffice365.support
 www.amazonro.cloud
 www.barclays-investment.com
-www.coinbase-securenow.com
 www.coinbasewallet-initiate.com
-www.facebook.com
 www.facebooksecuritycenter.top
 www.google.com
 www.google.com.ar
 www.google.com.vn
-www.icloud.com
 www.metamark.ct.ws
 www.oni-sbc.com
 www.pagina.pro
