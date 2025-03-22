@@ -41,6 +41,6 @@ def process_openphish_feed(input_file, output_file):
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-    input_file = "https://openphish.com/feed.txt"
+    input_file = "https://github.com/openphish/public_feed/raw/main/feed.txt"
     output_file = "opfeed.txt"
     process_openphish_feed(input_file, output_file)
