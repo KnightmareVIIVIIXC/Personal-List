@@ -17,7 +17,7 @@ def extract_domains(url, output_file):
                 if parsed_url.netloc:
                     domains.add(parsed_url.netloc)
 
-        with open(output_file, 'w', encoding='utf-8') as f: # added encoding='utf-8'
+        with open(output_file, 'w', encoding='utf-8') as f:
             for domain in sorted(domains):
                 f.write(domain + '\n')
 
