@@ -1,5 +1,4 @@
 import requests
-import re
 from urllib.parse import urlparse
 
 def extract_domain(url):
@@ -7,12 +6,11 @@ def extract_domain(url):
         parsed_url = urlparse(url)
         if parsed_url.netloc:
             return parsed_url.netloc
-        elif "." in url:
-            return url
         else:
             return None
-    except Exception as e:
-        print(f"Error parsing URL {url}: {e}")
+    except ValueError:
+        return None
+    except TypeError:
         return None
 
 def process_openphish_feed(input_file, output_file):
@@ -29,7 +27,7 @@ def process_openphish_feed(input_file, output_file):
                 if domain:
                     domains.add(domain)
 
-        with open(output_file, "w") as outfile:
+        with open(output_file, "w", encoding="utf-8") as outfile:
             for domain in sorted(list(domains)):
                 outfile.write(domain + "\n")
 
