@@ -1,6 +1,6 @@
 import requests
 
-def download_rfdfeed_lines(url, filename):
+def download_zonefiles_lines(url, filename):
     try:
         response = requests.get(url, stream=True)
         response.raise_for_status()
@@ -21,4 +21,4 @@ def download_rfdfeed_lines(url, filename):
 if __name__ == "__main__":
     url = "https://zonefiles.io/f/compromised/domains/live/compromised_domains_live.txt"
     filename = "livefeed.txt"
-    download_rfdfeed_lines(url, filename)
+    download_zonefiles_lines(url, filename)
