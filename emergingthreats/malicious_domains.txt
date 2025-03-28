@@ -3013,3 +3013,9 @@ authentication-to.help
 open-connect-to-cdn.cc
 connection.click
 westmaidentrue.click
+shj-connect.online
+korektell.com
+newroztelecom.digital
+sharjahairport.cloud
+speed-test.click
+arthurshelby.click
