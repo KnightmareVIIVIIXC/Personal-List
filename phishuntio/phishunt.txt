@@ -10,10 +10,12 @@
 1211-6.vercel.app
 1211-7-ten.vercel.app
 1211-d2mx.vercel.app
+1211-kihm.vercel.app
 1211-n153.vercel.app
 1211-nine-psi.vercel.app
 1211-p.vercel.app
 1211-rbxv.vercel.app
+1211-rho.vercel.app
 1211-xxax.vercel.app
 1211-z-yf5y.vercel.app
 12111-khaki.vercel.app
@@ -108,8 +110,6 @@ amazon.selectedtodayyscr.quest
 amazon.selectedtodayywdr.monster
 amazon.selectedtodayzayw.quest
 amazon.wondergadgetsampv.quest
-amazon338.com
-amazon8866.cc
 amazonclone-alpha.vercel.app
 amazonia-beta.vercel.app
 announcement-binance.com
@@ -131,6 +131,8 @@ apple-by-abdi.netlify.app
 apple-clone-dawit.netlify.app
 apple-internal-acs-support.com
 apple-ios-apple.help.noreplyemailapple.com
+apple-maps.art
+apple-online.art
 apple-phi.vercel.app
 apple-replica2.netlify.app
 apple.app-online.live
@@ -143,6 +145,7 @@ apple.support.com-inc-l.us
 apple7.club
 applebootstrap.vercel.app
 appleclonebootstrap1.netlify.app
+applefind.info
 apples-care-service7p3.vercel.app
 apples-care-service9p4.vercel.app
 apples-care-service9p5.vercel.app
@@ -150,6 +153,7 @@ apples-service-care.vercel.app
 apples-service-care6p1.vercel.app
 applezed-clone.netlify.app
 apply-for-blue-badge-subscription-2025.vercel.app
+apply-official-verified.vercel.app
 apply-review-7rjip.ondigitalocean.app
 arnon-facebook.vercel.app
 asa.account-check-netflix.com
@@ -186,7 +190,6 @@ binance.bey-dev.mixh.jp
 binance.logicx.pro
 binances-aps.web.app
 binancestransfers.com
-bio.site
 bitly.com
 blablacar.paypal-caseid68521.netflixprice.com
 bloch.netflix-suspenso.com
@@ -207,6 +210,7 @@ clientesvpn.account-check-netflix.com
 clientesvpn.account-netflix-be.com
 cn-trustwallet.com
 cnb.netflix-suspenso.com
+coibase-verifyaccount.24-199-98-85.cprapid.com
 coimbase-wallet.webflow.io
 coinbase-com.sfa-sd.com
 coinbase-event.vercel.app
@@ -278,10 +282,12 @@ cx.metamask.cx
 d68.cceng.netflix-security.de
 d773d0a7-c7cd-4bc2-80d1-fe381b63082f.netflix-security.de
 dc-df1dfc83ec78.netflix-seguro.com
+dev.netflix-dual-subtitles.com
 dim.netflix-bills.com
 dintesa.net
 dispenser.netflix-security.de
 dl-client107.dropbox.netflix-bills.com
+dl.dropboxusercontent.com
 docs-metamassk-llogi.godaddysites.com
 docs.google.com
 doppler-brandschutz.paypal-transaction-secure.info
@@ -389,7 +395,6 @@ glassdooronline.paypal-transaction-secure.info
 google-ads-local-2973.xyz
 google-cse.xyz
 google-de.getenjoyment.net
-google-hao.top
 google-jrm.xyz
 google-l-edger.webflow.io
 google-pay.net
@@ -408,7 +413,6 @@ help--coinbasepro--helps---app--auth.webflow.io
 help--coinbasepro--home---app--auth--en.webflow.io
 help-coinbasedweb.vercel.app
 help-extenion-coinbase.webflow.io
-help-netflix-be.com
 helpcoinbase.info
 helps-coinbasepro--app-auth--cdn.webflow.io
 helps-coinbasepro--cdn-autths-cdn.webflow.io
@@ -463,6 +467,7 @@ instagram.ossamaelidrissi.com
 instagramhelp.azurewebsites.net
 instagramz.vercel.app
 instapro2.net
+interbank-app.pet
 intervank.com
 intranet.playmarket-googles.com
 it-outlookwebaccess.com
@@ -541,7 +546,6 @@ m.admin.netflix-seguro.com
 m.airbnb-booking-confirm.netflix-security.de
 m.airbnb-booking-confirm.netflix-seguro.com
 m.airbnbcleaninggoldcoast.paypal-transaction-secure.info
-m.airbnbhausvacations.netflix-bills.com
 m.airbnbthreads.netflix-security.de
 m.airfare.netflix-seguro.com
 m.amazon.selectedtodayieaf.monster
@@ -696,7 +700,6 @@ m.si-ang.netflix-bills.com
 m.silletts.netflix-seguro.com
 m.sillgtinfuranet-faucet.metamask.cx
 m.sipproxy2.netflix-suspenso.com
-m.sitemap.googl.vip
 m.sitemap.refresh-coinbase.com
 m.sjw-1.netflix-seguro.com
 m.slinkedintoprofits.netflix-security.de
@@ -858,6 +861,7 @@ metamawk-wallet.webflow.io
 metamssk-loginn.webflow.io
 metamssk-luggiinn.godaddysites.com
 metanask-walet.webflow.io
+metrovet.co.ke
 mettamask-logsin-86uk.godaddysites.com
 micrasoft-onedrive.com
 microsoft-login-eight.vercel.app
@@ -870,6 +874,7 @@ microsoftauthenticator.net
 microsofts.email
 microsofttrustmicromacros.net
 micrososft.secnsure.xyz
+midiakit.net
 mitauuskluggon.webflow.io
 mk-netflix-clone-project.vercel.app
 mobileconnect.account-netflix-be.com
@@ -878,7 +883,6 @@ motamask-us-anlog.godaddysites.com
 mrtb.net
 msf-chat.m3.netflix-security.de
 music-spellgw.yst.netflix-security.de
-my-netflix-info.com
 my.netflix-seguro.com
 myaccount.drive.google.com.authentication.sbs
 myoffice.netflix-seguro.com
@@ -898,6 +902,7 @@ netflix-clone-rho-liard.vercel.app
 netflix-clone-taupe-ten-27.vercel.app
 netflix-clone-teal-phi.vercel.app
 netflix-clone-two-opal.vercel.app
+netflix-clone-youtube-psi.vercel.app
 netflix-devzero.vercel.app
 netflix-facture-acquisition.netflixprice.com
 netflix-gpt-609e2.firebaseapp.com
@@ -913,7 +918,6 @@ netflix-squid-game-trip.com
 netflix-support-renouvellement.netflix-seguro.com
 netflix-ui-clone-self.vercel.app
 netflix-zeta-azure.vercel.app
-netflix.hunterwhitedev.com
 netflixabonnierensav-konto.netflix-bills.com
 netflixaccount-update1.netflix-security.de
 netflixgpt-66e93.firebaseapp.com
@@ -953,6 +957,7 @@ p-ss--coinbasepro-cdn--auth.webflow.io
 page-home--coinbase-learn.webflow.io
 pagina.pro
 paper.login.my-dropbox.com
+parasyte-the-grey-netflix.net
 paylink-netflix.info
 payoneer-market.paypal-transaction-secure.info
 payoneeradultsponsors.netflix-security.de
@@ -1007,7 +1012,6 @@ play-google-kz-chicken-road.top
 play-google-plinko-kz-now.top
 play-google-plinko-ru-wow.top
 play-google-plinko-uz-toady.top
-play-google-ru-chicken-road.top
 play-google.rest
 plusdetoiles.paypal-transaction-secure.info
 pochtabank.paypal-user-id999.netflix-suspenso.com
@@ -1015,7 +1019,7 @@ portal---help-coinbase-sso-cdn.webflow.io
 portal--coinbase-com-cdn.webflow.io
 portal--coinbasepro--cdn-e--auth.webflow.io
 portal--coinbasepro--cdn-e--cdn.webflow.io
-portal-bbva.info
+portal-coinbase-sso-cdn-auth.webflow.io
 portal-coinbasepro--cdn--v--home.webflow.io
 portal-coinbasepro--cdn-auth-cdn.webflow.io
 portal-coinbasepro-cdn--auth-c.webflow.io
@@ -1033,7 +1037,9 @@ prtools.netflix-seguro.com
 psiqnkjgda.com
 pub-3424228f58ac440c9523afb01100ed68.r2.dev
 pub-f3a335c3131047a7a157d355c61847fa.r2.dev
+public---help-coinbase-sso-app.webflow.io
 public--help--coinbase-sso-cdn.webflow.io
+public-coinbasepro--cdn--q--auth.webflow.io
 public-coinbasepro--cdn-auth--cdn.webflow.io
 public.netflix-security.de
 purchasecontrol.bankofamerica.redditinsight.pro
@@ -1057,6 +1063,7 @@ remote.account-netflix-be.com
 remoto.account-netflix-be.com
 renewal-windows-and-doors-032.click
 replace-your-old-windows-fast-0402.click
+replacement-windows-uk.sbs
 resultados.netflix-security.de
 rewards.netflix-seguro.com
 riot.netflix-bills.com
@@ -1115,10 +1122,12 @@ secure-coinbase-home--cdn.webflow.io
 secure-coinbasepro--cdn-t-auth.webflow.io
 secure-coinbasepro-app-authd--cdn.webflow.io
 secure-coinbasepros--cdn-auth-cdn.webflow.io
+secure-sso--coinbasepro--cdn-c-auth.webflow.io
 secure-sso--coinbasepro--cdn-x-auth.webflow.io
 secure.account-check-netflix.com
 sellercentral.amazon.com
 sellercentral.amazon.com-v9.net
+serv-conbase.18-191-244-141.cprapid.com
 service--metamask--cdn.webflow.io
 service.coinbase-authy.18-223-211-232.cprapid.com
 ses-bbva.acceso-incidencia.com
@@ -1144,7 +1153,6 @@ sincronizaciondedispositivositau.glitch.me
 sinfuranet-faucet.metamask.cx
 sipproxy2.netflix-suspenso.com
 sitemap.coinbaseoption.top
-sitemap.googl.vip
 sitemap.netfiix-obnovit.com
 sitemaps.yield-coinbase.com
 sites.google.com
@@ -1251,7 +1259,6 @@ ssfwd.netflix-security.de
 sshare.netflix-security.de
 ssillgtinfuranet-faucet.metamask.cx
 ssillgtwww.infuranet-faucet.metamask.cx
-ssitemap.googl.vip
 ssl-eat.netflix-suspenso.com
 ssl.account-netflix-be.com
 sslivewww.apple.us-maps.live
@@ -1308,7 +1315,6 @@ ssscomwww.com.amazon-verifcompte.com
 ssscsp.login.my-dropbox.com
 ssses-bbva.acceso-secure.es
 sssfwd.netflix-security.de
-sssitemap.googl.vip
 ssslivewww.apple.us-maps.live
 ssslllgtinfuranet-faucet.metamask.cx
 ssslllgtwww.infuranet-faucet.metamask.cx
@@ -1336,7 +1342,6 @@ sssscom.amazon-verifcompte.com
 sssscomcom.amazon-verifcompte.com
 sssscomwww.com.amazon-verifcompte.com
 sssscsp.login.my-dropbox.com
-ssssitemap.googl.vip
 ssssm.com.amazon-verifcompte.com
 ssssm.infuranet-faucet.metamask.cx
 ssssm.ng-coinbase.com
@@ -1397,18 +1402,16 @@ steam.archive.com.im
 steam.communityartworkfiles.com
 steam.lymeng.top
 steam.suzhouren.cn
-steamcommnunflty.com
-steamcommunite.com
-steamcommunity-br1z1.com
 steamcommunity.com
 steamcommunllity.com
+steamcomnunite.com
+steamcomunnity.co
 steamconmunllty.com
 steameconmmnunty.com
 steamgifts.cfd
 steampowered.domainfortestomg.com
 steampowered.playtest192852.com
 steamshortlink.com
-steamspring-short.guru
 stest-sso-int.netflix-bills.com
 stores.netflix-security.de
 stores.netflix-seguro.com
@@ -1419,7 +1422,6 @@ sucrm.netflix-suspenso.com
 sulphonal.paypal-transaction-secure.info
 suport-metamaskz.webflow.io
 support--sso--coinbasepros-cdn---oauth.webflow.io
-support-apple.comx-7.ws
 support-en-coinbase-sso-cdn.webflow.io
 support-metamask-com-cdn.webflow.io
 support.apple.app-online.live
@@ -1455,7 +1457,6 @@ tqgjklho.auracom.netflix-seguro.com
 traffico-ita-m.geogeo.club
 transportanfrage.de
 trendyolsaglik.netflix-bills.com
-trostwallet.com
 trusted-device-apple.com-info.io
 trustwallet-info.pro
 trustwallet.intttc.com
@@ -1481,6 +1482,7 @@ two4x7-apples-helps-lines.onrender.com
 ultradns.netflix-suspenso.com
 um.mediaroom.netflix-seguro.com
 upaypal.xyz
+update.authy-coinbase.18-191-244-141.cprapid.com
 us-east-2.testextded1.paypal-transaction-secure.info
 us-scrappy-mtls-canary.g03.netflix-seguro.com
 us-west-2.southwest.netflix-bills.com
@@ -1639,6 +1641,7 @@ windows-and-doors-replacement-company-0901.click
 windows-and-doors-replacement-company-1301.click
 windows-blinds-gb-006.space
 windows-br01.click
+windows-company-1274955.world
 windows-experts-sg06.click
 windows-experts-uko06.click
 windows-for-house-13012.click
@@ -1666,14 +1669,13 @@ www.amazonro.cloud
 www.coinbase-us2.cc
 www.coinbase-us6.com
 www.coinbase-us8.com
-www.facebook-helpcenter.click
 www.google.com
 www.google.com.vn
 www.googledocsdocumentviewer94030.notariaunicalaunion-valle.com.co
 www.intesasanpaoloweb.com
 www.it-outlookwebaccess.com
-www.linkedin.com
 www.oni-sbc.com
+www.paylink-netflix.info
 www.paypal.com
 www.phillyweedentraining.com
 www.steamcommunity.comprofiles76561199164738635.l1ve709.com
