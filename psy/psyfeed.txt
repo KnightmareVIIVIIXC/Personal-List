@@ -5926,6 +5926,7 @@ takesdrop.site
 csgoroll.online
 twltchfacetpaunchw.skin
 steam-workshop.vip
+steamecommunity.cfd
 distabs.com
 twitch.gift
 steamncommunity.co
@@ -13489,6 +13490,7 @@ feskins.com
 www-hypesquad-event.com
 app.lensl.xyz
 steamcommunitynewoffermditotradeoffer.com
+collab-land-switch.com
 invite-moderator-apply.com
 monbit.eu
 nitroclaim.com
@@ -25492,6 +25494,7 @@ aplly-hype.ml
 dlscord-give.ru.com
 dynotools.tech
 steamcornmunitiy.ru
+steamcormmunirty.com
 discodnitro.ru
 streamcomnnunuty.com
 lightchainsupports.pages.dev
