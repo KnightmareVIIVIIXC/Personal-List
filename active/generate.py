@@ -6,7 +6,7 @@ def process_file(url):
         response.raise_for_status()
 
         domains = set()
-        for line in response.iter_lines():  # Removed decode_unicode=True initially
+        for line in response.iter_lines():
             if isinstance(line, bytes):
                 line = line.decode('utf-8', errors='ignore').strip()
             else:
