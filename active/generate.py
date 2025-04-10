@@ -6,8 +6,12 @@ def process_file(url):
         response.raise_for_status()
 
         domains = set()
-        for line in response.iter_lines(decode_unicode=True):
-            line = line.strip()
+        for line in response.iter_lines():  # Removed decode_unicode=True initially
+            if isinstance(line, bytes):
+                line = line.decode('utf-8', errors='ignore').strip()
+            else:
+                line = line.strip()
+
             if line and not line.startswith("#") and not line.startswith("!"):
                 parts = line.split()
                 domain = parts[0] if len(parts) >= 1 else None
@@ -40,6 +44,8 @@ def write_domains_to_file(domains, output_filename="activephish.txt"):
 
 if __name__ == "__main__":
     urls = [
+        "https://zonefiles.io/f/compromised/domains/live/compromised_domains_live.txt",
+        "https://hosts.tweedge.net/malicious.txt",
         "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-ACTIVE.txt",
         "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-last-hour.txt",
