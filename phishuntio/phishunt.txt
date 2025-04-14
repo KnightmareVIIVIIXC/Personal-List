@@ -20,6 +20,7 @@
 1211-xxax.vercel.app
 1211-z-yf5y.vercel.app
 1211-zds.vercel.app
+1211-zxw.vercel.app
 12111-khaki.vercel.app
 12112-six.vercel.app
 12117-blue.vercel.app
@@ -36,6 +37,7 @@
 1211fsaa.vercel.app
 1211g6-ashen.vercel.app
 1211i4.vercel.app
+1211r6.vercel.app
 1211s10-as.vercel.app
 1211s10-vxz.vercel.app
 1211s10ax.vercel.app
@@ -109,9 +111,9 @@ amazon-business.design
 amazon-business.faith
 amazon-ca.shop
 amazon-clon-website.vercel.app
-amazon-clone-2-zeta.vercel.app
 amazon-clone-alpha-sable-28.vercel.app
 amazon-clone-eight-xi.vercel.app
+amazon-clone-papareact-challenge.vercel.app
 amazon-clone-pi-three-25.vercel.app
 amazon-clone-react-lovat.vercel.app
 amazon-clone-v1-eight.vercel.app
@@ -129,6 +131,7 @@ amazon-trial.acl360.io
 amazon-ui-clone-zeta.vercel.app
 amazon-verifcompte.comssscom.amazon-verifcompte.com
 amazon.fr.videoprimemtns.com
+amazon.hiflyvanguard.com
 amazon.selectedtodayalgw.quest
 amazon.selectedtodaychnq.monster
 amazon.selectedtodayecpr.quest
@@ -166,13 +169,11 @@ apple-by-abdi.netlify.app
 apple-clone-dawit.netlify.app
 apple-phi.vercel.app
 apple-replica2.netlify.app
-apple.319785.com
 apple.agroaz.com
-apple.aijiusw.com
 apple.app-online.live
 apple.care-products-online.com
 apple.chiangmaicam-tel.com
-apple.chukewang.com
+apple.cloudipilnc.com
 apple.com-info.io
 apple.com-mx-ios.us
 apple.com.securepage.org
@@ -183,8 +184,6 @@ apple.support.com-inc-l.us
 apple.tadetek.com
 apple.takaki-k.com
 apple.teresawoodart.com
-apple.youzhan-rv.com
-apple.yutujt.com
 apple7.club
 applebootstrap.vercel.app
 appleclonebootstrap1.netlify.app
@@ -227,8 +226,8 @@ binance-zh-download.top
 binance.bey-dev.mixh.jp
 binance.logicx.pro
 binances-aps.web.app
+bireyselislemler-bbva.cfd
 bloch.netflix-suspenso.com
-bolly-dropbox.top
 brdkeyci.auracom.netflix-seguro.com
 c-coinbase-pro-login-sso.webflow.io
 c2metadata.netflix-security.de
@@ -329,6 +328,7 @@ dl.dropboxusercontent.com
 docs-metamassk-llogi.godaddysites.com
 docs.google.com
 doppler-brandschutz.paypal-transaction-secure.info
+dopplertradingbot.paypal-com-aspi-dll.us
 dr4-sto1.paypal-transaction-secure.info
 drive.drive.google.com.authentication.sbs
 drive.google.com
@@ -362,6 +362,7 @@ evd.next.netflix-security.de
 evdenevenakliyat-618.paypal-transaction-secure.info
 f2.netflix-suspenso.com
 faas-pilot.netflix-security.de
+faceb0ok.info
 facebook-116km.pagemaker.link
 facebook-ads.ubpages.com
 facebook-beryl-one.vercel.app
@@ -393,6 +394,7 @@ facebooklogin-eosin.vercel.app
 facebookrecreation.webflow.io
 facebooks-supost-helpp.ubpages.com
 facebooks.asia
+facebooks.com.vn
 fanfiction.netflix-security.de
 fbjs.netflix-suspenso.com
 fhxlbqra.auracom.netflix-seguro.com
@@ -448,6 +450,7 @@ grammarlychat.netflix-security.de
 gsfic.netflix-seguro.com
 guaniusm.netflix-seguro.com
 help-coinbasedweb.vercel.app
+help-coinbaseprologin.webflow.io
 help-extenion-coinbase.webflow.io
 helpcoinbase.info
 helps-secure-coinbase-extnn.webflow.io
@@ -493,6 +496,7 @@ instagram-v2-jet.vercel.app
 instagram-v3-mocha.vercel.app
 instagram.archive.com.im
 instagram.ossamaelidrissi.com
+instagram506308.blogspot.com
 instagramhelp.azurewebsites.net
 instagrammalo.blogspot.co.za
 instagrammlogin.vercel.app
@@ -934,6 +938,7 @@ metamaskloginorlogin.godaddysites.com
 metamaskloginormetamask.godaddysites.com
 metamaskloiggin.webflow.io
 metamaskloug-us4.godaddysites.com
+metamaskluwogin.webflow.io
 metamaskrectify.com
 metamssk-loginn.webflow.io
 metamssk-luggiinn.godaddysites.com
@@ -963,7 +968,6 @@ my.netflix-seguro.com
 myaccount.drive.google.com.authentication.sbs
 myoffice.netflix-seguro.com
 na-81o.netflix-bills.com
-na.gamma.audits-procurement.amazon.dev
 nalozhka.paypal-user-id999.netflix-suspenso.com
 netflix-bills.com
 netflix-build-mridul28.vercel.app
@@ -991,7 +995,6 @@ netflix-lovat-sigma.vercel.app
 netflix-nine-plum.vercel.app
 netflix-one-ochre.vercel.app
 netflix-planrenew.paypal-transaction-secure.info
-netflix-ps.com
 netflix-sable.vercel.app
 netflix-sepia-one.vercel.app
 netflix-squid-game-trip.com
@@ -999,7 +1002,6 @@ netflix-support-renouvellement.netflix-seguro.com
 netflix-uaexclusive.com
 netflix-ui-clone-self.vercel.app
 netflix-zeta-azure.vercel.app
-netflix.uaeofferbirthday.com
 netflixabonnierensav-konto.netflix-bills.com
 netflixaccount-update1.netflix-security.de
 netflixcloneen.vercel.app
@@ -1026,7 +1028,6 @@ oax1li.paypal-transaction-secure.info
 office-outlook-verify.com
 office365-english.net
 office365.intuitqb.us
-office365.n0vi.nl
 office365.ttsmssg.biz
 officevpn.account-netflix-be.com
 official-site-r-coinbase-x-pro-auth.webflow.io
@@ -1053,7 +1054,6 @@ paypal-support-recovery-accounts-centre.netflix-bills.com
 paypal-user-case.paypal-transaction-secure.info
 paypal-user-id999.netflix-suspenso.com
 paypal.com.iv9son.pp-al.com
-paypal.entspannte-annahme.com
 paypalaccountscure.paypal-transaction-secure.info
 paypaldealsfinder.netflix-seguro.com
 paypaldotcomsucks.paypal-transaction-secure.info
@@ -1116,6 +1116,7 @@ remotejob.myfunnelish.com
 remoto.account-netflix-be.com
 renewal-windows-and-doors-032.click
 replace-your-old-windows-fast-0402.click
+replacement-windows-1.click
 resultados.netflix-security.de
 rewards.netflix-seguro.com
 riot.netflix-bills.com
@@ -1331,7 +1332,6 @@ sspaper.login.my-dropbox.com
 sssamazon-verifcompte.comssscom.amazon-verifcompte.com
 sssarchive.netflix-security.de
 ssscolissimo-livraison.com.amazon-verifcompte.com
-ssscom.amazon-verifcompte.com
 ssscomcom.amazon-verifcompte.com
 ssscomssscom.amazon-verifcompte.com
 ssscomwww.com.amazon-verifcompte.com
@@ -1422,11 +1422,12 @@ steam-store.ys7z.com
 steam.archive.com.im
 steam.communityartworkfiles.com
 steam.suzhouren.cn
+steamcommnunity.cfd
 steamcommunity.com
 steamcommunity.wallpaperengineshared.com
+steamcommunllity.com
 steamcomnmnuity.com
 steamcuommunity.com
-steamgiftlink.com
 steamncommunity.cfd
 steampadfi.click
 steampowered.playtest192852.com
@@ -1438,6 +1439,7 @@ studentsvpn.account-netflix-be.com
 subscriptionservice-appleid.apple.com.securepage.org
 sucrm.netflix-suspenso.com
 sulphonal.paypal-transaction-secure.info
+support-metamask-cdn-io.webflow.io
 support-netflixx.com
 support.apple.app-online.live
 support.apple.com
@@ -1696,6 +1698,7 @@ windows-experts-nl06t.click
 windows-experts-sg06.click
 windows-experts-uk06.click
 windows-experts-uko06.click
+windows-experts-uso06.click
 windows-for-house-13012.click
 windows-heros.bond
 windows-qpz.top
@@ -1726,6 +1729,7 @@ www.linkedin.com
 www.microsoft.design
 www.netflix-uaexclusive.com
 www.oni-sbc.com
+www.pagina.pro
 www.paypal.com
 www.sbc-25.com
 www.steamcommunity.wallpaperengineshared.com
