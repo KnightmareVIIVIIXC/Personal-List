@@ -1,7 +1,5 @@
 ## 🔵 Sources 🔵
 
-https://filterlists.com/
-
 https://firebog.net/
 
 https://github.com/AdguardTeam/HostlistsRegistry/
@@ -15,8 +13,6 @@ https://github.com/cbuijs/ut1/
 https://github.com/hagezi/dns-blocklists/
 
 https://github.com/infinitytec/blocklists/
-
-https://github.com/jarelllama/
 
 https://github.com/MetaMask/eth-phishing-detect/
 
