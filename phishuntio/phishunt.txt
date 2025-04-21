@@ -54,6 +54,7 @@
 144-2-5-144.fwd.paypal-transaction-secure.info
 153892-coinbase.com
 185721-coinbase.com
+201372-coinbase.com
 252fblog.xincaijingyulechengbocaizhuce.netflix-security.de
 2fa.help-73872-coinbase.com
 2iwa.netflix-suspenso.com
@@ -195,7 +196,6 @@ apples-care-service9p5.vercel.app
 apples-service-care.vercel.app
 apples-service-care6p1.vercel.app
 applezed-clone.netlify.app
-apply-for-blue-badge-subscription-2025.vercel.app
 apply-review-7rjip.ondigitalocean.app
 arnon-facebook.vercel.app
 asa.account-check-netflix.com
@@ -219,11 +219,9 @@ bankofamericaa.net
 baoliyu.worldbbf.netflix-seguro.com
 barclay.vercel.app
 barclaysait.cc
-bbva-mexico.top
 binance-helpline.com
 binance-pi.vercel.app
 binance-support.tech
-binance-vip.top
 binance.bey-dev.mixh.jp
 brdkeyci.auracom.netflix-seguro.com
 c2metadata.netflix-security.de
@@ -330,7 +328,6 @@ dintesa.net
 dispenser.netflix-security.de
 dl-client107.dropbox.netflix-bills.com
 dl.dropboxusercontent.com
-docbaohaymoingay.site.fecebook.cfd
 docs-metamassk-llogi.godaddysites.com
 docs.google.com
 doppler-brandschutz.paypal-transaction-secure.info
@@ -353,7 +350,6 @@ ed492fbe.gcp.netflix-security.de
 effective-waddle-verify-tick-facebook.vercel.app
 electrored.netflix-suspenso.com
 emaar.netflix-bills.com
-email-microsoft.com
 en.netflix-security.de
 enforcementadcraftpro-tau.vercel.app
 es-bbva.acceso-secure.es
@@ -403,9 +399,7 @@ facebookrecreation.webflow.io
 facebooks-supost-helpp.ubpages.com
 fanfiction.netflix-security.de
 fbjs.netflix-suspenso.com
-fecebook.cfd
 fhxlbqra.auracom.netflix-seguro.com
-flat-quill-wide.on-fleek.app
 fodr4-sto1.paypal-transaction-secure.info
 foinfodr4-sto1.paypal-transaction-secure.info
 foinfoinfodr4-sto1.paypal-transaction-secure.info
@@ -447,6 +441,7 @@ glassdooronline.paypal-transaction-secure.info
 google-ads-local-2973.xyz
 google-elbw.lol
 google-fogs.lol
+google-isk3.lol
 google-knee.lol
 google-pax.lol
 google-pay.net
@@ -470,7 +465,6 @@ help-extenion-coinbase.webflow.io
 helps-secure-coinbase-extnn.webflow.io
 hjsqvkbi.netflix-seguro.com
 holo.beta.leia.app.amazon.dev
-home-conbase-verification.18-119-109-104.cprapid.com
 homestarpro.com
 hotels.netflix-security.de
 hotspot.netflix-security.de
@@ -680,7 +674,6 @@ m.euwedev.paypal-transaction-secure.info
 m.evdenevenakliyat-618.paypal-transaction-secure.info
 m.f2.netflix-suspenso.com
 m.facebook.me-reviewing.digital
-m.facebook.waverista.com
 m.fanfiction.netflix-security.de
 m.fbjs.netflix-suspenso.com
 m.fotossl.netflix-bills.com
@@ -984,7 +977,6 @@ metamaskloginormetamask.godaddysites.com
 metamaskloug-us4.godaddysites.com
 metamaskrectify.com
 metamssk-luggiinn.godaddysites.com
-metrovet.co.ke
 mettamask-logsin-86uk.godaddysites.com
 micrasoft-onedrive.com
 microsoft-alpha.vercel.app
@@ -1136,6 +1128,7 @@ play-google.rest
 plusdetoiles.paypal-transaction-secure.info
 pochtabank.paypal-user-id999.netflix-suspenso.com
 pop3.amazon-rds-assets.xyz
+portal--coinbasepro-samss-ako.webflow.io
 portal.account-check-netflix.com
 portal.account-netflix-be.com
 portal.netflix-seguro.com
@@ -1143,7 +1136,6 @@ portfolio-metamask-io.firebaseapp.com
 postinfractionadzone-tau.vercel.app
 ppv.netflix-suspenso.com
 pr.euwedev.paypal-transaction-secure.info
-pro.coinbase-web3.com
 pro.netflix-bills.com
 processitau.vercel.app
 prod.ftl.netflix-bills.com
@@ -1177,7 +1169,6 @@ replace-your-old-windows-fast-0402.click
 replacement-windows-1.click
 repoupdater.ddns.net
 resultados.netflix-security.de
-review-coinbase.serveftp.com
 rewards.netflix-seguro.com
 riot.netflix-bills.com
 rms.si-ang.netflix-bills.com
@@ -1331,6 +1322,7 @@ spotify-avaliativo.shop
 spotify-clone-luigi-iossa.netlify.app
 spotify-clone-site.netlify.app
 spotify-login-clone.netlify.app
+spotify-world.tech
 spotifylogin.vercel.app
 spotifypay1533-001-site1.qtempurl.com
 spotifypremium.net
@@ -1479,8 +1471,6 @@ steam.communityartworkfiles.com
 steam.suzhouren.cn
 steamcommunity-bless.com
 steamcommunity.com
-steamconmunllty.com
-steamcoummuniity.com
 steamcrux.com
 steammcommunuity.com
 stest-sso-int.netflix-bills.com
@@ -1530,6 +1520,7 @@ trustwalletcenter.com
 tt.netflix-bills.com
 twitter-announcements.paypal-transaction-secure.info
 twitter-auth.paypal-transaction-secure.info
+twitter-bot.shop
 twitter-cl.vercel.app
 twitter-guide.paypal-transaction-secure.info
 twitter-trend.netflix-suspenso.com
@@ -1612,6 +1603,7 @@ windows-19001.bond
 windows-19103.bond
 windows-19163.bond
 windows-19764.bond
+windows-20089.bond
 windows-20903.bond
 windows-21090.bond
 windows-21096.click
@@ -1625,6 +1617,7 @@ windows-24480.bond
 windows-24659.bond
 windows-252.click
 windows-25450.click
+windows-26029.bond
 windows-26450.bond
 windows-26551.click
 windows-27317.bond
@@ -1654,6 +1647,7 @@ windows-37371.bond
 windows-38228.bond
 windows-39251.click
 windows-39566.bond
+windows-39986.bond
 windows-40118.bond
 windows-40991.bond
 windows-41247.bond
@@ -1678,6 +1672,7 @@ windows-48191.bond
 windows-48304.bond
 windows-48518.click
 windows-48699.bond
+windows-50402.bond
 windows-50562.bond
 windows-506.click
 windows-50774.bond
@@ -1700,7 +1695,10 @@ windows-62043.bond
 windows-62133.click
 windows-62534.click
 windows-64451.bond
+windows-64598.bond
+windows-66640.bond
 windows-68111.click
+windows-69261.bond
 windows-69519.bond
 windows-69717.bond
 windows-69762.bond
@@ -1760,6 +1758,7 @@ windows-93111.bond
 windows-93177.bond
 windows-94445.bond
 windows-95212.click
+windows-95267.bond
 windows-95550.bond
 windows-96112.bond
 windows-96280.bond
@@ -1780,6 +1779,7 @@ windows-experts-uso06.click
 windows-for-house-13012.click
 windows-heros.bond
 windows-qpz.top
+windows-renovation-quotes1478.xyz
 windows-replace-usa1.click
 windows-replacement-allsearchtd.store
 windows-replacement-met-sas1.click
@@ -1789,9 +1789,7 @@ witter-auth.paypal-transaction-secure.info
 wittercadence.paypal-transaction-secure.info
 wmcuoqdpbxm.sarchive.netflix-security.de
 worldbbf.netflix-seguro.com
-ws-0c0bb46ca0d910482.wss.paypal-transaction-secure.info
 wss.paypal-transaction-secure.info
-ww25.acesso-ita.pontos-app.club
 ww25.cn.netflix-com.co
 ww38.837024-coinbase.com
 ww38.comww38.rcv-coinbase.com
@@ -1806,7 +1804,6 @@ www.filesusr.com
 www.google.com
 www.google.com.vn
 www.it-outlookwebaccess.com
-www.m.facebook.waverista.com
 www.microsoft.design
 www.oni-sbc.com
 www.paypal.com
@@ -1814,7 +1811,7 @@ www.recoveryinstagram.com
 www.sbc-25.com
 www.wej95.com
 www.youremotejobs.com
-www.zitw0.com
+www3-vpass-jp.szltzl.com
 www4.tau-abenteuerbett.de
 www4.twitte.de
 wwww.netflix-bills.com
