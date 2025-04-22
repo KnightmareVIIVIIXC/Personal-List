@@ -66,7 +66,6 @@
 548295-coinbase.com
 582097-coinbase.com
 61-sakaicon-com.netflix-suspenso.com
-618124-coinbase.com
 6380maxunavail.netflix-seguro.com
 752821coinbase.com
 762359-coinbase.com
@@ -176,7 +175,6 @@ app1.habengut.com
 app1.oceantg.com
 apple-ai.vercel.app
 apple-phi.vercel.app
-apple-replica2.netlify.app
 apple.app-online.live
 apple.aqnzww.com
 apple.care-products-online.com
@@ -188,7 +186,6 @@ apple.pndvw.com
 apple.saumyasaurabh.com
 apple.smafgc.com
 apple.support.com-inc-l.us
-apple.tadetek.com
 apple.tea-tickfair.com
 apple.xmxyzx.com
 apple1.top
@@ -202,6 +199,7 @@ apples-service-care.vercel.app
 apples-service-care6p1.vercel.app
 applezed-clone.netlify.app
 apply-review-7rjip.ondigitalocean.app
+arid.aoeklg.sbs
 arnon-facebook.vercel.app
 asa.account-check-netflix.com
 asesoriabarrachina.es
@@ -224,9 +222,7 @@ bankofamericaa.net
 baoliyu.worldbbf.netflix-seguro.com
 barclay.vercel.app
 barclaysait.cc
-binance-helpline.com
 binance-pi.vercel.app
-binance-support.tech
 binance.bey-dev.mixh.jp
 bitcb-tlform.net
 brdkeyci.auracom.netflix-seguro.com
@@ -253,7 +249,6 @@ coinbase-event.vercel.app
 coinbase-pro-login25.godaddysites.com
 coinbase-pro-sign-in.company.site
 coinbase-serv8.com
-coinbase-verification.143-198-59-151.cprapid.com
 coinbase-verification.68-183-53-102.cprapid.com
 coinbase-verify.vercel.app
 coinbase-walet.me
@@ -319,12 +314,10 @@ correios-tracki4simxlt0kdqb.identite-numeriquenligne.com
 correios.illuviium.com
 correosels.top
 correosprepago.bnext.es
-correxs.top
 cvpn.account-check-netflix.com
 cx.metamask.cx
 d68.cceng.netflix-security.de
 d773d0a7-c7cd-4bc2-80d1-fe381b63082f.netflix-security.de
-dbva-mx.top
 dc-df1dfc83ec78.netflix-seguro.com
 dev.case-577658-coinbase.com
 dev.netflix-dual-subtitles.com
@@ -339,7 +332,6 @@ docs-metamassk-llogi.godaddysites.com
 docs.google.com
 doppler-brandschutz.paypal-transaction-secure.info
 dr4-sto1.paypal-transaction-secure.info
-drive.drive.google.com.authentication.sbs
 drive.google.com
 dropbox-debug.com
 dropbox.centralalabamawork.com
@@ -399,6 +391,7 @@ facebook-v2-urtheaman.vercel.app
 facebook-watch.pages.dev
 facebook-z5qe9.pagemaker.link
 facebook.me-reviewing.digital
+facebook.userid.live
 facebook2-by-rtn.vercel.app
 facebooklogin-eosin.vercel.app
 facebookrecreation.webflow.io
@@ -455,12 +448,10 @@ google-play.pics
 google-smog.lol
 google-ukr.lol
 google.aolonline.fddauth.shop
-google.com.authentication.sbs
 google.com.cannoli-siciliani.it
 google.com.wilo.luckystup-id.xyz
 google.login.fddauth.shop
 googleppcads.vercel.app
-googles.live
 gpt-netflix-67d49.firebaseapp.com
 graduate-work-app-instagram.vercel.app
 grammarlychat.netflix-security.de
@@ -526,7 +517,6 @@ intervank.com
 inventions-project-to-popular-facebook.vercel.app
 it-outlookwebaccess.com
 ita6.sfdc-3d0u2f.salesforce.com
-italy.cc.global.prod.fastly.net
 itau-colombia.com
 itbu.shop
 ivewww.apple.us-maps.live
@@ -566,6 +556,7 @@ klarnaa.netflix-bills.com
 klarnai.paypal-transaction-secure.info
 kpgnh.netflix-security.de
 l.ead.me
+lampbsssssscomcom.amazon-verifcompte.com
 lampbwww.sssssscomcom.amazon-verifcompte.com
 launchpad.netflix-bills.com
 lca1-uc-edge01b.paypal-transaction-secure.info
@@ -1007,7 +998,6 @@ mserz6o.paypal-transaction-secure.info
 msf-chat.m3.netflix-security.de
 music-spellgw.yst.netflix-security.de
 my.netflix-seguro.com
-myaccount.drive.google.com.authentication.sbs
 myoffice.netflix-seguro.com
 nalozhka.paypal-user-id999.netflix-suspenso.com
 netflix-bills.com
@@ -1323,7 +1313,6 @@ spotify-avaliativo.shop
 spotify-clone-luigi-iossa.netlify.app
 spotify-clone-site.netlify.app
 spotify-login-clone.netlify.app
-spotify-world.tech
 spotifylogin.vercel.app
 spotifypay1533-001-site1.qtempurl.com
 spotifypremium.net
@@ -1379,7 +1368,6 @@ ssm.verify-apple.com-info.io
 ssnext.netflix-bills.com
 sspaper.login.my-dropbox.com
 sssamazon-verifcompte.comssscom.amazon-verifcompte.com
-sssarchive.netflix-security.de
 ssscolissimo-livraison.com.amazon-verifcompte.com
 ssscomcom.amazon-verifcompte.com
 ssscomssscom.amazon-verifcompte.com
@@ -1792,17 +1780,15 @@ wwechampions.netflix-suspenso.com
 www.amazonro.cloud
 www.bbva.com
 www.dropbox.com
+www.dynadot.com
 www.filesusr.com
 www.google.com
 www.google.com.vn
-www.icloud.com
 www.it-outlookwebaccess.com
 www.microsoft.design
 www.oni-sbc.com
 www.paypal.com
-www.recoveryinstagram.com
 www.sbc-25.com
-www.wej95.com
 www.youremotejobs.com
 www4.tau-abenteuerbett.de
 www4.twitte.de
