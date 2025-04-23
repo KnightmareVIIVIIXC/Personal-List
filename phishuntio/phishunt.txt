@@ -68,6 +68,7 @@
 61-sakaicon-com.netflix-suspenso.com
 6380maxunavail.netflix-seguro.com
 752821coinbase.com
+7ab2iaweepuchoofeebo.www.instagram.com.login.jmz.ir
 819788-coinbase.com
 87-coffeebreak.netflix-bills.com
 881279coinbase.com
@@ -130,7 +131,6 @@ amazon-responsive-clone-p8p9.vercel.app
 amazon-three-nu.vercel.app
 amazon-trial.acl360.io
 amazon-ui-clone-zeta.vercel.app
-amazon-v2-f1g8whwsa-imsrs3.vercel.app
 amazon-verifcompte.comssscom.amazon-verifcompte.com
 amazon.ajanjairam.in
 amazon.awsapp.dog
@@ -169,7 +169,6 @@ app-metamask.godaddysites.com
 app1.externatovilamea.com
 app1.habengut.com
 app1.oceantg.com
-appfacturation-netflix.com
 apple-ai.vercel.app
 apple-phi.vercel.app
 apple.app-online.live
@@ -177,11 +176,9 @@ apple.aqnzww.com
 apple.care-products-online.com
 apple.com-info.io
 apple.cs-dada.com
-apple.ecaki-randa.com
 apple.institutdukarite.com
 apple.iusg-nju.com
 apple.pndvw.com
-apple.safe-d-ride.com
 apple.saumyasaurabh.com
 apple.smafgc.com
 apple.tea-tickfair.com
@@ -567,7 +564,6 @@ list-opensea.io
 livefr0.netflix-seguro.com
 livewww.apple.us-maps.live
 lllgtwww.infuranet-faucet.metamask.cx
-logigmetamaskkii.godaddysites.com
 login-facebook-ten.vercel.app
 login-faxplus-outlook.com
 login-instagram-project.vercel.app
@@ -1068,7 +1064,6 @@ old-spotify.vercel.app
 omserz6o.paypal-transaction-secure.info
 onyx-joyous-ant.glitch.me
 oogle.to
-open-spotify.bond
 open-spotify.top
 org.paypal-transaction-secure.info
 outlook-secure.vercel.app
@@ -1446,6 +1441,7 @@ steam.suzhouren.cn
 steamcommunity-bless.com
 steamcommunity.com
 steamcrux.com
+steamprofiler.net
 stest-sso-int.netflix-bills.com
 stores.netflix-security.de
 stores.netflix-seguro.com
@@ -1715,7 +1711,6 @@ windows-83539.bond
 windows-84076.bond
 windows-841.click
 windows-86449.click
-windows-876.click
 windows-87837.click
 windows-885.click
 windows-88963.bond
@@ -1763,11 +1758,13 @@ wmcuoqdpbxm.sarchive.netflix-security.de
 worldbbf.netflix-seguro.com
 wss.paypal-transaction-secure.info
 ww25.cn.netflix-com.co
+ww38.10239959-coinbase.com
 ww38.837024-coinbase.com
 ww38.comww38.rcv-coinbase.com
 ww38.rcv-coinbase.com
 ww7.payments-vaid-amazn.com
 wwechampions.netflix-suspenso.com
+www.a3lanat-google.one
 www.amazonro.cloud
 www.bbva.com
 www.dropbox.com
