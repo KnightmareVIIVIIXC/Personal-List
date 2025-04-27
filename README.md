@@ -1,6 +1,6 @@
 <div align=center>
 
-## 🔴🟠🟡🟢🔵🟣 Sources 🟣🔵🟢🟡🟠🔴
+## Sources
 
 https://firebog.net/
 
