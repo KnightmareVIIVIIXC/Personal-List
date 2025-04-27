@@ -44,7 +44,6 @@
 2fa.help-73872-coinbase.com
 2iwa.netflix-suspenso.com
 335295-coinbase.com
-548295-coinbase.com
 582097-coinbase.com
 61-sakaicon-com.netflix-suspenso.com
 6380maxunavail.netflix-seguro.com
@@ -58,7 +57,6 @@ a.82190-coinbase.com
 a.help-73872-coinbase.com
 a.support-netflixx.com
 a25-digital4d.paypal-transaction-secure.info
-a6f18a63-c94c-4df4-8b12-4d76ad7f1d3b.apple-location-id.us
 aacfc970-e3af-46b8-9ae0-46015eb91280.netflix-security.de
 aamazons.shop
 account-netflix-be.comclientesvpn.account-netflix-be.com
@@ -122,7 +120,6 @@ amazon.fr.videoprimemtns.com
 amazon.fr.videoprimenlcs.com
 amazon.selectedtodaybnxo.quest
 amazon.selectedtodayieaf.monster
-amazon.selectedtodayyscr.quest
 amazon.selectedtodayywdr.monster
 amazon.wondergadgetsaesi.click
 amazon.wondergadgetsampv.quest
@@ -175,6 +172,7 @@ auth-netfix-restore.com
 autoconfig.yield-coinbase.com
 autorenterapi.netflix-seguro.com
 avec-coinbase.comparomax.com
+aviso-binance.com
 awebrtc.netflix-suspenso.com
 awpombeg.auracom.netflix-seguro.com
 aws.netflix-security.de
@@ -214,7 +212,6 @@ coinbase-walet.me
 coinbase.0sx.us
 coinbase.paypal-transaction-secure.info
 coinbase8729.zendesk.com
-coinbaseguide.com
 coinbaselist.netflix-seguro.com
 coinbaselogindesk.blogspot.com
 coinbasepr04.godaddysites.com
@@ -261,7 +258,6 @@ connbase-pro_usa.godaddysites.com
 connect.account-netflix-be.com
 consent.google.com
 console.amazon.awsapp.dog
-contact.metamask.wallet.li
 content-supplier-campaign-manager.adev.netflix-suspenso.com
 contestations.quv.paypal-transaction-secure.info
 copy-instagram-teal.vercel.app
@@ -410,6 +406,7 @@ https-metamask-loziin.godaddysites.com
 i.marcofacebook.com
 illgtinfuranet-faucet.metamask.cx
 illgtwww.infuranet-faucet.metamask.cx
+imfresscomwww.com.amazon-verifcompte.com
 ineed-jp.netflix-seguro.com
 infodr4-sto1.paypal-transaction-secure.info
 infoinfodr4-sto1.paypal-transaction-secure.info
@@ -441,7 +438,6 @@ instagram-seven-iota.vercel.app
 instagram-v2-jet.vercel.app
 instagram-v3-mocha.vercel.app
 instagram.archive.com.im
-instagram.com.reeldiqrpocmntvgshmtb2aw5on2.sajy.ir
 instagram.ossamaelidrissi.com
 instagramg.vercel.app
 instagramhelp.azurewebsites.net
@@ -509,7 +505,6 @@ list-opensea.io
 livefr0.netflix-seguro.com
 livewww.apple.us-maps.live
 lllgtwww.infuranet-faucet.metamask.cx
-lnstagram-baiitouts.co.uk
 login-facebook-ten.vercel.app
 login-faxplus-outlook.com
 login-instagram-project.vercel.app
@@ -537,7 +532,6 @@ m.airbnbthreads.netflix-security.de
 m.airfare.netflix-seguro.com
 m.am.netflix-security.de
 m.amazon.selectedtodaygtxh.monster
-m.amazon.selectedtodayyscr.quest
 m.amazon.selectedtodayywdr.monster
 m.amazon.wondergadgetsampv.quest
 m.anyconnect.account-check-netflix.com
@@ -829,6 +823,7 @@ meta-for-business-support-facebook-page-geogria1.ubpages.com
 meta_mask-log-inus.godaddysites.com
 metaamask-logg.godaddysites.com
 metamak-logen.godaddysites.com
+metamask-defi.top
 metamask-us_logxn.godaddysites.com
 metamask-webassist.com
 metamask-zendesk-logg.godaddysites.com
@@ -836,7 +831,6 @@ metamask.io-1s2r.albarrak.com.sa
 metamasklogin-communityplatfor.godaddysites.com
 metamaskloginorlogin.godaddysites.com
 metamaskloginormetamask.godaddysites.com
-metamaskloug-us4.godaddysites.com
 metamssk-luggiinn.godaddysites.com
 mettamask-logsin-86uk.godaddysites.com
 micrasoft-onedrive.com
@@ -947,6 +941,7 @@ paypal.signinaccounts.com
 paypalaccountscure.paypal-transaction-secure.info
 paypaldealsfinder.netflix-seguro.com
 paypaldotcomsucks.paypal-transaction-secure.info
+paypali.top
 paypalloginin-usa.blogspot.ae
 paypalloginin-usa.blogspot.be
 paypalloginin-usa.blogspot.ca
@@ -1121,7 +1116,6 @@ solar-windows-87166.bond
 solar-windows-99760.bond
 spaypal-notification.netflix-security.de
 spaypal-service-confirmation.netflix-security.de
-spotifiy.org
 spotifty-login-page-clone.vercel.app
 spotify-02.vercel.app
 spotify-avaliativo.shop
