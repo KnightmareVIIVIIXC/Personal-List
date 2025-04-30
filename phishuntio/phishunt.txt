@@ -93,9 +93,7 @@ app-bbva.deutsche-bank-reaktivierung.de
 app-bbva.verificacionsegura.app
 app-metamask.godaddysites.com
 app1.externatovilamea.com
-app1.habengut.com
 apple-ai.vercel.app
-apple-encontrar.info
 apple-phi.vercel.app
 apple.app-online.live
 apple.care-products-online.com
@@ -141,6 +139,7 @@ brdkeyci.auracom.netflix-seguro.com
 c2metadata.netflix-security.de
 cceng.netflix-security.de
 cceng.netflix-seguro.com
+ccnjxwww.veoypufa.netflix-seguro.com
 cdek.paypal-user-id999.netflix-suspenso.com
 centr.hrlp-nettflix.com:10000
 china-google.net
@@ -209,7 +208,6 @@ copy-instagram-teal.vercel.app
 corp.paypal-transaction-secure.info
 correios-tracki4simxlt0kdqb.identite-numeriquenligne.com
 correios.illuviium.com
-correos.media
 correosaduanas.info
 correosels.top
 correosprepago.bnext.es
@@ -451,12 +449,10 @@ linkedin-signin.vercel.app
 linkedinrealestatenetworking.paypal-transaction-secure.info
 linkedintoprofits.netflix-security.de
 list-opensea.io
-live-find-apple.info
 live0utlook.liveblog365.com
 livefr0.netflix-seguro.com
 livewww.apple.us-maps.live
 lllgtwww.infuranet-faucet.metamask.cx
-location-live-apple.info
 login-facebook-ten.vercel.app
 login-faxplus-outlook.com
 login-outlook-liveauth.com
@@ -777,7 +773,6 @@ metamssk-luggiinn.godaddysites.com
 mettamask-logsin-86uk.godaddysites.com
 micrasoft-onedrive.com
 microsoft-alpha.vercel.app
-microsoft-hk3.xyz
 microsoft-meet.com
 microsoft-office-one-time-purchase-us-en-2265598.zone
 microsoft-office.0-dong.com
@@ -817,7 +812,6 @@ netflix-clone-teal-phi.vercel.app
 netflix-clone-ten-alpha.vercel.app
 netflix-clone-two-opal.vercel.app
 netflix-clone-youtube-psi.vercel.app
-netflix-customerpage.com
 netflix-customersreward.com
 netflix-devzero.vercel.app
 netflix-gpt-609e2.firebaseapp.com
@@ -928,7 +922,6 @@ rcadence.paypal-transaction-secure.info
 rdweb.log-amazon2.com
 react-apple-clone.netlify.app
 react-firebase-instagram-web-clone-21u9.vercel.app
-react-netflix-ochre.vercel.app
 react-next-js-instagram-clone.vercel.app
 redditbizboost.netflix-suspenso.com
 remote.account-netflix-be.com
@@ -953,7 +946,6 @@ same-space-spotify-ashy.vercel.app
 sandbox-ug.paypal-transaction-secure.info
 sandbox-ug.www.paypal-transaction-secure.info
 sandbox.netflix-seguro.com
-sapple.com.appinfo.me
 sbermarket.paypal-user-id999.netflix-suspenso.com
 sbermegamarket.paypal-user-id999.netflix-suspenso.com
 sbhwtwwww.yahoox.netflix-security.de
@@ -1192,9 +1184,7 @@ steam.archive.com.im
 steam.communityartworkfiles.com
 steam.suzhouren.cn
 steamcommunirtry.com
-steamcommunity-bless.com
 steamcommunity.com
-steamcrux.com
 storage.googleapis.com
 stores.netflix-security.de
 stores.netflix-seguro.com
@@ -1288,7 +1278,6 @@ wechat.netflix-security.de
 welfqntg.auracom.netflix-seguro.com
 wellsfargo-usa.godaddysites.com
 wellsfargo.com-alert-id.r6i.xyz
-whitelistbackup-binance.com
 whm.amazon-verifcompte.com
 whm.valmark-co.netflix-security.de
 windows-0225-2.click
@@ -1515,6 +1504,7 @@ windows-replacement-met-sas3.click
 windows-replacement-us-2024.today
 witter-auth.paypal-transaction-secure.info
 wittercadence.paypal-transaction-secure.info
+wnajkcgvpbsm.comcomsemote.amazon-relay.com
 worldbbf.netflix-seguro.com
 wss.paypal-transaction-secure.info
 ww2.itau.cl
