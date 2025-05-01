@@ -39,7 +39,6 @@ ads-googler.shop
 ads.google.com
 ads.mcrosoft.it.com
 agtmvehw.auracom.netflix-seguro.com
-aibinance.top
 airbnb-booking-confirm.netflix-security.de
 airbnb-booking-confirm.netflix-seguro.com
 airbnb-login.paypal-transaction-secure.info
@@ -224,6 +223,7 @@ dc-df1dfc83ec78.netflix-seguro.com
 dev.case-577658-coinbase.com
 dev.netflix-dual-subtitles.com
 dev9b5.netflix-seguro.com
+developer.metamask.cx
 dex.binance.com.btc-eth.trade
 dichiarazione-binance.net
 dintesa.net
@@ -279,10 +279,10 @@ facebook-support-help711.ubpages.com
 facebook-theta.vercel.app
 facebook-v2-urtheaman.vercel.app
 facebook-watch.pages.dev
+facebook.aplicativoversao2024.com
 facebooklogin-eosin.vercel.app
 facebookrecreation.webflow.io
 facebooks-supost-helpp.ubpages.com
-facekook.site
 fanfiction.netflix-security.de
 fbjs.netflix-suspenso.com
 fekxpww38.amazon-store.cc
@@ -331,6 +331,7 @@ google-pay.net
 google-play.pics
 google-sucks.pro
 google-ukr.lol
+google-xau.lol
 google.aolonline.fddauth.shop
 google.com.cannoli-siciliani.it
 google.com.wilo.luckystup-id.xyz
@@ -349,6 +350,7 @@ holo.beta.leia.app.amazon.dev
 homestarpro.com
 hotels.netflix-security.de
 hotspot.netflix-security.de
+how-much-does-amazon-pay-their-warehouse-workers.sbs
 hsbcorsoemployer-mirror.wrkr.hk
 i-hate-google.pro
 i.marcofacebook.com
@@ -751,7 +753,6 @@ mastercardchampionship.netflix-seguro.com
 matamask-usaklog.godaddysites.com
 mcl-encryption.netflix-security.de
 mcq-media-01.iutnbbayprofile09.netflix-suspenso.com
-me-mettamask-logg.godaddysites.com
 mediaroom.netflix-seguro.com
 mefa-facebo0k.vercel.app
 megamind-dev.test.netflix-suspenso.com
@@ -767,7 +768,6 @@ metamask.io-1s2r.albarrak.com.sa
 metamasklogin-communityplatfor.godaddysites.com
 metamaskloginorlogin.godaddysites.com
 metamaskloginormetamask.godaddysites.com
-metamsk.vip
 metamssk-luggiinn.godaddysites.com
 mettamask-logsin-86uk.godaddysites.com
 micrasoft-onedrive.com
@@ -810,7 +810,6 @@ netflix-clone-teal-phi.vercel.app
 netflix-clone-ten-alpha.vercel.app
 netflix-clone-two-opal.vercel.app
 netflix-clone-youtube-psi.vercel.app
-netflix-customersreward.com
 netflix-devzero.vercel.app
 netflix-gpt-609e2.firebaseapp.com
 netflix-gpt-8e862.firebaseapp.com
@@ -839,7 +838,6 @@ next.netflix-security.de
 nextjs15-instagram.vercel.app
 ngkaxm.m3.netflix-security.de
 nk10.netflix-security.de
-notflix.deruwe.me
 npjrlecapkssec-test.metamask.cx
 nsg7-uc-edge01b.corp.paypal-transaction-secure.info
 nskffsfanfiction.netflix-security.de
@@ -911,6 +909,7 @@ public.netflix-security.de
 pvc-windows-0324.bond
 qa-connect.secure.evetest.wellsfargo.com:23612
 qm.netflix-seguro.com
+qowkqm.kayakfishnavarre.netflix-security.de
 r-auth.paypal-transaction-secure.info
 r-u-avmnxziiadreport.wc.netflix-suspenso.com
 r-u-cames2bb1vreport.wc.paypal-transaction-secure.info
@@ -1056,9 +1055,7 @@ spotifty-login-page-clone.vercel.app
 spotify-02.vercel.app
 spotify-avaliativo.shop
 spotify-clone-luigi-iossa.netlify.app
-spotify-clone-site.netlify.app
 spotify-login-clone.netlify.app
-spotify.eurolog.co.uk
 spotifylogin.vercel.app
 spotifypay1533-001-site1.qtempurl.com
 spotifypremium.net
@@ -1174,7 +1171,6 @@ sssssssverify-apple.com-info.io
 sssssverify-apple.com-info.io
 ssswwww.netflix-security.de
 sstage.netflix-security.de
-ssubscriptionservice-appleid.apple.com.securepage.org
 sswhm.valmark-co.netflix-security.de
 sswwww.netflix-security.de
 stage.netflix-seguro.com
@@ -1190,7 +1186,6 @@ stores.netflix-security.de
 stores.netflix-seguro.com
 studentsvpn.account-check-netflix.com
 studentsvpn.account-netflix-be.com
-subscriptionservice-appleid.apple.com.securepage.org
 sucrm.netflix-suspenso.com
 sulphonal.paypal-transaction-secure.info
 support-netflixx.com
@@ -1288,6 +1283,7 @@ windows-0324.click
 windows-03242.click
 windows-10374.bond
 windows-10769.bond
+windows-11-pro-us-en-6003457.live
 windows-11613.bond
 windows-11885.bond
 windows-12393.click
@@ -1343,7 +1339,6 @@ windows-32711.bond
 windows-332.click
 windows-33715.bond
 windows-33901.click
-windows-34671.bond
 windows-35832.bond
 windows-36253.bond
 windows-36400.bond
@@ -1513,7 +1508,6 @@ ww38.comww38.rcv-coinbase.com
 ww38.rcv-coinbase.com
 ww7.payments-vaid-amazn.com
 wwechampions.netflix-suspenso.com
-www.amazon-atsrelay.com
 www.amazonro.cloud
 www.dynadot.com
 www.filesusr.com
