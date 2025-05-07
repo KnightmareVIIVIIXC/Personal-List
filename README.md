@@ -4,8 +4,6 @@
 
 https://firebog.net/
 
-https://github.com/AdguardTeam/HostlistsRegistry/
-
 https://github.com/badmojr/1Hosts
 
 https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds/
