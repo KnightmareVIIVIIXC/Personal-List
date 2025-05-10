@@ -2,12 +2,10 @@
 417339-coinbase.com
 512430-coinbase.com
 6369e6ce-b917-4b86-8a05-60324db997f3.support-netflixx.com
-723892-coinbase.com
 780152-coinbase.com
 7ab2iaweepuchoofeebo.www.instagram.com.login.jmz.ir
 8x8careers.netflix-security.de
 aacfc970-e3af-46b8-9ae0-46015eb91280.netflix-security.de
-account.google.signin-login.com
 accounts.coinbasle.com
 admin.82190-coinbase.com
 admin.extension-wallet-metamask.com
@@ -54,6 +52,7 @@ amazon.awsapp.dog
 amazon.base.software
 amazon.co.jp.aomz.shop
 amazon.fr.videoprimenlcs.com
+amazon.saadat.app
 amazonclone-alpha.vercel.app
 amazonia-beta.vercel.app
 amazonkaclone.netlify.app
@@ -92,10 +91,11 @@ b80-vip.cceng.netflix-security.de
 barclay.vercel.app
 barclaysait.cc
 bbva-aopwqlwa4rfwjxqr.builder-preview.com
-bhwtwyahoox.netflix-security.de
 binance-pi.vercel.app
 binance.bey-dev.mixh.jp
 bitcb-tlform.net
+builds.dotnet.microsoft.com
+c0inbase-pro-logiin.godaddysites.com
 c2metadata.netflix-security.de
 cceng.netflix-security.de
 cgvpbsm.comcomsemote.amazon-relay.com
@@ -155,6 +155,7 @@ dispenser.netflix-security.de
 dl.dropboxusercontent.com
 docs-metamassk-llogi.godaddysites.com
 docs.google.com
+downloadfullfill.com
 drive.google.com
 dropbox-debug.com
 dropbox.slpbuys.com
@@ -180,6 +181,7 @@ facebook-clone-with-react-and-bootstrap.vercel.app
 facebook-clone1-nine.vercel.app
 facebook-login-clone-five.vercel.app
 facebook-loginpage-clone.vercel.app
+facebook-meta-whatssap-soportedecuenta.pagemaker.link
 facebook-orcin-kappa.vercel.app
 facebook-react-clone-react-project-2-q0hgf03522dr.vercel.app
 facebook-ruby.vercel.app
@@ -197,6 +199,7 @@ facebooks-supost-helpp.ubpages.com
 fakebook-mostofareza3.vercel.app
 fanfiction.netflix-security.de
 fc45179c-6af0-46e6-ae1c-ab3a7036de4c.es-mobile-netflix.com
+fixxdownload.com
 fsktcqdpbxm.sarchive.netflix-security.de
 ftl.netflix-security.de
 ftp.amazon-rds-assets.xyz
@@ -213,13 +216,12 @@ google-pay.net
 google-sucks.pro
 google-ukr.lol
 google-xau.lol
-google.com.cannoli-siciliani.it
 google.com.wilo.luckystup-id.xyz
 graduate-work-app-instagram.vercel.app
 grammarlychat.netflix-security.de
 graph.facebook.com.wilo.luckystup-id.xyz
 gtusesftp.amazon-verifcompte.com
-help.steamprocure.com
+helping-coinbase.com
 helps-secure-coinbase-extnn.webflow.io
 holo.beta.leia.app.amazon.dev
 home--page--coinbese-org.webflow.io
@@ -261,11 +263,9 @@ instagramz.vercel.app
 interbank.app
 inventions-project-to-popular-facebook.vercel.app
 it-outlookwebaccess.com
-ita.club-porno-sesso.com
 ita6.sfdc-3d0u2f.salesforce.com
 itau-bankbillu.top
 itau-colombia.com
-itaz.shop
 itemaps.log-amazon2.com
 jatos-particulares-0324.click
 jatos-particulares-03241.click
@@ -314,6 +314,7 @@ lllgtwww.infuranet-faucet.metamask.cx
 login-facebook-ten.vercel.app
 login-faxplus-outlook.com
 loginoutloo-verification-officee365.com
+lszkesitemap.netflix-security.de
 lszkewww.sitemap.netflix-security.de
 m.8x8careers.netflix-security.de
 m.aacfc970-e3af-46b8-9ae0-46015eb91280.netflix-security.de
@@ -405,7 +406,6 @@ m.yahoo-customerverification.netflix-security.de
 m3.netflix-security.de
 m3ins.azurewebsites.net
 mail-apple.located.live
-mailservers1-coinbase.com
 maps-google.cyou
 maps-google.icu
 mcl-encryption.netflix-security.de
@@ -426,6 +426,7 @@ metamaskloginormetamask.godaddysites.com
 metamaskwallett.blogspot.com
 metamssk-luggiinn.godaddysites.com
 mettamask-logsin-86uk.godaddysites.com
+mfacebooks.com.vn
 microsoft-alpha.vercel.app
 microsoft-meet.com
 microsoft-office-one-time-purchase-gb-en-5155057.zone
@@ -435,6 +436,7 @@ microsoft.secnsure.xyz
 microsoft.sn-secure.xyz
 microsoftauthenticator.net
 microsofts.email
+microsoftsuportt.byethost7.com
 motamask-us-anlog.godaddysites.com
 msf-chat.m3.netflix-security.de
 music-spellgw.yst.netflix-security.de
@@ -510,14 +512,16 @@ ngkaxm.m3.netflix-security.de
 nnsjusssm.emote.amazon-relay.com
 npjrlecapkssec-test.metamask.cx
 nskffsfanfiction.netflix-security.de
+ntflix-x.com
 office-outlook-verify.com
 office365-english.net
 okuorjira.amazon-relay.com
 onyx-joyous-ant.glitch.me
-opensea-nftclaim15-psi.vercel.app
+opensea-drop.firebaseapp.com
+opensea-liveclaims.web.app
 outlook-secure.vercel.app
 outlookoffice365.xyz
-pagina.pro
+paiementnetflix.com
 patricioadm-project-nextjs-netflix-clone.vercel.app
 payoneeradultsponsors.netflix-security.de
 paypal-servece.blogspot.com
@@ -532,7 +536,6 @@ paypalloginin-usa.blogspot.co.il
 paypalloginin-usa.blogspot.com
 paypalloginin-usa.blogspot.com.ar
 paypalloginin-usa.blogspot.com.eg
-paypalloginin-usa.blogspot.com.tr
 paypalloginin-usa.blogspot.cz
 paypalloginin-usa.blogspot.de
 paypalloginin-usa.blogspot.hu
@@ -568,7 +571,6 @@ replace-your-old-windows-fast-0402.click
 replacement-windows-1.click
 replacement-windows-20250422-5.click
 resultados.netflix-security.de
-rolb.santanderbank.com
 rsqchwebaccess.log-amazon2.com
 rxlcnlampbsssssscom.amazon-verifcompte.com
 sadmin.82190-coinbase.com
@@ -595,6 +597,7 @@ scrypto.82190-coinbase.com
 scsp.login.my-dropbox.com
 sdispenser.netflix-security.de
 secure-2fa-outlook.com
+secure-app-coinbasepros-x---cdn--auth.webflow.io
 sedo.com
 sellercentral.amazon.com
 servicingid2383.amzon-helper.net
@@ -769,8 +772,9 @@ steamcaommunity.com
 steamcommunity.com
 steamcommunitygift.com
 steamcommuurnity.com
-steamcomnmnunity.com
+steamconmunllty.com
 steamescommunity.com
+steammcommunuity.com
 steamshop.wallpapersenginelive.com
 stige-netflix-wheat.vercel.app
 storage.googleapis.com
@@ -1010,7 +1014,6 @@ windows-replace-usa1.click
 windows-replacement-allsearchtd.store
 windows-replacement-met-sas3.click
 windows-replacement-us-2024.today
-windows.direct
 wnajkcgvpbsm.comcomsemote.amazon-relay.com
 wp.es-mobile-netflix.com
 ww25.19024952-coinbase.com
@@ -1037,3 +1040,4 @@ yahoox.netflix-security.de
 yfvkvlivewww.apple.us-maps.live
 yiqafsatlassian.amazon-relay.com
 yiqafwww.satlassian.amazon-relay.com
+your-sso-coinbase-autth-m-auth.webflow.io
