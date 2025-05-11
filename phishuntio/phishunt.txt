@@ -1,6 +1,5 @@
 252fblog.xincaijingyulechengbocaizhuce.netflix-security.de
-417339-coinbase.com
-512430-coinbase.com
+472912-coinbase.com
 6199a356-a308-4c2f-a229-b90d571237e6.support-netflixx.com
 6369e6ce-b917-4b86-8a05-60324db997f3.support-netflixx.com
 7ab2iaweepuchoofeebo.www.instagram.com.login.jmz.ir
@@ -64,6 +63,9 @@ apple-ai.vercel.app
 apple-idevice-fmi.live
 apple-idlogin-fmi.live
 apple-phi.vercel.app
+apple.51hman.com
+apple.58meihui.com
+apple.bandaotyapp-web.com
 apple.care-products-online.com
 apple.com-info.io
 apple.padlockable-cam-locks.com
@@ -126,13 +128,11 @@ comcomadmin.auth-coinbase-trust.com
 comcomcomadmin.auth-coinbase-trust.com
 comimfresscomcom.amazon-verifcompte.com
 comm.sssscomcom.amazon-verifcompte.com
-community-metamask.io
 compte-netlflix-secur.com
 comsm.ssscomssscom.amazon-verifcompte.com
 comssscomssjira.amazon-relay.com
 comsssm.com.amazon-verifcompte.com
 comssssscolissimo-livraison.com.amazon-verifcompte.com
-comwhm.amazon-verifcompte.com
 comwww.admin.login-coinbase-secured.com
 connbase-pro_usa.godaddysites.com
 consent.google.com
@@ -197,7 +197,7 @@ facebookrecreation.webflow.io
 facebooks-supost-helpp.ubpages.com
 fakebook-mostofareza3.vercel.app
 fanfiction.netflix-security.de
-fc45179c-6af0-46e6-ae1c-ab3a7036de4c.es-mobile-netflix.com
+fix-windows-1057.shop
 fixxdownload.com
 fsktcqdpbxm.sarchive.netflix-security.de
 ftl.netflix-security.de
@@ -220,7 +220,6 @@ graduate-work-app-instagram.vercel.app
 grammarlychat.netflix-security.de
 graph.facebook.com.wilo.luckystup-id.xyz
 gtusesftp.amazon-verifcompte.com
-helping-coinbase.com
 helps-secure-coinbase-extnn.webflow.io
 holo.beta.leia.app.amazon.dev
 home--page--coinbese-org.webflow.io
@@ -303,6 +302,7 @@ le48.paris
 learn.amazon.com
 ledgerlive-appl.webflow.io
 letflix.im
+lgoogle.shop
 linkedin-signin.vercel.app
 linkedintoprofits.netflix-security.de
 list-opensea.io
@@ -395,7 +395,6 @@ m.twittermance.netflix-security.de
 m.valve9utkdr.netflix-security.de
 m.wc.netflix-security.de
 m.wechat.netflix-security.de
-m.whm.amazon-verifcompte.com
 m.xincaijingyulechengbocaizhuce.netflix-security.de
 m.xwe87.netflix-security.de
 m.yahoo-customerverification.netflix-security.de
@@ -407,6 +406,7 @@ maps-google.icu
 mcl-encryption.netflix-security.de
 mefa-facebo0k.vercel.app
 met-metamask-lgggininu.godaddysites.com
+meta-contact-facebook.ubpages.com
 meta-for-business-support-facebook-page-geogria1.ubpages.com
 meta_mask-log-inus.godaddysites.com
 metaamask-logg.godaddysites.com
@@ -416,6 +416,9 @@ metamask-sdk-examples-relink.vercel.app
 metamask-us_logxn.godaddysites.com
 metamask-zendesk-logg.godaddysites.com
 metamask.io-1s2r.albarrak.com.sa
+metamaskaextensioni.webflow.io
+metamaskaextensiono.webflow.io
+metamaskdcromeextension.webflow.io
 metamasklogin-communityplatfor.godaddysites.com
 metamaskloginorlogin.godaddysites.com
 metamaskloginormetamask.godaddysites.com
@@ -426,6 +429,7 @@ mfacebooks.com.vn
 microsoft-alpha.vercel.app
 microsoft-meet.com
 microsoft-office-one-time-purchase-gb-en-5155057.zone
+microsoft-tech.net
 microsoft.design
 microsoft.net.duti.me
 microsoft.secnsure.xyz
@@ -459,7 +463,6 @@ netflix-clone-youtube-psi.vercel.app
 netflix-devzero.vercel.app
 netflix-gpt-609e2.firebaseapp.com
 netflix-gpt-8e862.firebaseapp.com
-netflix-gpt.shreyanshshukla.me
 netflix-landing-page-pink.vercel.app
 netflix-lovat-sigma.vercel.app
 netflix-nine-plum.vercel.app
@@ -494,6 +497,7 @@ netflixb00027029.blogspot.no
 netflixb00027029.blogspot.pt
 netflixb00027029.blogspot.ro
 netflixb00027029.blogspot.se
+netflixclone.lol
 netflixcloneen.vercel.app
 netflixgpt-1-6f730.firebaseapp.com
 netflixgpt-66e93.firebaseapp.com
@@ -508,13 +512,11 @@ nmfrdydlqui.wcnv20.cn
 nnsjusssm.emote.amazon-relay.com
 npjrlecapkssec-test.metamask.cx
 nskffsfanfiction.netflix-security.de
-ntflix-plus.com
 ntflix-x.com
 office-outlook-verify.com
 office365-english.net
-okuorjira.amazon-relay.com
+official-authe-coinbasepro.webflow.io
 onyx-joyous-ant.glitch.me
-opensea-liveclaims.web.app
 outlook-secure.vercel.app
 outlookoffice365.xyz
 paiementnetflix.com
@@ -592,6 +594,7 @@ scomwww.com.amazon-verifcompte.com
 scrypto.82190-coinbase.com
 scsp.login.my-dropbox.com
 sdispenser.netflix-security.de
+secure--coinbasepro--auth--x---cdn.webflow.io
 secure-2fa-outlook.com
 secure-app-coinbasepros-x---cdn--auth.webflow.io
 sedo.com
@@ -602,7 +605,6 @@ sfanfiction.netflix-security.de
 sftl.netflix-security.de
 sftp.amazon-rds-assets.xyz
 sgrammarlychat.netflix-security.de
-sharefile8.pages.dev
 signin.microsoft.com.cerblos.ch
 sillgtinfuranet-faucet.metamask.cx
 sillgtwww.infuranet-faucet.metamask.cx
@@ -643,6 +645,7 @@ solar-windows-32292.bond
 solar-windows-33513.bond
 solar-windows-34086.bond
 solar-windows-36792.bond
+solar-windows-38726.bond
 solar-windows-38788.bond
 solar-windows-45804.bond
 solar-windows-53137.bond
@@ -703,6 +706,8 @@ ssm.ssssverify-apple.com-info.io
 ssm.ssverify-apple.com-info.io
 ssm.trusted-device-apple.com-info.io
 ssm.verify-apple.com-info.io
+sso---coinbasepro-w--cdn--auths.webflow.io
+sso--cdn-coinbasepro-r-aauth.webflow.io
 sso-auth.com
 sspaper.login.my-dropbox.com
 ssscomcom.amazon-verifcompte.com
@@ -725,7 +730,6 @@ sssscolissimo-livraison.com.amazon-verifcompte.com
 sssscomssscom.amazon-verifcompte.com
 sssscomwww.com.amazon-verifcompte.com
 sssscsp.login.my-dropbox.com
-ssssm.com.amazon-verifcompte.com
 ssssm.infuranet-faucet.metamask.cx
 ssssm.scim-stage.netflix-security.de
 ssssm.ssssssssportal.amazon-relay.com
@@ -768,6 +772,7 @@ steamcaommunity.com
 steamcommunity.com
 steamcommunitygift.com
 steamcommuurnity.com
+steamcomrmunity.com
 steamshop.wallpapersenginelive.com
 stige-netflix-wheat.vercel.app
 storage.googleapis.com
@@ -805,6 +810,7 @@ valve9utkdr.netflix-security.de
 vogoitauprallei-6942-git-main-clivecornnvs-projects.vercel.app
 vue-coinbase.vercel.app
 wc.netflix-security.de
+web-google-exodus.webflow.io
 wechat.netflix-security.de
 wellsfargo-usa.godaddysites.com
 wellsfargo.com-alert-id.r6i.xyz
@@ -905,6 +911,7 @@ windows-51260.click
 windows-5204.click
 windows-52507.click
 windows-54404.click
+windows-54439.bond
 windows-55045.bond
 windows-55493.bond
 windows-55798.click
@@ -933,7 +940,6 @@ windows-70918.bond
 windows-71143.bond
 windows-71501.bond
 windows-7160.click
-windows-72195.bond
 windows-72753.click
 windows-72917.click
 windows-73142.click
@@ -1013,7 +1019,6 @@ wp.es-mobile-netflix.com
 ww25.19024952-coinbase.com
 ww38.837024-coinbase.com
 ww7.payments-vaid-amazn.com
-www.apple.fhssxly.com
 www.filesusr.com
 www.google.com
 www.google.com.vn
@@ -1032,6 +1037,5 @@ xwe87.netflix-security.de
 yahoo-customerverification.netflix-security.de
 yahooliance.netflix-security.de
 yahoox.netflix-security.de
-yfvkvlivewww.apple.us-maps.live
 yiqafsatlassian.amazon-relay.com
 yiqafwww.satlassian.amazon-relay.com
