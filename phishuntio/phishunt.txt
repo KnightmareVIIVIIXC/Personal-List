@@ -31,11 +31,13 @@ amazon-ai.cc
 amazon-business-new.one
 amazon-ca.shop
 amazon-clon-website.vercel.app
+amazon-clone-8sode10qg-cpano98.vercel.app
 amazon-clone-alpha-five.vercel.app
 amazon-clone-alpha-sable-28.vercel.app
 amazon-clone-ao-atanerortac.vercel.app
 amazon-clone-eight-xi.vercel.app
 amazon-clone-pi-three-25.vercel.app
+amazon-clone-puce.vercel.app
 amazon-clone-two-delta.vercel.app
 amazon-delta-sable.vercel.app
 amazon-first-project.vercel.app
@@ -50,6 +52,7 @@ amazon-responsive-clone-p8p9.vercel.app
 amazon-three-nu.vercel.app
 amazon-trial.acl360.io
 amazon-ui-clone-zeta.vercel.app
+amazon-v2-f1g8whwsa-imsrs3.vercel.app
 amazon-verifcompte.comssscom.amazon-verifcompte.com
 amazon-verifcompte.comwhm.amazon-verifcompte.com
 amazon.account-update.amazon.co.jp.aomz.shop
@@ -66,6 +69,7 @@ apple-idlogin-fmi.live
 apple-login-com.info.cronos.vip
 apple-phi.vercel.app
 apple-with-bootstrap.netlify.app
+apple.appleaiprooftw.com
 apple.com-info.io
 apple.stavebni-mechanizace.com
 apple.windowsdot.com
@@ -97,18 +101,15 @@ barclaysait.cc
 bbva-aopwqlwa4rfwjxqr.builder-preview.com
 betflix-bet7.com
 binance-pi.vercel.app
-binance-tax.info
 binance-us.info
 binance-us.net
 binance.bey-dev.mixh.jp
-binancs.pro
 bitcb-tlform.net
 builds.dotnet.microsoft.com
 c0inbase-pro-logiin.godaddysites.com
 c2metadata.netflix-security.de
 cceng.netflix-security.de
 ceinbase-pro-logn.godaddysites.com
-cgvpbsm.comcomsemote.amazon-relay.com
 china-google.net
 coiinbase-pro-logn.godaddysites.com
 coin.82190-coinbase.com
@@ -149,6 +150,7 @@ connbase-pro_usa.godaddysites.com
 consent.google.com
 copy-instagram-teal.vercel.app
 correosprepago.bnext.es
+cqpsysitemap.netflix-security.de
 cqpsywww.sitemap.netflix-security.de
 crypto.82190-coinbase.com
 d68.cceng.netflix-security.de
@@ -159,7 +161,6 @@ dichiarazione-binance.net
 dintesa.net
 dispenser.netflix-security.de
 dl.dropboxusercontent.com
-dns.google
 docs-metamassk-llogi.godaddysites.com
 docs.google.com
 downloadfullfill.com
@@ -171,9 +172,7 @@ dsp.amazon-logistics.com
 dsp39zk4r2-pages-dev.translate.goog
 ecapkwww.ssec-test.metamask.cx
 effective-waddle-verify-tick-facebook.vercel.app
-en--sso--coinbasepro--cdn--oauth.webflow.io
 en.netflix-security.de
-eu2.contabostorage.com
 facebbook.vercel.app
 facebook-09097.blogspot.com
 facebook-116km.pagemaker.link
@@ -196,7 +195,7 @@ facebook-meta-whatssap-soportedecuenta.pagemaker.link
 facebook-orcin-kappa.vercel.app
 facebook-react-clone-react-project-2-q0hgf03522dr.vercel.app
 facebook-ruby.vercel.app
-facebook-support-help-981.ubpages.com
+facebook-security.vercel.app
 facebook-support-help711.ubpages.com
 facebook-theta.vercel.app
 facebook-v2-urtheaman.vercel.app
@@ -207,7 +206,6 @@ facebook2-by-rtn.vercel.app
 facebook365.shop
 facebooklogin-eosin.vercel.app
 facebookrecreation.webflow.io
-facebooks-security-center.vercel.app
 facebooks-supost-helpp.ubpages.com
 fakebook-mostofareza3.vercel.app
 fanfiction.netflix-security.de
@@ -215,7 +213,6 @@ financialqna.weebly.com
 fix-windows-1057.shop
 fixxdownload.com
 form-dichiarazione-binance.com
-fsktcqdpbxm.sarchive.netflix-security.de
 ftl.netflix-security.de
 ftp.amazon-rds-assets.xyz
 ftp.amazon-verifcompte.com
@@ -239,7 +236,6 @@ googll.store
 graduate-work-app-instagram.vercel.app
 grammarlychat.netflix-security.de
 graph.facebook.com.wilo.luckystup-id.xyz
-helps-secure-coinbase-extnn.webflow.io
 holo.beta.leia.app.amazon.dev
 homestarpro.com
 hotspot.netflix-security.de
@@ -250,6 +246,7 @@ i.marcofacebook.com
 iayjpsftp.amazon-verifcompte.com
 iayjpwww.sftp.amazon-verifcompte.com
 icloud.app-passwort.support
+insagram-psi.vercel.app
 instagram-beautygirls-publicationsparis.vercel.app
 instagram-build-one.vercel.app
 instagram-clone-1scecwb7o-mrsamia.vercel.app
@@ -332,6 +329,7 @@ live-chat-binance.com
 live0utlook.liveblog365.com
 lllgtwww.infuranet-faucet.metamask.cx
 login-facebook-ten.vercel.app
+login.microsoftonline.solbeg.co
 lszkesitemap.netflix-security.de
 lszkewww.sitemap.netflix-security.de
 m.aacfc970-e3af-46b8-9ae0-46015eb91280.netflix-security.de
@@ -366,7 +364,6 @@ m.sflab.netflix-security.de
 m.sillgtinfuranet-faucet.metamask.cx
 m.slllgtinfuranet-faucet.metamask.cx
 m.spaypal-notification.netflix-security.de
-m.spaypal-service-confirmation.netflix-security.de
 m.ssarchive.netflix-security.de
 m.sscom.amazon-verifcompte.com
 m.sscomssscom.amazon-verifcompte.com
@@ -398,7 +395,6 @@ m.wc.netflix-security.de
 m.wechat.netflix-security.de
 m.xincaijingyulechengbocaizhuce.netflix-security.de
 m.xwe87.netflix-security.de
-m.yahoo-customerverification.netflix-security.de
 m3.netflix-security.de
 m3ins.azurewebsites.net
 mail-apple.located.live
@@ -423,6 +419,7 @@ metimask-logiin29.godaddysites.com
 metimask-logiinyz.godaddysites.com
 mettamask-logsin-86uk.godaddysites.com
 meytamask-logiies.godaddysites.com
+mfacebooks.com.vn
 microsoft-meet.com
 microsoft-office-one-time-purchase-gb-en-5155057.zone
 microsoft.design
@@ -432,6 +429,7 @@ microsoftauthenticator.net
 microsofts.email
 microsoftsuportt.byethost7.com
 module-app11.pages.dev
+moiclouds-caryerco.cyou
 motamask-us-anlog.godaddysites.com
 msf-chat.m3.netflix-security.de
 music-spellgw.yst.netflix-security.de
@@ -537,9 +535,10 @@ paypalloginin-usa.blogspot.mk
 paypalloginin-usa.blogspot.my
 paypalloginin-usa.blogspot.si
 paypalloginin-usa.blogspot.sk
-pc.binancs.pro
 perfgm.ssscomssscom.amazon-verifcompte.com
+phahfsd4-tau.vercel.app
 platformsmo4.netflix-security.de
+play-google-games.pics
 play.google.help-com.info
 ponwvwww.amazon.fr.videoprimectrn.com
 portfolio-metamask-io.firebaseapp.com
@@ -597,7 +596,6 @@ shpnipm.atlassian.amazon-relay.com
 signin.microsoft.com.cerblos.ch
 sillgtinfuranet-faucet.metamask.cx
 sillgtwww.infuranet-faucet.metamask.cx
-sinfuranet-faucet.metamask.cx
 sitemap.amazon-verifcompte.com
 sitemaps.amazon-verifcompte.com
 sitemaps.extension-wallet-metamask.com
@@ -610,7 +608,6 @@ slszkewww.sitemap.netflix-security.de
 sm.paypal.com.ca.soask.me
 sm.sarchive.netflix-security.de
 sm.scim-stage.netflix-security.de
-sm.scomcom.amazon-verifcompte.com
 sm.sewechat.netflix-security.de
 sm.sscom.amazon-verifcompte.com
 sm.sscomssscom.amazon-verifcompte.com
@@ -727,7 +724,6 @@ sssssamazon-verifcompte.comssscom.amazon-verifcompte.com
 ssssscomcom.amazon-verifcompte.com
 ssssscomssscom.amazon-verifcompte.com
 ssssslivewww.apple.us-maps.live
-sssssm.ssssssssportal.amazon-relay.com
 sssssm.ssverify-apple.com-info.io
 sssssm.sverify-apple.com-info.io
 sssssm.verify-apple.com-info.io
@@ -749,12 +745,11 @@ sswwww.netflix-security.de
 starbuckstripleshot.netflix-security.de
 steam.archive.com.im
 steam.communityartworkfiles.com
-steamcommnnuity.com
 steamcommunity.com
-steamcomnunlity.com
-steamconmmunt1y.ru
 steamcoummuniity.com
+steamncommnuity.com
 steampowerednews.com
+stearncommunnity.com
 stores.netflix-security.de
 support-netflixx.com
 support-netflixx.coma.support-netflixx.com
@@ -783,7 +778,6 @@ validartucuenta.outlook.officemx.hstn.me
 valmark-co.netflix-security.de
 valve9utkdr.netflix-security.de
 verify-instagram.virusbaba.com
-verifyreport-binance.com
 voteinstagram127373.blogspot.com
 vue-coinbase.vercel.app
 wc.netflix-security.de
@@ -1008,15 +1002,16 @@ wnajkcgvpbsm.comcomsemote.amazon-relay.com
 wp.es-mobile-netflix.com
 wvklpftl.netflix-security.de
 ww25.19024952-coinbase.com
+ww25.dashboard.58196-coinbase.com
 ww25.ftp.17987429-coinbase.com
 ww38.837024-coinbase.com
 ww7.payments-vaid-amazn.com
-www.filesusr.com
 www.form-dichiarazione-binance.com
 www.fruits.co
 www.google.com
 www.google.com.vn
 www.googledocsdocumentviewer94030.notariaunicalaunion-valle.com.co
+www.iclouddsx.com
 www.it-outlookwebaccess.com
 www.microsoft.design
 www.pagina.pro
@@ -1024,7 +1019,6 @@ www.paypal.com
 www.www-icloud.vip
 www1.apple-encontrar.info
 www4.tau-abenteuerbett.de
-xapple.xyz
 xincaijingyulechengbocaizhuce.netflix-security.de
 xkbkhssssssscomcom.amazon-verifcompte.com
 xkbkhwww.ssssssscomcom.amazon-verifcompte.com
@@ -1034,4 +1028,3 @@ yahoo-customerverification.netflix-security.de
 yahooliance.netflix-security.de
 yahoox.netflix-security.de
 yiqafsatlassian.amazon-relay.com
-yiqafwww.satlassian.amazon-relay.com
