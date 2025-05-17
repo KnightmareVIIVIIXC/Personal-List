@@ -21,6 +21,7 @@ cadmv.gov-yrg.win
 cadmv.gov-zow.win
 correoargentino.com-are.win
 correoargentino.com-arr.win
+declaration-oss.github.io
 dmv-ca.gov-jgom.live
 dmv-ca.gov-kppy.live
 dmv-ca.gov-tpen.live
@@ -278,6 +279,7 @@ flhsmv.gov-hzr.vip
 gov-flw.win
 gov-tollsr.live
 labo-gjh0cqfdgkcef0fg.centralus-01.azurewebsites.net
+m.xn--49syf4g950m.com
 mt.gov-bdh.win
 mt.gov-fes.win
 mt.gov-fyz.win
@@ -290,6 +292,7 @@ mt.gov-sbr.win
 mt.gov-sbt.win
 mt.gov-sbu.win
 mt.gov-zly.win
+n365-admin.securegateway-access.com
 purolator.com-fge.top
 royal.deliverylocationvb.xin
 royal.deliverylocationvc.xin
