@@ -39,9 +39,6 @@ if __name__ == "__main__":
         "https://zonefiles.io/f/compromised/domains/live/compromised_domains_live.txt",
         "https://hosts.tweedge.net/malicious.txt",
         "https://github.com/xRuffKez/NRD/raw/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt",
-        "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-ACTIVE.txt",
-        "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-last-hour.txt",
-        "https://github.com/Phishing-Database/Phishing.Database/raw/master/phishing-domains-NEW-today.txt",
     ]
     all_domains = set()
     for url in urls:

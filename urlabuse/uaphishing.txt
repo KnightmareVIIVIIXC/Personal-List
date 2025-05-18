@@ -128,23 +128,6 @@ dubaipolice.gov-tollsez.live
 dubaipolice.gov-tollsoa.live
 dubaipolice.gov-tollsoc.live
 dubaipolice.gov-tollsoe.live
-dubaipolice.gov-tollson.live
-dubaipolice.gov-tollsor.live
-dubaipolice.gov-tollsou.live
-dubaipolice.gov-tollsov.live
-dubaipolice.gov-tollsox.live
-dubaipolice.gov-tollsoz.live
-dubaipolice.gov-tollsq.live
-dubaipolice.gov-tollst.live
-dubaipolice.gov-tollsu.live
-dubaipolice.gov-tollsvc.live
-dubaipolice.gov-tollsvx.live
-dubaipolice.gov-tollsvz.live
-dubaipolice.gov-tollsy.live
-dubaipolice.govonzea.live
-dubaipolice.govonzeo.live
-dubaipolice.govonzer.live
-dubaipolice.govonzes.live
 dubaipolice.govonzex.live
 e-zpass.com-aiwsb.live
 e-zpass.com-aiwsc.live
@@ -293,6 +276,7 @@ mt.gov-sbt.win
 mt.gov-sbu.win
 mt.gov-zly.win
 n365-admin.securegateway-access.com
+owa.cordblood.com
 purolator.com-fge.top
 royal.deliverylocationvb.xin
 royal.deliverylocationvc.xin
@@ -303,6 +287,8 @@ salik.ae-tollsxe.live
 sunpashlqy.cfd
 sunpashooh.cfd
 sunpashvmo.cfd
+support.voicemaker.store
+telegramlivevideos.pages.dev
 txdmv.aki-ahv.win
 txdmv.aki-gxt.win
 txdmv.aki-ihy.win
@@ -480,4 +466,3 @@ usps.com-processad.xin
 usps.com-szart.men
 usps.com-trsei.men
 usps.com-vista.men
-www.netfimarketing.com
