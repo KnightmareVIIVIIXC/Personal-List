@@ -72,6 +72,7 @@ apple-resposive--bootstrap.web.app
 apple-with-bootstrap.netlify.app
 apple.12378es.com
 apple.12378ge.com
+apple.arap-dz.com
 apple.com-info.io
 apple.windowsdot.com
 apple7.club
@@ -100,7 +101,6 @@ binance-pi.vercel.app
 binance-us.info
 binance-us.net
 binance.bey-dev.mixh.jp
-binance.module-aml.com
 binances.digital
 binancezj.com
 bitcb-tlform.net
@@ -138,7 +138,6 @@ comssscomssjira.amazon-relay.com
 comsssssscomcom.amazon-verifcompte.com
 comsssssscomwww.com.amazon-verifcompte.com
 comwww.admin.login-coinbase-secured.com
-confirm-meta-business-identity-by-git-6d8752-support-526319512.vercel.app
 consent.google.com
 copy-instagram-teal.vercel.app
 correosprepago.bnext.es
@@ -162,11 +161,11 @@ dropbox-debug.com
 dropbox-phone-support-us-en-6743050.zone
 dropbox.slpbuys.com
 drsangitareddy.com
-dsp.amazon-logistics.com
 dsp39zk4r2-pages-dev.translate.goog
 ecapkwww.ssec-test.metamask.cx
 effective-waddle-verify-tick-facebook.vercel.app
 en.netflix-security.de
+eralawww.c2metadata.netflix-security.de
 facebbook.vercel.app
 facebook-09097.blogspot.com
 facebook-116km.pagemaker.link
@@ -203,7 +202,6 @@ fakebook-mostofareza3.vercel.app
 fanfiction.netflix-security.de
 fix-windows-1057.shop
 fixxdownload.com
-form-dichiarazione-binance.com
 ftp.amazon-verifcompte.com
 ftp.regularizacao-netflix.com
 futuregroup-google-translator.360managed.com.au
@@ -220,7 +218,6 @@ google-ukr.lol
 google-workspace.lat
 google-xau.lol
 google.com.wilo.luckystup-id.xyz
-google.eebay.es
 googll.store
 graduate-work-app-instagram.vercel.app
 grammarlychat.netflix-security.de
@@ -313,7 +310,6 @@ live-chat-binance.com
 live0utlook.liveblog365.com
 lllgtwww.infuranet-faucet.metamask.cx
 login-facebook-ten.vercel.app
-lszkesitemap.netflix-security.de
 lszkewww.sitemap.netflix-security.de
 m.aacfc970-e3af-46b8-9ae0-46015eb91280.netflix-security.de
 m.admin.netflix-security.de
@@ -334,7 +330,6 @@ m.mcl-encryption.netflix-security.de
 m.metamask.cx
 m.netflixaccount-update1.netflix-security.de
 m.payoneeradultsponsors.netflix-security.de
-m.paypal.com.ca.soask.me
 m.scim-stage.netflix-security.de
 m.scom.amazon-verifcompte.com
 m.sec-test.metamask.cx
@@ -371,6 +366,7 @@ m3.netflix-security.de
 m3ins.azurewebsites.net
 mail-apple.located.live
 maps-appleids-com.click
+matamask.top
 mcl-encryption.netflix-security.de
 mefa-facebo0k.vercel.app
 met-metamask-lgggininu.godaddysites.com
@@ -381,7 +377,6 @@ metafacebook.infinityfreeapp.com
 metamak-logen.godaddysites.com
 metamask-sdk-examples-relink.vercel.app
 metamask-zendesk-logg.godaddysites.com
-metamaskk.top
 metamasklginei.webflow.io
 metamasklogin-communityplatfor.godaddysites.com
 metamaskloginorlogin.godaddysites.com
@@ -390,6 +385,7 @@ metamaskwallett.blogspot.com
 metamssk-luggiinn.godaddysites.com
 metimask-logiin29.godaddysites.com
 metimask-logiinyz.godaddysites.com
+microsoft-auth-network.cc
 microsoft-meet.com
 microsoft-office-one-time-purchase-gb-en-5155057.zone
 microsoft.design
@@ -480,7 +476,6 @@ nnsjusssm.emote.amazon-relay.com
 npjrlecapkssec-test.metamask.cx
 nskffsfanfiction.netflix-security.de
 office365-english.net
-offlceoutlookmaill.com
 onyx-joyous-ant.glitch.me
 opensea-market.net
 ossjoapi.login-coinbase-secured.com
@@ -493,7 +488,6 @@ payoneeradultsponsors.netflix-security.de
 paypal-com-com.byethost14.com
 paypal-help.mycialiszuri.com
 paypal-login.airsupplycompany.com
-paypal-rubrique-litige.info
 paypalloginin-usa.blogspot.ae
 paypalloginin-usa.blogspot.al
 paypalloginin-usa.blogspot.ca
@@ -544,7 +538,6 @@ rhcgassscomwww.com.amazon-verifcompte.com
 sadmin.netflix-security.de
 samazon-verifcompte.comssscom.amazon-verifcompte.com
 samazon.awsapp.dog
-same-space-spotify-ashy.vercel.app
 santander-info.net
 sbhwtwwww.yahoox.netflix-security.de
 sbhwtwyahoox.netflix-security.de
@@ -561,6 +554,7 @@ scomusted-device-apple.com-info.io
 scomwww.admin.login-coinbase-secured.com
 scomwww.com.amazon-verifcompte.com
 scrypto.82190-coinbase.com
+secure28283-coinbase.com
 sedo.com
 sellercentral.amazon.com
 ses-bbva.acceso-incidencia.com
@@ -703,7 +697,6 @@ starbuckstripleshot.netflix-security.de
 start-ledger-auths-apply.webflow.io
 steam.archive.com.im
 steam.communityartworkfiles.com
-steamcommnnuity.com
 steamcommunity.com
 steamconmmunuty.com
 steampowerednews.com
@@ -945,7 +938,6 @@ windows-replacement-1626393.live
 windows-replacement-allsearchtd.store
 windows-replacement-met-sas3.click
 windows-replacement-us-2024.today
-windowsdoors4u.co.uk
 wjjbwsssssssssscomcom.amazon-verifcompte.com
 wp.es-mobile-netflix.com
 wvklpftl.netflix-security.de
@@ -956,14 +948,11 @@ ww25.support.58196-coinbase.com
 ww38.837024-coinbase.com
 ww7.payments-vaid-amazn.com
 www.apple.ncttour.com
-www.cz-binance.org
-www.form-dichiarazione-binance.com
 www.fruits.co
 www.google.com
 www.google.com.vn
 www.googledocsdocumentviewer94030.notariaunicalaunion-valle.com.co
 www.it-outlookwebaccess.com
-www.metamaskk.top
 www.microsoft.design
 www.paypal.com
 www.www-icloud.vip
