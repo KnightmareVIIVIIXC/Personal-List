@@ -32,8 +32,6 @@ https://github.com/WilliDieEnte/BetterBlocklist/
 
 https://ipthreat.net/
 
-https://lookup.phishfort.com/
-
 https://www.spamhaus.org/
 
 #
