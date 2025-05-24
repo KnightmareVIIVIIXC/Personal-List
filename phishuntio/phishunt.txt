@@ -53,6 +53,7 @@ amazon.fr.videoprimenlcs.com
 amazon.jp-busisnelsas.bonappetitchefs.com
 amazonclone-alpha.vercel.app
 amazonclone-one-gules.vercel.app
+amazone-clone-with-next-js.vercel.app
 amazonkaclone.netlify.app
 app-metamask.godaddysites.com
 apple-ai.vercel.app
@@ -114,6 +115,7 @@ coinbase-event.vercel.app
 coinbase-pro-sign-in.company.site
 coinbase-update.verfyinfect.shop
 coinbase-verify.vercel.app
+coinbase.accountsettings.app
 coinbase.assets-help.com
 coinbase_por_logni.godaddysites.com
 coinbase_prologinn.godaddysites.com
@@ -136,10 +138,12 @@ correosprepago.bnext.es
 cqpsysitemap.netflix-security.de
 crypto.82190-coinbase.com
 dev.netflix-dual-subtitles.com
+device.microsoftdocscloudportal.com
 dichiarazione-binance.net
 dintesa.net
 dl.dropboxusercontent.com
 docs-metamassk-llogi.godaddysites.com
+docs.amazon-relay.com
 docs.google.com
 downfileex.com
 downloadfullfill.com
@@ -194,6 +198,7 @@ googll.store
 graduate-work-app-instagram.vercel.app
 grammarlychat.netflix-security.de
 graph.facebook.com.wilo.luckystup-id.xyz
+growforwardz-tau.vercel.app
 holo.beta.leia.app.amazon.dev
 homestarpro.com
 hsytgm.tindermaven.netflix-security.de
@@ -304,9 +309,10 @@ metafacebook.infinityfreeapp.com
 metamak-logen.godaddysites.com
 metamask-sdk-examples-relink.vercel.app
 metamaskwallett.blogspot.com
+metamassk.pages.dev
+metamoask-wallet.webflow.io
 metimask-logiin29.godaddysites.com
 metimask-logiinyz.godaddysites.com
-microsoft-meet.com
 microsoft.design
 microsoft.secnsure.xyz
 microsoftauthenticator.net
@@ -315,8 +321,8 @@ microsoftsuportt.byethost7.com
 module-app11.pages.dev
 motamask-us-anlog.godaddysites.com
 msf-chat.m3.netflix-security.de
+my-hsbc2z.ink
 najhim.scomssscom.amazon-verifcompte.com
-netflix-build-mridul28.vercel.app
 netflix-by-shwy.vercel.app
 netflix-clone-007.vercel.app
 netflix-clone-api-platform.vercel.app
@@ -349,7 +355,6 @@ netflix-one-ochre.vercel.app
 netflix-page-chi.vercel.app
 netflix-sable.vercel.app
 netflix-sepia-one.vercel.app
-netflix-squid-game-trip.com
 netflix-ui-clone-self.vercel.app
 netflix-zeta-azure.vercel.app
 netflix.adhi.live
@@ -412,7 +417,6 @@ scomm.sssscomcom.amazon-verifcompte.com
 scomsssssscomcom.amazon-verifcompte.com
 scomusted-device-apple.com-info.io
 scrypto.82190-coinbase.com
-secure-394022-coinbase.com
 sedo.com
 sellercentral.amazon.com
 seralac2metadata.netflix-security.de
@@ -420,7 +424,6 @@ seralawww.c2metadata.netflix-security.de
 ses-bbva.acceso-incidencia.com
 session-timeout-file-access-tokenexp.netlify.app
 sevd.next.netflix-security.de
-sharefile8.pages.dev
 shpnipm.atlassian.amazon-relay.com
 signin.microsoft.com.cerblos.ch
 sites.google.com
@@ -451,7 +454,6 @@ solar-windows-93723.bond
 solar-windows-93871.bond
 solar-windows-98369.bond
 sossjoapi.login-coinbase-secured.com
-sp.zhabite.com
 spaypal.com.ca.soask.me
 spotify-02.vercel.app
 spotify-clone-luigi-iossa.netlify.app
@@ -475,6 +477,7 @@ ssm.comusted-device-apple.com-info.io
 ssm.sscomssscom.amazon-verifcompte.com
 ssm.sssscomcom.amazon-verifcompte.com
 ssm.wc.netflix-security.de
+sso--en-coinbasepro--cdn--auth-cdn.webflow.io
 sso-auth.com
 ssossjoapi.login-coinbase-secured.com
 ssqwepam.ssscomcom.amazon-verifcompte.com
@@ -483,7 +486,6 @@ ssscomsssssscomcom.amazon-verifcompte.com
 ssscomwww.com.amazon-verifcompte.com
 ssslaxymwhm.amazon-relay.com
 ssslivewww.apple.us-maps.live
-ssslllgtinfuranet-faucet.metamask.cx
 sssm.com.amazon-verifcompte.com
 sssm.comcom.amazon-verifcompte.com
 sssm.infuranet-faucet.metamask.cx
@@ -513,21 +515,26 @@ sswhm.amazon-prize-draw.com
 starbuckstripleshot.netflix-security.de
 steam.archive.com.im
 steamcommunity.com
+steamcommunl1ty.com
 superfreightloginmicrosoftonlineservices.huaao-optical.com
 swjjbwsssssssssscomcom.amazon-verifcompte.com
 sxkbkhwww.ssssssscomcom.amazon-verifcompte.com
 sxwe87.netflix-security.de
+sylzx.asia
 the-netflix-clone.vercel.app
 tinting-car-windows-us8393.click
 traffico-ita-m.geogeo.club
+trustwallet.studio
 tsihrewq333.pages.dev
 twitter-cl.vercel.app
 twitter.town
 two4x7-apples-helps-lines.onrender.com
+unbouncepages.com
 us.coinbase.msbe.cc
 use-vyntr-instead-of-google.pro
 validartucuenta.outlook.officemx.hstn.me
 valve9utkdr.netflix-security.de
+verification-id8377-apple.wel.com.py
 verify-instagram.virusbaba.com
 voteinstagram127373.blogspot.com
 vue-coinbase.vercel.app
@@ -537,8 +544,6 @@ whm.amazon-prize-draw.com
 whm.amazon-verifcompte.com
 windows-0225-2.click
 windows-0225.click
-windows-0226-1.click
-windows-0226.click
 windows-0306.click
 windows-0324.click
 windows-03242.click
@@ -716,10 +721,13 @@ www.microsoft.design
 www.paypal.com
 www.www-icloud.vip
 www1.accounts-appl.us
+www1.accuont-google.com
 www1.apple-encontrar.info
 www1.apple-lbr.com
 www1.apple-telefonumu-bul.info
+www1.gpsgoogle.pro
 www1.soportegoogle.pro
+www1.support-google.pro
 www1.vvebsite-appl.us
 www3.twister-dani.de
 www4.tau-abenteuerbett.de
