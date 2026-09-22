@@ -1,6 +1,6 @@
 !
 ! Title: Max Bad Domains List
-! Last modified: 2026-09-21T23:38:10.870Z
+! Last modified: 2026-09-22T00:16:28.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
