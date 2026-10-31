@@ -1,6 +1,6 @@
 !
 ! Title: Max Bad Domains List
-! Last modified: 2026-10-31T23:24:23.973Z
+! Last modified: 2026-10-31T23:44:15.701Z
 !
 ! Rules: 519769
 !
