@@ -1,8 +1,8 @@
 !
 ! Title: Max Bad Domains List
-! Last modified: 2026-11-24T03:39:46.099Z
+! Last modified: 2026-11-24T03:54:53.895Z
 !
-! Rules: 649973
+! Rules: 650005
 !
 ||0--4.com^
 ||0--d.com^
@@ -51,6 +51,7 @@
 ||0-xv-3i5.ru^
 ||0-zone.com^
 ||0.000.bar^
+||0.232.205.92.host.secureserver.net^
 ||0.beer^
 ||0.cantdown.su^
 ||0.club^
@@ -2663,6 +2664,7 @@
 ||10-casino.net^
 ||10-download.com^
 ||10-forty.com^
+||10.185.202.64.host.secureserver.net^
 ||10.my^
 ||10.rallyad-server.net^
 ||10.ram-server.com^
@@ -8236,6 +8238,7 @@
 ||2206e990.griis.net^
 ||220913.xyz^
 ||220t.com^
+||221.37.167.72.host.secureserver.net^
 ||221.sub-70-214-164.myvzw.com^
 ||22101be88a.com^
 ||221041.ds.nac.net^
@@ -80346,6 +80349,7 @@
 ||api.windhill.co.uk^
 ||api.winemback.com^
 ||api.wipmania.com.stcus.ru^
+||api.wipmania.net^
 ||api.wkaceleradora.com^
 ||api.wmmaquinasindustriais.com.br^
 ||api.wootric.com.herokudns.com^
@@ -91644,6 +91648,7 @@
 ||aws-controltower-logs-637423470708-us-east-2.s3.us-east-2.amazonaws.com^
 ||aws-controltower-s3-access-logs-637423470708-us-east-2.s3.us-east-2.amazonaws.com^
 ||aws-data.cloud^
+||aws-edge-10273753.io^
 ||aws-il.cloud^
 ||aws-ire-alb-net-pro-matomo-80-257676970.eu-west-1.elb.amazonaws.com^
 ||aws-join.cloud^
@@ -99411,6 +99416,10 @@
 ||benemaffec.cyou^
 ||beneon.hypstok.info^
 ||beneon1.hypstok.info^
+||beneon2.hypstok.info^
+||beneon3.hypstok.info^
+||beneon4.hypstok.info^
+||beneon5.hypstok.info^
 ||benestimazza.com^
 ||benetaeu-group.com^
 ||benetgames.cat^
@@ -137012,6 +137021,7 @@
 ||cloudzync.me^
 ||cloufdtf.com^
 ||cloused-flow.site^
+||clousesacehardware.screenconnect.com^
 ||cloutcolossal.com^
 ||cloutgratergreatest.com^
 ||clouven.click^
@@ -139870,6 +139880,7 @@
 ||cold-water6.lom5terax.in.net^
 ||cold.icecreamxpress.com^
 ||cold.runiya.click^
+||cold5.gofile.io^
 ||coldairperu.com.pe^
 ||coldbalance.com^
 ||coldbet.fr^
@@ -177852,6 +177863,7 @@
 ||documentapproved.click^
 ||documentaryangerabed.com^
 ||documentationsurveillance.com^
+||documentazione.siap.cloud^
 ||documentbase.net^
 ||documenten-identifiez-vous.firebaseapp.com^
 ||documenten-identifiez-vous.web.app^
@@ -210416,6 +210428,7 @@
 ||filetyrspace.com^
 ||fileunique.com^
 ||fileunlckr.com^
+||fileupdates.blob.core.windows.net^
 ||fileupload.shop^
 ||fileuploadcash.com^
 ||fileuploader.info^
@@ -261191,6 +261204,7 @@
 ||hp.gcafe.vn^
 ||hp.gf^
 ||hp.hubs.vn^
+||hp.hyperseqk.icu^
 ||hp.j9vnfc.casa^
 ||hp.jenni.ai^
 ||hp.lc^
@@ -270061,6 +270075,7 @@
 ||importedplay.com^
 ||importedpolice.com^
 ||importenptoc.com^
+||importexportsgenius.com^
 ||importlocate.com^
 ||importperuseinextricable.com^
 ||importsnode.com^
@@ -295072,6 +295087,8 @@
 ||kpkqvqjvypgog.site^
 ||kpkslot138.co^
 ||kplaclk.com^
+||kplks.hypstok.info^
+||kplkss.hypstok.info^
 ||kplusd.far.ru^
 ||kplzvizvsqrh.com^
 ||kpmka.highereducationshopping.com^
@@ -359303,6 +359320,7 @@
 ||movecreators.live^
 ||moveddomainc.com^
 ||movedmensing.com^
+||moveeros.com^
 ||movefreeadvancedsettlement.com^
 ||movefreeleg.com^
 ||movegym.mom^
@@ -367376,6 +367394,7 @@
 ||nbdcj.com^
 ||nbdfjgdjfgjrjdfgdfgrdfg-4653.twil.io^
 ||nbdgqzqexcpvn.online^
+||nbdkdajf234.xyz^
 ||nbdpbxkf.top^
 ||nbdtk.sokolovelaw.com^
 ||nbdysfxadsfji.website^
@@ -441635,6 +441654,7 @@
 ||relay.ngtv.io^
 ||relay.rameng.com.au^
 ||relay.reelxgrab.cc^
+||relay.rolmasrong.online^
 ||relay.rottne.com^
 ||relay.southatlantic.bank^
 ||relay.stephcompares.com^
@@ -460530,6 +460550,7 @@
 ||scopateitaliane.it^
 ||scope-whatsapp.com^
 ||scope3.com^
+||scope68.com^
 ||scopefile.com^
 ||scopelight.com^
 ||scopemarkets.com^
@@ -472709,6 +472730,7 @@
 ||servoauth2.live^
 ||servojocote.com^
 ||servote.de^
+||servoxs.com^
 ||servpaulapro.paulacunha.com.br^
 ||servpaulaprov2.paulacunha.com.br^
 ||servr.hurom.com^
@@ -480292,6 +480314,7 @@
 ||shandongfleet.com^
 ||shandongjushi.com^
 ||shandongnfc.com^
+||shandysip.com^
 ||shanechkalik.qpon^
 ||shanejones.shop^
 ||shangdu.com^
@@ -484266,6 +484289,7 @@
 ||sinia.ru^
 ||siniavzv.life^
 ||sinifyfimble.qpon^
+||sinirbconsultingllc.screenconnect.com^
 ||sinisesper.cyou^
 ||sinisgeron.cyou^
 ||sinisterblare.com^
@@ -511729,6 +511753,8 @@
 ||soso.fixiow.icu^
 ||sosoa.fixiow.icu^
 ||sosoa1.fixiow.icu^
+||sosoa2.fixiow.icu^
+||sosoa3.fixiow.icu^
 ||sosocr1.firebaseapp.com^
 ||sosocr1.web.app^
 ||sosodesktop.com^
@@ -534793,6 +534819,7 @@
 ||static.zbcdn.net^
 ||static.ziffdavis.com^
 ||static.zng.com^
+||static.zongheng.com^
 ||static.zorka.agency^
 ||static.zqwmedia.com^
 ||static0.lumier.jp^
@@ -568746,6 +568773,7 @@
 ||thegenerouschef.com^
 ||thegentlemenstore.de^
 ||thegift.live^
+||thegifthive.co.za^
 ||thegioibaove.com^
 ||thegioididong.io^
 ||thegioididong.store^
@@ -618736,6 +618764,7 @@
 ||web-logs.fz-juelich.de^
 ||web-mail-box.github.io^
 ||web-mail.free.fr.s-host.net^
+||web-managerautomationsetup.es^
 ||web-marketing.ai^
 ||web-maro-pina-whatsapp.com.cn^
 ||web-martianwallet.io^
@@ -622928,6 +622957,7 @@
 ||whisperquartzforge.info^
 ||whispershackerrecovery.com^
 ||whisppostd.store^
+||whispragency.com^
 ||whistle88.com^
 ||whistledam.com^
 ||whistledwifeeverywhere.com^
@@ -627684,6 +627714,7 @@
 ||wrightelectric.shop^
 ||wrightgrid.com^
 ||wrightsmedia.com^
+||wrightwaysocial.screenconnect.com^
 ||wrigleyctn.cyou^
 ||wriizixfbdovb.space^
 ||wrimapkteapt.com^
@@ -645341,6 +645372,7 @@
 ||zenithrandenca-fr.online^
 ||zenithrandenca.net^
 ||zenithrendivex.net^
+||zenithsgroupadvisor.com^
 ||zenithsparek.store^
 ||zenithsspark.shop^
 ||zenithstorm95.sbs^
